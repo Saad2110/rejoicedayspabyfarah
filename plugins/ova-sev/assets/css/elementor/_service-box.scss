@@ -1,0 +1,62 @@
+.ova-service-box-elementor {
+	display: grid;
+	grid-gap: 30px;
+
+	&.two_column{
+		grid-template-columns: 1fr 1fr;
+		@media(max-width: 767px){
+			grid-template-columns: auto;
+		}
+	}
+
+	&.three_column{
+		grid-template-columns: 1fr 1fr 1fr;
+		@media(max-width: 991px){
+			grid-template-columns: 1fr 1fr;
+		}
+		@media(max-width: 767px){
+			grid-template-columns: auto;
+		}
+	}
+
+	&.four_column{
+		grid-template-columns: 1fr 1fr 1fr 1fr;
+		@media(max-width: 1200px){
+			grid-template-columns: 1fr 1fr 1fr;
+		}
+		@media(max-width: 991px){
+			grid-template-columns: 1fr 1fr;
+		}
+		@media(max-width: 767px){
+			grid-template-columns: auto;
+		}
+	}
+
+	&.five_column{
+		grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+		@media(max-width: 1200px){
+			grid-template-columns: 1fr 1fr 1fr;
+		}
+		@media(max-width: 991px){
+			grid-template-columns: 1fr 1fr;
+		}
+		@media(max-width: 767px){
+			grid-template-columns: auto;
+		}
+	}
+
+	&.six_column{
+		grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+		@media(max-width: 1200px){
+			grid-template-columns: 1fr 1fr 1fr;
+		}
+		@media(max-width: 991px){
+			grid-template-columns: 1fr 1fr;
+		}
+		@media(max-width: 767px){
+			grid-template-columns: auto;
+		}
+	}
+
+
+}

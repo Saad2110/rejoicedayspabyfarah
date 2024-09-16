@@ -1,0 +1,295 @@
+.ova-testimonial{
+
+    text-align: center;
+
+    .slide-for {
+
+        @media (max-width: 767px) {
+        	display: none;
+        }
+
+    	.slick-track {
+    		display: inline-block;
+    		margin: 0;
+    		padding-top: 5px;
+    		width: auto !important;
+    		transform: translate3d(0px, 0px, 0px) !important;
+    	}
+    	
+        .small-img {
+        	position: relative;
+        	display: flex;
+        	justify-content: center;
+        	align-items: center;
+        	margin-bottom: 20px;
+	    	img{
+	    		position: relative;
+	    		z-index: 1;
+				display: block;
+				width: 72px;
+				height: 72px;
+				margin: 0 20px;
+				object-fit: cover;
+				border-radius: 50%;
+			}
+	    }
+
+	    .slick-current {
+	    	.name-job{
+                display: block;
+	    	}
+    		.small-img {
+    			&:after {
+					position: absolute;
+					left: 50%;
+					top: 50%;
+					transform: translate(-50%,-50%); 
+					content: "";
+					width: 82px;
+					height: 82px;
+					border-radius: 50%;
+					background-color: #fff;
+					border: 1px solid var(--primary);
+				}
+    		}
+    	}
+
+    	.name-job{
+    		display: none;
+			.name{
+				margin: 0 0 5px 0;
+				font-family: var(--secondary-font);
+				font-size: 18px;
+				line-height: 1.2;
+				font-weight: 400;
+				color: var(--heading);
+			}
+			.job{
+				margin: 0;
+				font-size: 12px;
+				font-weight: 500;
+				line-height: 1.2;
+				letter-spacing: 1px;
+				text-transform: uppercase;
+				color: var(--text);
+			}
+		}
+
+    }
+
+	.slide-testimonials{
+
+		&.slick-slider {
+			margin-bottom: 0;
+		}
+       
+		.client-info{
+			display: flex;
+			align-items: center ;
+			justify-content: center;
+			@media (max-width: 830px) {
+				flex-direction: column;
+			}
+
+			.info {
+                flex: 0 0 85%;
+                position: relative;
+                @media (max-width: 767px) {
+					flex: 0 0 100%;
+		        }
+
+				.icon-star{
+					margin-bottom: 30px;
+					i{
+						display: inline-flex;
+						font-size: 14px;
+						color: var(--primary);
+					}
+				}
+
+				p.ova-evaluate{
+					margin: 0;
+					font-family: var(--secondary-font);
+					font-size: 36px;
+					font-weight: 400;
+					color: var(--heading);
+					padding-bottom: 45px;
+					line-height: 1.5;
+					@media (max-width: 767px) {
+						font-size: 24px;
+						padding-bottom: 15px;
+			        }
+				}
+				
+				.name-job{
+					display: block;
+					.name{
+						margin: 0 0 5px 0;
+						font-family: var(--secondary-font);
+						font-size: 18px;
+						line-height: 1.2;
+						font-weight: 400;
+						color: var(--heading);
+					}
+					.job{
+						margin: 0;
+						font-size: 12px;
+						font-weight: 500;
+						line-height: 1.2;
+						letter-spacing: 1px;
+						text-transform: uppercase;
+						color: var(--text);
+					}
+				}		
+			}
+		}
+
+		.slick-prev, .slick-next {
+			@include transaction( all, 0.3s, ease);
+			display: inline-flex;
+			justify-content: center;
+			align-items: center;
+			bottom: unset;
+			z-index: 1;
+			
+			&:before {
+				@include transaction( all, 0.3s, ease);
+				font-family: 'ovaicon';
+				font-size: 32px;
+				color: var(--text);
+			}
+
+			&:hover {
+				@include transaction( all, 0.3s, ease);
+				&:before {
+					@include transaction( all, 0.3s, ease);
+					color: var(--primary);
+				}
+			}
+		}
+
+		.slick-prev {
+			left: -45px;
+			&:before {
+				content: "\f120";
+				line-height: 0;
+				color: var(--heading);
+			}
+
+		}
+
+		.slick-next {
+			right: -45px;
+			&:before {
+				content: "\f124";
+				color: var(--heading);
+				line-height: 0;
+			}
+
+		}
+
+		.slick-dots {
+			display: flex;
+			justify-content: center;
+			bottom: -30px;
+			list-style-type: none;
+			
+			li {
+				margin: 0 3px;
+				width: auto;
+				height: auto;
+				&.slick-active {
+					button {
+						opacity: 1;
+					}
+				}
+				button {
+					display: block;
+					width: 9px;
+					height: 9px;
+					padding: 0;	
+					background-color: var(--heading);
+					opacity: 0.3;
+					border: none;
+					border-radius: 50%;
+					text-indent: -9999px;
+				}
+			}	
+		}
+	}
+
+	&.version_2{
+
+		text-align: left;
+
+		.slide-testimonials {
+
+			.slick-list {    
+			    .slick-slide {
+				    margin: 15px;
+				}
+		  	}
+
+			.client-info {
+				
+				box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.05);
+
+				.info {
+					flex: 0 0 100%;
+					padding: 55px;
+					background-color: #fff;
+					@media (max-width: 460px) {
+						padding: 40px 30px;
+					}
+
+					.icon-quote {
+                    	position: absolute;
+                    	right: 50px;
+                    	@media (max-width: 460px) {
+							right: 30px;
+						}
+                    	i {
+                    		font-size: 32px;
+                    		color: var(--primary);
+                    		opacity: 0.2;
+                    	}
+                    }
+                    
+                    .icon-star {
+                    	margin-bottom: 15px;
+                    }
+
+					.info-avatar{
+						display: flex;
+						align-items: center;
+						column-gap: 20px; 
+						padding-top: 28px;
+
+						.small-img{	
+							img{
+								width: 70px;
+								height: 70px;
+								object-fit:cover;
+								border-radius: 50%;
+							}
+						}
+					}
+					
+					p{
+						&.ova-evaluate{
+							font-family: var(--primary-font);
+							font-size: 18px;
+							font-weight: 400;
+							color: var(--text);
+							word-spacing: 1px;
+							padding-bottom: 28px;
+							border-bottom: 1px solid rgb(240, 232, 232);
+						}
+					}
+				}
+			}
+			
+		}
+	}
+
+}

@@ -1,0 +1,105 @@
+.image-box{
+
+	&.template_1{
+		.ova-img{
+			display: flex;
+			justify-content: right;
+			padding-top: 70px;
+			padding-bottom: 70px;
+			padding-right: 70px;
+			position: relative;
+			@media( max-width: 767px) {
+				padding: 20px;
+			}
+
+			&:before{
+			    content: "";
+			    width: 500px;
+			    height: 100%;
+			    position: absolute;
+			    top: 0;
+			    right: 0;
+			    background: rgb(252, 245, 245);
+			    z-index: -1;
+
+			    @media( max-width: 767px) {
+					width: 85%;
+				}
+			}
+
+			img{
+				width: 500px;
+				min-height: 480px;
+				max-height: 480px;
+			    object-fit: cover;
+
+			    @media( max-width: 767px) {
+					width: auto;
+					min-height:auto;
+					max-height: auto;
+				}
+			}
+		}
+	}
+
+	&.template_2{
+    	display: flex;
+
+		.ova-img{
+			position: relative;
+			display: inline-flex;
+			height: auto;
+
+			img{
+			    object-fit: cover;
+			}
+			
+			.line{
+			    position: absolute;	
+			    background: var(--primary);
+			    content: "";
+			    width: 20px;
+			    height: calc(100% - 40px);
+			    transform: translate(0, 20px);
+			}
+
+			.line-left{
+				right: calc(100% );
+			}			
+
+			.line-right{
+				left: calc(100% );
+			}
+		}
+	}
+
+	&.template_3{
+		.ova-img{
+		    display: inline-flex;
+		    background-position: bottom left; 
+			background-repeat: no-repeat; 
+			background-size: contain;
+
+			background-image: url(./assets/img/elementor/background_image.png);
+			img{
+			    max-width: 534px;
+			    height: 534px;
+			    object-fit: cover;
+			    border-radius: 50% 50% 50% 50%;
+			    @media( max-width: 1200px) {
+					height: 434px;
+    				max-width: 434px;
+				}  
+				@media( max-width: 767px) {
+					height: 330px;
+    				max-width: 330px;
+				} 
+
+				@media( max-width: 350px) {
+					height: 280px;
+    				max-width: 280px;
+				}
+			}
+		}
+	}
+}

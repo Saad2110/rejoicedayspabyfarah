@@ -1,0 +1,54 @@
+// template3
+.ova-service-box-template3 {
+	&:hover {
+		.description {
+			transition: all .3s ease;
+			border-top: 1px solid var(--primary);
+		}
+	}
+	.img-service {
+		margin-bottom: 30px;
+		img {
+			display: block;
+			width: 100%;
+			height: 256px;
+			object-fit: cover;
+		}
+	}
+	.info {
+		.info-heading {
+			display: flex;
+			align-items: center;
+			justify-content: space-between;
+			gap: 25px;
+			.icon-title {
+				display: flex;
+				align-items: center;
+				gap: 25px;
+			}
+		}
+	}
+	.title {
+		margin: 0;
+		font-size: 22px;
+		font-weight: 400;
+	}
+	.icon {
+		font-size: 45px;
+		color: var(--primary); 
+	}
+	.book-button {
+		transform: rotate(-45deg);
+		i {
+			font-size: 20px;
+			color: var(--heading);
+			line-height: 1;
+		}
+	}
+	.description {
+		transition: all .3s ease;
+		margin: 25px 0 0 0;
+		padding: 25px 0 0 0;
+		border-top: 1px solid rgba(39, 37, 42, 0.10);
+	}
+}

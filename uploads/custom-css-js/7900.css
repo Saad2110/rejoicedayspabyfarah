@@ -1,0 +1,26 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* --------------------------------------Review  Tab------------------------------------*/
+.giftcard .woocommerce-tabs.wc-tabs-wrapper {
+    display: none;
+
+}
+.giftcard .wps_wgm_wrapper_for_preview {
+    margin: 15px 0;
+    width: 100%;
+    position: unset !important;
+    display: none;
+}
+.giftcard span.mwg_wgm_preview_email {
+    display: none;
+}
+.giftcard .product_meta {
+    display: none;
+}
+.giftcard div#pwgc-form-email-design {
+    display: none;
+}
+.giftcard .woocommerce-tabs.wc-tabs-wrapper {
+    display: none;
+}</style>
+<!-- end Simple Custom CSS and JS -->

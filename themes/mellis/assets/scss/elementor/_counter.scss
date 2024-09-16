@@ -1,0 +1,105 @@
+.ova-counter {
+	display: -webkit-flex;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+	align-items: center;
+	column-gap: 20px; 
+	row-gap: 15px;
+	position: relative;
+	&:hover {
+		.title {
+			@include transaction(all, 0.3s, ease);
+		}
+		.odometer {
+			@include transaction(all, 0.3s, ease);
+		}
+	}
+
+	.icon {
+		display: inline-flex;
+		justify-content: center;
+		align-items: center;
+		i{
+			font-size: 62px;
+			color: var(--primary);
+		}
+		svg {
+			width: 62px;
+			height: 62px;
+			path {
+				fill: var(--primary);
+			}
+		}
+	}
+
+	.odometer {
+		@include transaction(all, 0.3s, ease);
+		font-family: var(--secondary-font);
+		color: var(--heading); 
+		font-size: 60px; 
+		line-height: 1;
+	    font-weight: 400;
+	    vertical-align: baseline!important;
+
+		.odometer-formatting-mark {
+			display: none;
+		}
+		.odometer-inside {
+			line-height: 1;
+		}
+	}
+
+	.suffix {
+		font-family: var(--primary-font);
+		color: var(--heading);
+		font-size: 60px; 
+		line-height: 1;
+		font-weight: 500;
+	}
+
+	.title {
+		@include transaction(all, 0.3s, ease);
+		font-family: var(--primary-font);
+		margin: 0; 
+		font-size: 16px; 
+		line-height: 1.5;
+		color: var(--text);
+		font-weight: 500;  
+		white-space: pre-line;
+	}
+
+	.icon-star {
+		i {
+			font-size: 14px;
+			color: var(--primary);
+		}
+	}
+
+	// template2 
+    &.ova-counter-template2 { 
+        .odometer {
+            font-size: 24px;
+            font-weight: 700;
+        }
+        .suffix {
+            font-size: 24px;
+            font-weight: 700;
+        }
+        .title {
+        	font-weight: 600;
+            text-transform: uppercase;
+            padding-bottom: 5px;
+        }
+    }
+
+    // template3
+    &.ova-counter-template3 { 
+        .counter-content {
+        	display: flex;
+        	align-items: center;
+        	gap: 20px;
+        }
+    }
+
+}

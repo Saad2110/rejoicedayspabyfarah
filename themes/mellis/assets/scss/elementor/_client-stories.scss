@@ -1,0 +1,150 @@
+.ova-client-stories {
+	display: grid;
+	grid-gap: 30px;
+	grid-row-gap: 80px;
+	padding: 0;
+	margin: 0;
+
+	&.column1 {
+		grid-template-columns: 1fr;
+	}
+
+	&.column2 {
+		grid-template-columns: 1fr 1fr;
+	}
+
+	&.column3 {
+		grid-template-columns: 1fr 1fr 1fr;
+	}
+
+	@media screen and (max-width: 1024px) {
+		&.column3 {
+			grid-template-columns: 1fr 1fr;
+		}
+	}
+
+	@media screen and (max-width: 768px) {
+		&.column2, &.column3 {
+			grid-template-columns: 1fr;
+		}
+	}
+
+	.item-client-stories {
+		position: relative;
+		background-color: #fff;
+		padding: 80px 50px 50px 50px;
+		border: 1px solid rgb(240, 232, 232);
+		box-shadow: 0px 10px 60px 0px rgba(0, 0, 0, 0.05);
+		@media (max-width: 520px) {
+			padding: 80px 30px 40px 30px;
+		}
+
+		&:hover {
+	    	.mask {
+	    		transition: all 0.5s ease;
+	    		bottom: -120px;
+	    		opacity: 1; 
+	    	}
+	    }
+        
+		.client-img {
+			position: absolute;
+			top: -50px;
+			left: 50px;
+			border-radius: 50%;
+			display: block;
+			width: 100px;
+			height: 100px;
+			object-fit: cover;
+			@media (max-width: 520px) {
+				left: 30px;
+			}
+		}
+
+		.quote-icon {
+			position: absolute;
+			top: 10px;
+			left: 120px;
+			border-radius: 50%;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			width: 42px;
+			height: 42px;
+			background-color: var(--primary);
+			@media (max-width: 520px) {
+				left: 90px;
+			}
+			i {
+				display: inline-flex;
+				font-size: 18px;
+				color: #fff;
+			}
+		}
+
+		.client_info {
+			display: flex;
+			justify-content: space-between;
+			align-items: center;
+			flex-wrap: wrap;
+			row-gap: 12px;
+			padding-bottom: 24px;
+
+			.name {
+				position: relative;
+				z-index: 1;
+				margin: 0;
+				padding-right: 20px;
+				font-size: 24px;
+				font-family: var(--secondary-font);
+				font-weight: 400;
+				line-height: 1.3;
+				color: var(--heading);
+			}
+			.date {
+				margin: 0;
+				font-size: 10px;
+				font-weight: bold;
+				line-height: 1;
+				letter-spacing: 1px;
+				color: var(--heading);
+				background-color: #fcf5f5;
+				padding: 13px 20px;
+			}
+		}
+
+		.story {
+			margin: 0;
+			font-family: var(--secondary-font);
+			font-style: italic;
+			font-size: 18px;
+			color: var(--text);
+		}
+        
+        .mask-wrapper {
+        	position: absolute;
+        	overflow: hidden;
+	    	content: "";
+	    	width: 100%;
+	    	height: 100%;
+	    	left: 0;
+	    	top: 0;
+        }
+		.mask {
+	    	transition: all 0.5s ease;
+	    	position: absolute;
+	    	content: "";
+	    	width: 100%;
+	    	height: 100%;
+	    	right: -70px;
+	    	bottom: -150px;
+	    	opacity: 0;
+			background-position: bottom right;
+	        background-size: auto;
+	        background-repeat: no-repeat;
+	        opacity: 0;
+	    }
+
+	}
+
+}

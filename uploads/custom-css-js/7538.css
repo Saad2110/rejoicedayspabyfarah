@@ -1,0 +1,28 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+body > div.row_site{
+	    margin: 33px auto;
+}
+@media (min-width: 490px){
+	h2.woocommerce-loop-product__title {
+    height: 90px; 
+    overflow: hidden;
+    display: -webkit-box; 
+    -webkit-box-orient: vertical; 
+    -webkit-line-clamp: 2;
+    text-overflow: ellipsis; 
+    line-height: 1.2em;
+}
+}
+/*-----------------GIFT CARD Hide-----------------------------
+.woocommerce-shop .product-type-pw-gift-card {
+    display: none;
+}
+*/
+
+
+
+
+
+</style>
+<!-- end Simple Custom CSS and JS -->

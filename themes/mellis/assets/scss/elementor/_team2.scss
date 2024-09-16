@@ -1,0 +1,128 @@
+// Version 2
+.ova-team2-v2 {
+    @include transaction( all, 0.3s, ease);
+    position: relative;
+    padding: 28px;
+    padding-bottom: 22px;
+    text-align: center;
+    background-color: #fcf5f5;
+    margin-top: 80px;
+
+    .avatar {
+        display: flex;
+        background-color: #E2E2E2;
+        overflow: hidden;
+        margin-bottom: 27px;
+        position: relative;
+
+        margin-top: -80px;
+        >a{
+            width: 100%;
+        }
+
+        img{
+            height: 496px;
+            object-fit: cover;
+            width: 100%;
+            display: block;
+            @include transaction( all, 0.3s, ease);
+            -webkit-transform: scale3d(1, 1, 1);
+            transform: scale3d(1, 1, 1);
+            @media (max-width: 600px) {
+                height: auto;
+            }
+        }
+
+        .social-list {
+            @include transaction( all, 0.3s, ease);
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            margin: 0;
+            gap: 10px;
+
+            position: absolute;
+            bottom: 0;
+            left: 50%;
+            transform: translate(-50%, 0);
+            opacity: 0;
+            @media (max-width: 767px) {
+                opacity: 1;
+                bottom: 30px;
+            }
+
+            .social {
+                display: flex;
+                width: 40px;
+                height: 40px;
+                min-width: 40px;
+                align-items: center;
+                justify-content: center;
+                background-color: #ffffff;
+                border-radius: 50%;
+                
+
+                &:last-child {
+                    margin: 0;
+                }
+
+                i {
+                    @include transaction( all, 0.3s, ease);
+                    display: inline-flex;
+                    font-size: 14px;
+                    line-height: 1;
+                    vertical-align: middle;
+                    color: var(--heading);
+                }
+
+                &:hover {
+                    @include transaction( all, 0.3s, ease);
+                    background-color: var(--primary);
+                    i {
+                        @include transaction( all, 0.3s, ease);
+                        color: #FFFFFF;
+                    }
+                }
+            }
+        }
+    }
+
+    .title {
+        margin: 0;
+        color: var(--heading);
+        font-weight: 400;
+        margin-top: 27px;
+        margin-bottom: 5px;
+        font-size: 24px;
+        @include transaction( all, 0.3s, ease);
+    }
+
+    .job {
+        margin: 0;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 27px;
+        color: var(--text);
+        letter-spacing: 2px;
+        @include transaction( all, 0.3s, ease);
+    }
+
+    &:hover {
+        @include transaction( all, 0.3s, ease);
+        background-color: #ffffff;
+        box-shadow: 0px 10px 60px 0px rgba(0, 0, 0, 0.07);
+
+        .avatar {
+            img {
+                transform: scale(1.05);
+            }
+            .social-list{
+                @include transaction( all, 0.3s, ease);
+                bottom: 30px;
+                opacity: 1;
+            }
+        }
+    }
+}

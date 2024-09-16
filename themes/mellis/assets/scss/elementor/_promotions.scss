@@ -1,0 +1,239 @@
+.ova-promotions{
+	position: relative;
+	overflow: hidden;
+	direction: ltr;
+	
+	.promotion{
+		background-image: -moz-linear-gradient( 90deg, rgb(30,28,32) 0%, rgba(30,28,32,0) 80%);
+ 		background-image: -webkit-linear-gradient( 90deg, rgb(30,28,32) 0%, rgba(30,28,32,0) 80%);
+		background-image: -ms-linear-gradient( 90deg, rgb(30,28,32) 0%, rgba(30,28,32,0) 80%);
+		
+		height: 492px;
+	    padding: 40px 30px;
+
+	    display: flex;
+	    flex-flow: column;
+	    align-items: center;
+	    justify-content: end;
+
+	    @media( max-width: 500px) {
+	    	height: 400px;
+	    }
+
+		.sub-title{
+			font-size: 12px;
+			font-weight: 600;
+			letter-spacing: 1px;
+			color: #fff;
+			line-height: 1.2;
+			text-transform: uppercase;
+			margin-bottom: 13px;
+		}
+
+		.price{
+			font-size: 70px;
+			font-family: var(--secondary-font);
+			line-height: 1;
+			color: var(--primary);
+
+			.number-symbol{
+			    display: flex;
+			    justify-content: center;
+			    align-items: center;
+			    flex-direction: row;
+			    gap: 2px;
+			}
+		}
+
+		.pricing-title{
+			margin: 0 0 22px 0;
+			font-family: var(--primary-font);
+			font-size: 20px;
+			font-weight: 500;
+			letter-spacing: 1px;
+			color: #fff;
+			white-space: pre-line;
+		}
+
+		.pricing-btn{
+			font-size: 12px;
+			text-transform: uppercase;
+			letter-spacing: 2px;
+			font-weight: bold;
+			color: #ffffff;
+  			background-color: var(--primary);
+
+  			width: 179px;
+  			height: 58px;
+
+		    display: flex;
+		    justify-content: center;
+		    align-items: center;
+		    border: 1px solid;
+		    border-color: transparent;
+		    @include transaction(all, 0.3s, ease);
+
+		    &:hover{
+		    	@include transaction(all, 0.3s, ease);
+		    	background-color: #ffffff;
+		    	color: var(--primary);
+		    	border-color: var(--primary);
+		    }
+		}
+
+		&.template_1 {
+			text-align: center;
+		}
+
+		&.template_2{
+			height: 347px;
+			position: relative;
+		    align-items: flex-start;
+			justify-content: center;
+			padding: 30px 50px;
+			background-position: bottom; 
+			background-repeat: no-repeat; 
+			background-size: cover;
+
+			&.background_1 {
+				background-image: url(./assets/img/elementor/promotion-mask-1a.png);
+			}
+			&.background_2 {
+				background-image: url(./assets/img/elementor/promotion-mask-1b.png);
+			}
+			&.bg_none {
+				background-image: none;
+			}
+
+			@media( max-width: 1300px) {
+				height: auto;
+				min-height: 347px;
+				padding: 30px;
+				row-gap: 20px;
+			}
+
+			.price{
+				font-size: 24px;
+				color: #fff;
+				background-color: var(--primary);
+				width: 120px;
+				height: 120px;
+				display: flex;
+			    justify-content: center;
+			    align-items: center;
+			    flex-flow: column;
+			    border-radius: 50%;
+			    position: absolute;
+			    z-index: 1;
+			    top: 25px;
+			    left: 50%;
+			    transform: translate(-50%, 0%);
+
+			    @media( max-width: 1024px) {
+					left: 65%;
+				}
+
+				&.has-mask-image {
+					-webkit-mask-image: url(./assets/img/elementor/mask-star.png);
+				    -webkit-mask-repeat: no-repeat;
+				    -webkit-mask-position: center center;
+				    -webkit-mask-size: cover;
+				}
+
+				.suffix{
+					text-transform: uppercase;
+				}
+			}
+
+			.pricing-title{
+			    position: relative;
+			    z-index: 2;
+				font-size: 60px;
+				line-height: 1;
+			    color: var(--heading);
+
+				@media( max-width: 479px) {
+					margin-bottom: 0;
+					font-size: 45px;
+				}
+			}
+
+			.sub-title{
+				font-size: 16px;
+				font-weight: 400;
+				letter-spacing: 0;
+				color: var(--heading);
+				line-height: 1.2;
+				text-transform: none;
+				margin-bottom: 30px;
+			}
+
+			.pricing-btn{
+				&:hover{
+					color: var(--primary);
+				}
+			}
+		
+		}
+
+		&.template_3{
+			justify-content: center;
+			background-color: #fff;
+
+			margin: 30px;
+    		height: 429px;
+
+    		background-image: url(./assets/img/elementor/promotion-v3.png);
+		    background-position: bottom right;
+		    background-repeat: no-repeat; 
+			background-size: contain;
+
+			@media( max-width: 500px) {
+		    	height: auto;
+		    }
+
+    		.price{
+    			font-size: 20px;
+    			color: var(--primary);
+    			font-family: var(--primary-font);
+    			font-weight: 600;
+    			margin-bottom: 8px;
+    		}
+
+    		.pricing-title{
+    			color: var(--heading);
+    			font-family: var(--secondary-font);
+    			font-size: 30px;
+    			margin-bottom: 31px;
+    		}
+
+    		.promo-code{
+			    font-size: 20px;
+			    color: var(--heading);
+			    font-weight: 500;
+    		}
+
+    		.promo-text{
+			    font-size: 14px;
+			    text-transform: uppercase;
+			    letter-spacing: 2px;
+			    font-weight: 500;
+    		}
+
+    		.pricing-btn{
+	    		height: 50px;
+    		    margin-top: 20px;	
+    		    margin-bottom: 10px;
+
+	    		&:hover{
+	    			color: var(--primary);
+	    		}
+    		}
+
+    		.promo-condition{
+    			margin: 0;
+    		}
+
+		}
+	}
+}

@@ -1,0 +1,37 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/*----------------------------Home------------------------*/
+span.section_2_home{
+	color:#de968d;
+}
+.elementor-icon-box-wrapper {
+    position: relative;
+    transition: color 0.3s ease-in-out;
+    border: 1px solid transparent;
+}
+
+.elementor-icon-box-wrapper:hover {
+    color: #de968d; /* Change text color on hover */
+}
+
+.elementor-icon-box-wrapper:hover .elementor-icon i {
+    color: #de968d; /* Change icon color on hover */
+}
+
+.elementor-icon-box-wrapper::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 2px;
+    bottom: -3px; /* Adjust to your preference */
+    left: 50%;
+    background-color: #de968d;
+    transition: width 0.3s ease-in-out, left 0.3s ease-in-out;
+}
+
+.elementor-icon-box-wrapper:hover::after {
+    width: 100%;
+    left: 0;
+}
+</style>
+<!-- end Simple Custom CSS and JS -->

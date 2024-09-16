@@ -1,0 +1,269 @@
+.ova-toggle-content{
+	line-height: 1; 
+
+	&.toggled{
+		.content{
+			&.pos_left{
+				@include transaction( all, 0.3s, ease);
+				transform:none;
+			}
+			&.pos_right{
+				@include transaction( all, 0.3s, ease);
+				transform:none;
+			}
+		}
+
+		.site-overlay{
+			opacity: 0.8;
+			visibility: visible;
+			@include transaction( opacity, 0.2s, ease);
+		}
+	}
+
+	.content{
+		overflow: hidden;
+		overflow-y: auto;
+		position: fixed;
+		top: 0;
+		bottom: 0;
+		background-color: #222;
+		color: #fff;
+		line-height: 1.8em;
+		width: 380px;
+		padding: 50px;
+		z-index: 999;
+		opacity: 1;
+		@include transaction( all, 0.3s, ease);
+
+		.close-menu{
+			@include transaction( all, 0.3s, ease);
+			z-index: 999;
+			cursor: pointer;
+			width: 40px;
+			height: 40px;
+			border-radius: 50%;
+			background-color: var(--primary);
+			display: inline-flex;
+			justify-content:center;
+			align-items:center;
+			position: absolute;
+			top: 30px;
+			right: 30px;
+
+			&:hover{
+				@include transaction( all, 0.3s, ease);
+				background-color: var(--heading);
+				i{
+					@include transaction( all, 0.3s, ease);
+					color: var(--primary);
+				}
+			}
+
+			i{
+				@include transaction( all, 0.3s, ease);
+				display: inline-flex;
+				font-size: 14px;
+				color: #fff;
+			}
+		}
+		
+		&.pos_left{
+			@include transaction( all, 0.3s, ease);
+			left: 0;
+			transform: translate3d(-380px, 0, 0);
+		}
+		&.pos_right{
+			@include transaction( all, 0.3s, ease);
+			right: 0;
+			transform: translate3d(380px, 0, 0);
+		}
+
+		.wrap-content{
+			img{
+				display: block;
+				margin: 0 auto;
+				object-fit: cover;
+			}
+
+			.content-title{
+				margin: 40px 0 20px 0;
+				color: #fff;
+			}
+
+			.button-contact{
+				@include transaction( all, 0.3s, ease);
+				background-color: var(--primary);
+				color: #fff;
+				padding: 15px 20px;
+				display: flex;
+    			align-items: center;
+    			justify-content: center;
+				font-weight: 700;
+				gap:10px;
+
+				&:hover{
+					@include transaction( all, 0.3s, ease);
+					color: var(--primary);
+					background-color: #fff;
+				}
+			}
+
+			.contact-info-title{
+				margin: 40px 0 20px 0;
+				color: #fff;
+			}
+
+			.contact-item{
+				display: flex;
+				align-items:center;
+				margin: 0 0 10px 0;
+				gap:10px;
+				a {
+					color: #fff;
+					&:hover {
+						color: var(--primary);
+					}
+				}
+				i{
+					display: inline-flex;
+					color: var(--primary);
+				}
+			}
+
+			.list-social{
+				display: flex;
+				flex-wrap:wrap;
+				gap:15px;
+				margin: 20px 0 0 0;
+
+				.social {
+					@include transaction( all, 0.3s, ease);
+					display: inline-flex;
+					align-items:center;
+					justify-content:center;
+					background-color: var(--primary);
+					width: 40px;
+					height: 40px;
+					border-radius: 50%;
+
+					&:hover{
+						@include transaction( all, 0.3s, ease);
+						background-color: var(--heading);
+						i{
+							@include transaction( all, 0.3s, ease);
+							color: #fff;
+						}
+					}
+
+					i{
+						@include transaction( all, 0.3s, ease);
+						display: inline-flex;
+					 	color: #fff;
+					}
+				}
+			}
+
+			
+		}
+	}
+	
+	.site-overlay{
+		width: 100%;		
+		height: 100%;
+		top: 0;
+		left: 0;
+		right: 0;
+		bottom: 0;
+		background-color: #000;
+		opacity: 0;
+		visibility: hidden;
+		position: fixed;
+		z-index: 998;
+	}
+
+	.button-toggle{
+		@include transaction( all, 0.3s, ease);
+		display: inline-flex;
+		justify-content:center;
+		align-items:center;
+		gap: 10px;
+		border: none;
+		background-color: transparent;
+		padding: 0;
+
+		i {
+			display: inline-flex;
+			font-size: 26px;
+			color: var(--primary);
+		}
+
+		&:before , &:after{
+			width: 0;
+		}
+
+		span{
+			&:before{
+				width: 0;
+			}
+		}
+
+		&:hover{
+			@include transaction( all, 0.3s, ease);
+			.title{
+				color: var(--primary);
+			}
+			i {
+				color: var(--primary);
+			}
+		}
+
+		.title{
+			font-size: 16px;
+			font-weight: 500;
+			line-height: 1.2;
+
+			@media(max-width: 1024px){
+				font-size: 14px;
+			}
+		}
+	}
+
+	.dropdown-toggle {
+        background: transparent;
+        position: absolute;
+        top: 0;
+        right: 0;
+        display: block;
+        padding: 0.5em 0 0.5em 10px;
+        color: inherit;
+        border-radius: 0;
+        border: none;
+        cursor: pointer;
+
+        &::after {
+            content: "\f104";
+            font-family: "ovaicon";
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+            display: inline-block;
+            font-style: normal;
+            font-variant: normal;
+            font-weight: normal;
+            line-height: 1;
+            vertical-align: middle;
+            font-size: 0.6em;
+        }
+        &:focus {
+            outline: none;
+        }
+        &:hover {
+            background: transparent;
+        }
+        &.toggled-on {
+            &:after {
+                content: "\f10c";
+                font-family: "ovaicon";
+            }
+        }
+    }
+}	

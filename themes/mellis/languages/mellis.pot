@@ -1,0 +1,3542 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Mellis\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-31 02:25+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.2\n"
+"X-Domain: mellis"
+
+#: template-parts/parts/meta.php:54
+msgid " 0 Comments"
+msgstr ""
+
+#: template-parts/parts/meta.php:55
+msgid " 1 Comment"
+msgstr ""
+
+#: elementor/widgets/toggle-content.php:142
+msgid " Get a Quote "
+msgstr ""
+
+#: elementor/widgets/pricing.php:109
+msgid "$"
+msgstr ""
+
+#: elementor/widgets/progress-circle.php:100
+msgid "%"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:73
+msgid ""
+"( If you enter the link, it will redirect to the link instead of Fancybox "
+"popup )"
+msgstr ""
+
+#: elementor/widgets/menu-nav.php:152 elementor/widgets/menu-nav.php:210
+msgid "( Use with class ova-menu-custom-line )"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:128
+msgid "+012 (345) 678"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:141
+msgid "+012345678"
+msgstr ""
+
+#: elementor/widgets/pricing.php:127
+msgid "/ Per Day"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:856
+msgid "0 Comments"
+msgstr ""
+
+#: elementor/widgets/process.php:97 elementor/widgets/process.php:166
+msgid "01"
+msgstr ""
+
+#: elementor/widgets/process.php:170
+msgid "02"
+msgstr ""
+
+#: elementor/widgets/process.php:174
+msgid "03"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:857
+msgid "1 Comments"
+msgstr ""
+
+#: elementor/widgets/text-marquee.php:94
+msgid "100% Natural & Paraben-Free"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:103 elementor/widgets/process.php:60
+#: elementor/widgets/team.php:67
+msgid "2 Columns"
+msgstr ""
+
+#: elementor/widgets/price-list.php:158
+msgid "20 Minutes"
+msgstr ""
+
+#: elementor/widgets/counter.php:85
+msgid "23"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:104 elementor/widgets/process.php:61
+#: elementor/widgets/team.php:68
+msgid "3 Columns"
+msgstr ""
+
+#: elementor/widgets/price-list.php:163
+msgid "30 Minutes"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:105 elementor/widgets/team.php:69
+msgid "4 Columns"
+msgstr ""
+
+#: elementor/widgets/price-list.php:168
+msgid "40 Minutes"
+msgstr ""
+
+#: elementor/widgets/price-list.php:173
+msgid "50 Minutes"
+msgstr ""
+
+#: elementor/widgets/promotions.php:108
+msgid "6578980"
+msgstr ""
+
+#: inc/class-main.php:115 inc/class-main.php:116
+msgctxt ": on or off"
+msgid "on"
+msgstr ""
+
+#: elementor/widgets/toggle-content.php:99
+msgid "About Us"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:571
+msgid "Absolute"
+msgstr ""
+
+#: elementor/widgets/icon-list.php:80 elementor/widgets/menu-canvas.php:229
+#: elementor/widgets/menu-nav.php:189 elementor/widgets/menu-nav.php:344
+#: elementor/widgets/pricing.php:65 elementor/widgets/tabs.php:532
+#: elementor/widgets/tabs.php:853 elementor/widgets/testimonial.php:754
+#: elementor/widgets/toggle.php:365 elementor/widgets/toggle.php:549
+#: elementor/widgets/toggle.php:1001
+msgid "Active"
+msgstr ""
+
+#: elementor/widgets/toggle.php:763 elementor/widgets/toggle.php:875
+msgid "Active Color"
+msgstr ""
+
+#: elementor/widgets/toggle.php:125
+msgid "Active Icon"
+msgstr ""
+
+#: elementor/widgets/testimonial-3.php:654
+msgid "Active Size"
+msgstr ""
+
+#: elementor/widgets/pricing.php:150
+msgid "Add list text service"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:174
+#: elementor/widgets/testimonial-2.php:135
+#: elementor/widgets/testimonial-3.php:151
+#: elementor/widgets/testimonial.php:157
+msgid "Additional Options"
+msgstr ""
+
+#: elementor/widgets/ova-before-after.php:57
+msgid "After Image"
+msgstr ""
+
+#: elementor/widgets/team.php:202 elementor/widgets/testimonial-2.php:113
+msgid "Aleesha Brown"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:270 elementor/widgets/contact-info.php:268
+#: elementor/widgets/contact-info.php:479
+#: elementor/widgets/contact-info.php:520 elementor/widgets/counter.php:110
+#: elementor/widgets/header-banner.php:266 elementor/widgets/heading.php:155
+#: elementor/widgets/logo.php:79 elementor/widgets/ova-image-box.php:131
+#: elementor/widgets/progress-circle.php:197
+#: elementor/widgets/progress-circle.php:297
+#: elementor/widgets/promotions.php:365 elementor/widgets/tabs.php:166
+#: elementor/widgets/tabs.php:196 elementor/widgets/tabs.php:320
+#: elementor/widgets/tabs.php:770 elementor/widgets/team.php:233
+#: elementor/widgets/toggle.php:711
+msgid "Alignment"
+msgstr ""
+
+#: elementor/widgets/client-stories.php:130
+msgid ""
+"Aliquam hendrerit a augue insuscipit. Etiam aliquam massa quis des mauris "
+"commodo venenatis ligula commodo leez sed blandit convallis dignissim simply "
+"free text onec vel pellentesque neque."
+msgstr ""
+
+#: elementor/widgets/product-list.php:75
+msgid "All"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:40
+msgid "All categories"
+msgstr ""
+
+#: elementor/widgets/process.php:122
+msgid "Animation Content"
+msgstr ""
+
+#: elementor/widgets/process.php:147
+msgid "Animation Delay"
+msgstr ""
+
+#: elementor/widgets/process.php:130
+msgid "Animation Duration"
+msgstr ""
+
+#: elementor/widgets/promotions.php:287
+msgid "Apply code"
+msgstr ""
+
+#: inc/class-customize.php:508
+msgid "Archive"
+msgstr ""
+
+#: template-parts/parts/breadcrumbs.php:134
+msgid "Archive by tag"
+msgstr ""
+
+#: inc/class-customize.php:952
+msgid "Archive Layout"
+msgstr ""
+
+#: elementor/widgets/testimonial-2.php:193
+#: elementor/widgets/testimonial.php:245
+msgid "Arrows"
+msgstr ""
+
+#: elementor/widgets/testimonial-2.php:472
+#: elementor/widgets/testimonial.php:579
+msgid "Arrows Control"
+msgstr ""
+
+#: template-parts/parts/breadcrumbs.php:140
+msgid "Articles posted by"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:142
+#: elementor/widgets/latest-products.php:111
+#: elementor/widgets/product-list.php:127
+msgid "Ascending"
+msgstr ""
+
+#: elementor/widgets/client-stories.php:99
+#: elementor/widgets/testimonial-2.php:88
+#: elementor/widgets/testimonial-3.php:71 elementor/widgets/testimonial.php:103
+msgid "Author Image"
+msgstr ""
+
+#: elementor/widgets/client-stories.php:110
+#: elementor/widgets/testimonial-2.php:70
+#: elementor/widgets/testimonial-2.php:364
+#: elementor/widgets/testimonial-3.php:82
+#: elementor/widgets/testimonial-3.php:391 elementor/widgets/testimonial.php:85
+#: elementor/widgets/testimonial.php:436
+msgid "Author Name"
+msgstr ""
+
+#: elementor/widgets/testimonial-2.php:344
+#: elementor/widgets/testimonial.php:416
+msgid "Author Name - Job"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:240 elementor/widgets/ova-video.php:177
+#: elementor/widgets/testimonial-2.php:156
+#: elementor/widgets/testimonial-3.php:215
+#: elementor/widgets/testimonial.php:208
+msgid "Autoplay"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:254
+#: elementor/widgets/testimonial-2.php:170
+#: elementor/widgets/testimonial-3.php:229
+#: elementor/widgets/testimonial.php:222
+msgid "Autoplay Speed"
+msgstr ""
+
+#: elementor/widgets/team-2.php:663 elementor/widgets/testimonial-3.php:349
+msgid "Avatar"
+msgstr ""
+
+#: inc/class-woo.php:171
+msgid "Awaiting product image"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:323 elementor/widgets/blog-grid.php:555
+#: elementor/widgets/blog-grid.php:629 elementor/widgets/contact-info.php:367
+#: elementor/widgets/contact-info.php:633
+#: elementor/widgets/gallery-slide.php:856
+#: elementor/widgets/gallery-slide.php:892 elementor/widgets/heading.php:417
+#: elementor/widgets/image.php:76 elementor/widgets/image.php:132
+#: elementor/widgets/menu-footer.php:102 elementor/widgets/menu-footer.php:212
+#: elementor/widgets/menu-nav.php:260 elementor/widgets/ova-video.php:389
+#: elementor/widgets/ova-video.php:430 elementor/widgets/product-list.php:192
+#: elementor/widgets/promotions.php:441 elementor/widgets/promotions.php:461
+#: elementor/widgets/promotions.php:470 elementor/widgets/promotions.php:651
+#: elementor/widgets/search-popup.php:73 elementor/widgets/search-popup.php:188
+#: elementor/widgets/tabs.php:441 elementor/widgets/tabs.php:496
+#: elementor/widgets/tabs.php:551 elementor/widgets/team-2.php:181
+#: elementor/widgets/team-2.php:229 elementor/widgets/team-2.php:522
+#: elementor/widgets/team-2.php:553 elementor/widgets/team.php:274
+#: elementor/widgets/team.php:409 elementor/widgets/team.php:440
+#: elementor/widgets/testimonial-2.php:307
+#: elementor/widgets/toggle-content.php:793 elementor/widgets/toggle.php:321
+#: elementor/widgets/toggle.php:352 elementor/widgets/toggle.php:383
+#: elementor/widgets/toggle.php:516 elementor/widgets/toggle.php:536
+#: elementor/widgets/toggle.php:556 elementor/widgets/toggle.php:968
+#: elementor/widgets/toggle.php:988 elementor/widgets/toggle.php:1008
+#: elementor/widgets/toggle.php:1062
+msgid "Background"
+msgstr ""
+
+#: elementor/widgets/product-list.php:413
+#: elementor/widgets/product-list.php:465
+msgid "Background "
+msgstr ""
+
+#: elementor/widgets/client-stories.php:189
+#: elementor/widgets/client-stories.php:274
+#: elementor/widgets/client-stories.php:366 elementor/widgets/counter.php:183
+#: elementor/widgets/gallery-slide.php:391
+#: elementor/widgets/gallery-slide.php:411
+#: elementor/widgets/gallery-slide.php:477
+#: elementor/widgets/gallery-slide.php:542 elementor/widgets/icon-box.php:102
+#: elementor/widgets/icon-list.php:160 elementor/widgets/menu-cart.php:146
+#: elementor/widgets/ova-image-box.php:189 elementor/widgets/price-list.php:395
+#: elementor/widgets/pricing-tab.php:146 elementor/widgets/pricing.php:214
+#: elementor/widgets/pricing.php:702 elementor/widgets/process.php:215
+#: elementor/widgets/promotions.php:934 elementor/widgets/tabs.php:295
+#: elementor/widgets/toggle-content.php:597
+msgid "Background Color"
+msgstr ""
+
+#: elementor/widgets/pricing.php:225 elementor/widgets/pricing.php:713
+#: elementor/widgets/process.php:237 elementor/widgets/promotions.php:1010
+#: elementor/widgets/toggle-content.php:608
+msgid "Background Color Hover"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:120
+msgid "Background Cover Color"
+msgstr ""
+
+#: elementor/widgets/ova-video.php:401 elementor/widgets/ova-video.php:442
+msgid "Background Gradient"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:640 elementor/widgets/gallery.php:278
+msgid "Background Hover"
+msgstr ""
+
+#: elementor/widgets/search-popup.php:84 elementor/widgets/search-popup.php:199
+msgid "Background hover"
+msgstr ""
+
+#: elementor/widgets/testimonial-3.php:302
+msgid "Background Item"
+msgstr ""
+
+#: elementor/widgets/menu-nav.php:274
+msgid "Background Item Hover"
+msgstr ""
+
+#: elementor/widgets/process.php:399
+msgid "Background Line"
+msgstr ""
+
+#: elementor/widgets/tabs.php:464 elementor/widgets/tabs.php:519
+#: elementor/widgets/tabs.php:574
+msgid "Background Mobile"
+msgstr ""
+
+#: elementor/widgets/promotions.php:479
+msgid "Background Secondary"
+msgstr ""
+
+#: elementor/widgets/menu-cart.php:116
+msgid "Background Size"
+msgstr ""
+
+#: elementor/widgets/ova-before-after.php:18
+msgid "Before After"
+msgstr ""
+
+#: elementor/widgets/toggle.php:817
+msgid "Before Icon"
+msgstr ""
+
+#: elementor/widgets/ova-before-after.php:46
+msgid "Before Image"
+msgstr ""
+
+#: elementor/widgets/toggle.php:489
+msgid "Before Title Style"
+msgstr ""
+
+#: elementor/widgets/icon-list.php:100
+msgid "Best Pricing & 100% Organic"
+msgstr ""
+
+#: inc/class-elementor.php:193 elementor/widgets/tabs.php:328
+msgid "Block"
+msgstr ""
+
+#: inc/class-customize.php:503 template-parts/parts/breadcrumbs.php:144
+#: template-parts/parts/breadcrumbs_title.php:13
+msgid "Blog"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:16
+msgid "Blog Grid"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:105
+#: elementor/widgets/gallery-slide.php:152
+msgid "Body Massage"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:155
+msgid "Body Massage 2"
+msgstr ""
+
+#: elementor/widgets/menu-canvas.php:115
+msgid "Book Now"
+msgstr ""
+
+#: elementor/widgets/pricing.php:196 elementor/widgets/promotions.php:273
+msgid "Book now"
+msgstr ""
+
+#: inc/class-elementor.php:73 inc/class-elementor.php:102
+#: elementor/widgets/blog-grid.php:579 elementor/widgets/client-stories.php:390
+#: elementor/widgets/contact-info.php:415 elementor/widgets/counter.php:336
+#: elementor/widgets/gallery.php:338 elementor/widgets/ova-video.php:451
+#: elementor/widgets/price-list.php:431 elementor/widgets/pricing.php:267
+#: elementor/widgets/pricing.php:523 elementor/widgets/pricing.php:760
+#: elementor/widgets/process.php:261 elementor/widgets/product-list.php:213
+#: elementor/widgets/product-list.php:425
+#: elementor/widgets/product-list.php:477
+#: elementor/widgets/progress-circle.php:277
+#: elementor/widgets/promotions.php:982 elementor/widgets/search-popup.php:120
+#: elementor/widgets/tabs.php:346 elementor/widgets/tabs.php:589
+#: elementor/widgets/tabs.php:715 elementor/widgets/testimonial.php:306
+#: elementor/widgets/toggle.php:398 elementor/widgets/toggle.php:1107
+msgid "Border"
+msgstr ""
+
+#: elementor/widgets/promotions.php:1021 elementor/widgets/tabs.php:284
+#: elementor/widgets/toggle.php:211
+msgid "Border Color"
+msgstr ""
+
+#: elementor/widgets/tabs.php:610 elementor/widgets/toggle.php:418
+msgid "Border Color Active"
+msgstr ""
+
+#: elementor/widgets/pricing.php:769 elementor/widgets/tabs.php:598
+#: elementor/widgets/team-2.php:611 elementor/widgets/toggle-content.php:452
+#: elementor/widgets/toggle.php:407
+msgid "Border Color Hover"
+msgstr ""
+
+#: elementor/widgets/pricing-tab.php:169
+msgid "Border Radisu"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:402
+#: elementor/widgets/gallery-slide.php:690
+#: elementor/widgets/gallery-slide.php:821 elementor/widgets/icon-box.php:121
+#: elementor/widgets/ova-image-box.php:212 elementor/widgets/ova-video.php:482
+#: elementor/widgets/pricing.php:747 elementor/widgets/product-list.php:222
+#: elementor/widgets/product-list.php:433 elementor/widgets/promotions.php:969
+#: elementor/widgets/search-popup.php:107 elementor/widgets/tabs.php:354
+#: elementor/widgets/tabs.php:622 elementor/widgets/tabs.php:966
+#: elementor/widgets/team-2.php:199 elementor/widgets/team-2.php:248
+#: elementor/widgets/team-2.php:311 elementor/widgets/team-2.php:622
+#: elementor/widgets/testimonial-2.php:316
+#: elementor/widgets/testimonial-2.php:514
+#: elementor/widgets/testimonial.php:740
+#: elementor/widgets/toggle-content.php:463
+#: elementor/widgets/toggle-content.php:847 elementor/widgets/toggle.php:429
+#: elementor/widgets/toggle.php:1022 elementor/widgets/toggle.php:1116
+msgid "Border Radius"
+msgstr ""
+
+#: elementor/widgets/tabs.php:661
+msgid "Border Radius (first-child)"
+msgstr ""
+
+#: elementor/widgets/tabs.php:673
+msgid "Border Radius (last-child)"
+msgstr ""
+
+#: elementor/widgets/toggle.php:441
+msgid "Border Radius Active"
+msgstr ""
+
+#: elementor/widgets/progress-circle.php:252
+msgid "Border Size"
+msgstr ""
+
+#: elementor/widgets/tabs.php:264 elementor/widgets/toggle.php:193
+msgid "Border Width"
+msgstr ""
+
+#: elementor/widgets/heading.php:71
+msgid "Both"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:239 elementor/widgets/team.php:366
+msgid "Bottom"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:424 elementor/widgets/ova-video.php:474
+#: elementor/widgets/pricing.php:258 elementor/widgets/product-list.php:204
+#: elementor/widgets/team-2.php:212 elementor/widgets/team-2.php:262
+#: elementor/widgets/testimonial-3.php:338
+#: elementor/widgets/testimonial.php:315
+msgid "Box Shadow"
+msgstr ""
+
+#: inc/class-hook.php:341
+msgid "Boxed"
+msgstr ""
+
+#: inc/class-customize.php:438
+msgid "Boxed Offset (px)"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:212
+msgid "Breadcrumbs Color"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:227
+msgid "Breadcrumbs Color hover"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:250
+msgid "Breadcrumbs Padding"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:242
+msgid "Breadcrumbs Typography"
+msgstr ""
+
+#: elementor/widgets/menu-canvas.php:139 elementor/widgets/pricing.php:664
+#: elementor/widgets/product-list.php:373 elementor/widgets/promotions.php:857
+msgid "Button"
+msgstr ""
+
+#: elementor/widgets/toggle-content.php:116
+#: elementor/widgets/toggle-content.php:559
+msgid "Button Contact"
+msgstr ""
+
+#: elementor/widgets/toggle-content.php:363
+msgid "Button Size"
+msgstr ""
+
+#: elementor/widgets/toggle-content.php:941
+msgid "Button toggle"
+msgstr ""
+
+#: elementor/widgets/gallery.php:68
+msgid "Caption"
+msgstr ""
+
+#: elementor/widgets/gallery.php:66
+msgid "Caption Image"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:89 elementor/widgets/blog-grid.php:528
+#: elementor/widgets/gallery-slide.php:112
+#: elementor/widgets/gallery-slide.php:491
+msgid "Category"
+msgstr ""
+
+#: elementor/widgets/product-list.php:136
+msgid "Category In"
+msgstr ""
+
+#: elementor/widgets/latest-products.php:69
+msgid "Category not found"
+msgstr ""
+
+#: elementor/widgets/product-list.php:145
+msgid "Category Not In"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:278 elementor/widgets/contact-info.php:235
+#: elementor/widgets/contact-info.php:276
+#: elementor/widgets/contact-info.php:487
+#: elementor/widgets/contact-info.php:528 elementor/widgets/counter.php:118
+#: elementor/widgets/header-banner.php:274 elementor/widgets/heading.php:163
+#: elementor/widgets/logo.php:87 elementor/widgets/ova-image-box.php:139
+#: elementor/widgets/progress-circle.php:205
+#: elementor/widgets/progress-circle.php:305
+#: elementor/widgets/promotions.php:337 elementor/widgets/promotions.php:373
+#: elementor/widgets/tabs.php:174 elementor/widgets/tabs.php:204
+#: elementor/widgets/team.php:241
+msgid "Center"
+msgstr ""
+
+#: elementor/widgets/testimonial-3.php:93
+msgid "CEO & Founder"
+msgstr ""
+
+#: elementor/widgets/tabs.php:75
+msgid "Choose Icon"
+msgstr ""
+
+#: elementor/widgets/image.php:64 elementor/widgets/tabs.php:86
+#: elementor/widgets/team.php:80 elementor/widgets/toggle-content.php:86
+msgid "Choose Image"
+msgstr ""
+
+#: elementor/widgets/ova-video.php:64
+msgid "Choose Image Background"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:168
+msgid "Choose Title Format"
+msgstr ""
+
+#: elementor/widgets/progress-circle.php:107
+msgid "Circle"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:294
+msgid "Class"
+msgstr ""
+
+#: elementor/widgets/team-2.php:101
+msgid "Class Icon"
+msgstr ""
+
+#: elementor/widgets/client-stories.php:21
+msgid "Client Stories"
+msgstr ""
+
+#: elementor/widgets/progress-circle.php:72
+msgid "Clients Satisficed"
+msgstr ""
+
+#: install-resource/active-plugins.php:28
+msgid "CMB2"
+msgstr ""
+
+#: elementor/widgets/promotions.php:769
+msgid "Code"
+msgstr ""
+
+#: inc/class-customize.php:270 elementor/widgets/blog-grid.php:357
+#: elementor/widgets/blog-grid.php:424 elementor/widgets/blog-grid.php:544
+#: elementor/widgets/blog-grid.php:607 elementor/widgets/blog-grid.php:696
+#: elementor/widgets/client-stories.php:178
+#: elementor/widgets/client-stories.php:220
+#: elementor/widgets/client-stories.php:263
+#: elementor/widgets/client-stories.php:317
+#: elementor/widgets/contact-info.php:355
+#: elementor/widgets/contact-info.php:448
+#: elementor/widgets/contact-info.php:561 elementor/widgets/counter.php:257
+#: elementor/widgets/counter.php:301 elementor/widgets/counter.php:364
+#: elementor/widgets/counter.php:406 elementor/widgets/gallery-slide.php:466
+#: elementor/widgets/gallery-slide.php:531
+#: elementor/widgets/gallery-slide.php:842
+#: elementor/widgets/gallery-slide.php:878 elementor/widgets/gallery.php:326
+#: elementor/widgets/heading.php:214 elementor/widgets/heading.php:299
+#: elementor/widgets/heading.php:366 elementor/widgets/icon-box.php:181
+#: elementor/widgets/icon-box.php:224 elementor/widgets/icon-box.php:266
+#: elementor/widgets/icon-list.php:149 elementor/widgets/icon-list.php:189
+#: elementor/widgets/icon-list.php:242 elementor/widgets/image.php:225
+#: elementor/widgets/image.php:271 elementor/widgets/latest-products.php:293
+#: elementor/widgets/latest-products.php:346 elementor/widgets/menu-cart.php:95
+#: elementor/widgets/menu-cart.php:135 elementor/widgets/menu-footer.php:122
+#: elementor/widgets/menu-footer.php:142 elementor/widgets/menu-footer.php:232
+#: elementor/widgets/menu-footer.php:252
+#: elementor/widgets/ova-image-box.php:281
+#: elementor/widgets/ova-image-box.php:321 elementor/widgets/ova-video.php:378
+#: elementor/widgets/ova-video.php:419 elementor/widgets/price-list.php:203
+#: elementor/widgets/price-list.php:245 elementor/widgets/price-list.php:299
+#: elementor/widgets/price-list.php:372 elementor/widgets/pricing-tab.php:101
+#: elementor/widgets/pricing-tab.php:135 elementor/widgets/pricing.php:296
+#: elementor/widgets/pricing.php:361 elementor/widgets/pricing.php:404
+#: elementor/widgets/pricing.php:471 elementor/widgets/pricing.php:583
+#: elementor/widgets/pricing.php:624 elementor/widgets/pricing.php:680
+#: elementor/widgets/process.php:204 elementor/widgets/process.php:288
+#: elementor/widgets/process.php:342 elementor/widgets/product-list.php:273
+#: elementor/widgets/product-list.php:293
+#: elementor/widgets/product-list.php:359
+#: elementor/widgets/product-list.php:402
+#: elementor/widgets/product-list.php:454
+#: elementor/widgets/progress-circle.php:179
+#: elementor/widgets/progress-circle.php:241
+#: elementor/widgets/progress-circle.php:331
+#: elementor/widgets/promotions.php:526 elementor/widgets/promotions.php:570
+#: elementor/widgets/promotions.php:640 elementor/widgets/promotions.php:784
+#: elementor/widgets/promotions.php:826 elementor/widgets/promotions.php:923
+#: elementor/widgets/promotions.php:1060 elementor/widgets/tabs.php:429
+#: elementor/widgets/tabs.php:484 elementor/widgets/tabs.php:539
+#: elementor/widgets/tabs.php:697 elementor/widgets/tabs.php:818
+#: elementor/widgets/tabs.php:839 elementor/widgets/tabs.php:860
+#: elementor/widgets/team-2.php:363 elementor/widgets/team-2.php:383
+#: elementor/widgets/team-2.php:437 elementor/widgets/team-2.php:457
+#: elementor/widgets/team-2.php:511 elementor/widgets/team-2.php:542
+#: elementor/widgets/team.php:398 elementor/widgets/team.php:429
+#: elementor/widgets/team.php:485 elementor/widgets/team.php:527
+#: elementor/widgets/testimonial-2.php:253
+#: elementor/widgets/testimonial-2.php:295
+#: elementor/widgets/testimonial-2.php:381
+#: elementor/widgets/testimonial-2.php:410
+#: elementor/widgets/testimonial-2.php:444
+#: elementor/widgets/testimonial-2.php:535
+#: elementor/widgets/testimonial-3.php:407
+#: elementor/widgets/testimonial-3.php:463
+#: elementor/widgets/testimonial-3.php:520
+#: elementor/widgets/testimonial-3.php:587
+#: elementor/widgets/testimonial-3.php:613
+#: elementor/widgets/testimonial.php:354 elementor/widgets/testimonial.php:401
+#: elementor/widgets/testimonial.php:471 elementor/widgets/testimonial.php:517
+#: elementor/widgets/testimonial.php:551 elementor/widgets/testimonial.php:611
+#: elementor/widgets/text-marquee.php:78 elementor/widgets/text-marquee.php:192
+#: elementor/widgets/text-marquee.php:234
+#: elementor/widgets/toggle-content.php:410
+#: elementor/widgets/toggle-content.php:493
+#: elementor/widgets/toggle-content.php:534
+#: elementor/widgets/toggle-content.php:575
+#: elementor/widgets/toggle-content.php:661
+#: elementor/widgets/toggle-content.php:702
+#: elementor/widgets/toggle-content.php:825
+#: elementor/widgets/toggle-content.php:892 elementor/widgets/toggle.php:310
+#: elementor/widgets/toggle.php:341 elementor/widgets/toggle.php:372
+#: elementor/widgets/toggle.php:739 elementor/widgets/toggle.php:845
+#: elementor/widgets/toggle.php:1073
+msgid "Color"
+msgstr ""
+
+#: elementor/widgets/pricing-tab.php:112
+#: elementor/widgets/testimonial-3.php:625
+msgid "Color Active"
+msgstr ""
+
+#: elementor/widgets/testimonial-2.php:546
+msgid "Color Border"
+msgstr ""
+
+#: elementor/widgets/testimonial-2.php:577
+msgid "Color Border Hover"
+msgstr ""
+
+#: elementor/widgets/process.php:388
+msgid "Color Circle"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:368 elementor/widgets/blog-grid.php:618
+#: elementor/widgets/blog-grid.php:707 elementor/widgets/counter.php:269
+#: elementor/widgets/counter.php:312 elementor/widgets/counter.php:375
+#: elementor/widgets/counter.php:417 elementor/widgets/latest-products.php:304
+#: elementor/widgets/price-list.php:256 elementor/widgets/pricing.php:307
+#: elementor/widgets/pricing.php:372 elementor/widgets/pricing.php:415
+#: elementor/widgets/pricing.php:635 elementor/widgets/pricing.php:691
+#: elementor/widgets/process.php:226 elementor/widgets/process.php:299
+#: elementor/widgets/process.php:353 elementor/widgets/promotions.php:999
+#: elementor/widgets/testimonial-2.php:566
+#: elementor/widgets/testimonial.php:623
+#: elementor/widgets/toggle-content.php:423
+#: elementor/widgets/toggle-content.php:586
+#: elementor/widgets/toggle-content.php:836
+#: elementor/widgets/toggle-content.php:904
+msgid "Color Hover"
+msgstr ""
+
+#: elementor/widgets/heading.php:226
+msgid "Color hover"
+msgstr ""
+
+#: elementor/widgets/heading.php:262
+msgid "Color Last Text"
+msgstr ""
+
+#: elementor/widgets/tabs.php:453 elementor/widgets/tabs.php:508
+#: elementor/widgets/tabs.php:563
+msgid "Color Mobile"
+msgstr ""
+
+#: elementor/widgets/client-stories.php:55
+#: elementor/widgets/product-list.php:60
+msgid "Column 1"
+msgstr ""
+
+#: elementor/widgets/client-stories.php:56
+#: elementor/widgets/product-list.php:61
+msgid "Column 2"
+msgstr ""
+
+#: elementor/widgets/client-stories.php:57
+#: elementor/widgets/product-list.php:62
+msgid "Column 3"
+msgstr ""
+
+#: elementor/widgets/product-list.php:63
+msgid "Column 4"
+msgstr ""
+
+#: elementor/widgets/counter.php:158
+msgid "Column Content"
+msgstr ""
+
+#: elementor/widgets/latest-products.php:147
+msgid "Column Gap"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:99 elementor/widgets/client-stories.php:51
+#: elementor/widgets/product-list.php:56 elementor/widgets/team.php:63
+msgid "Columns"
+msgstr ""
+
+#: elementor/widgets/pricing.php:91
+msgid "Comfort Relax"
+msgstr ""
+
+#: inc/class-hook.php:358
+msgid "Comment"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:860 template-parts/parts/meta.php:58
+msgid "Comment off"
+msgstr ""
+
+#: template-parts/parts/meta.php:56
+msgid "Comments"
+msgstr ""
+
+#: comments.php:55
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: number of comments
+#: comments.php:16
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:12
+msgctxt "comments title"
+msgid "One Comment"
+msgstr ""
+
+#: elementor/widgets/text-marquee.php:103
+msgid "Completely Aluminum Free"
+msgstr ""
+
+#: elementor/widgets/promotions.php:1040
+msgid "Conditions"
+msgstr ""
+
+#: elementor/widgets/promotions.php:299
+msgid "Conditions Apply"
+msgstr ""
+
+#: elementor/widgets/promotions.php:301
+msgid "Conditions apply"
+msgstr ""
+
+#: elementor/widgets/toggle-content.php:221
+msgid "Contact"
+msgstr ""
+
+#: install-resource/active-plugins.php:18
+msgid "Contact Form 7"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:16 elementor/widgets/contact-info.php:624
+#: elementor/widgets/toggle-content.php:167
+msgid "Contact Info"
+msgstr ""
+
+#: elementor/widgets/toggle-content.php:645
+msgid "Contact Info Title"
+msgstr ""
+
+#: elementor/widgets/toggle-content.php:686
+msgid "Contact Item"
+msgstr ""
+
+#: elementor/widgets/toggle-content.php:178
+msgid "Contact Us"
+msgstr ""
+
+#: inc/class-customize.php:373
+msgid "Container (px)"
+msgstr ""
+
+#: inc/class-elementor.php:81 elementor/widgets/blog-grid.php:53
+#: elementor/widgets/client-stories.php:44
+#: elementor/widgets/contact-info.php:39 elementor/widgets/gallery-slide.php:42
+#: elementor/widgets/gallery.php:43 elementor/widgets/gallery.php:270
+#: elementor/widgets/header-banner.php:92 elementor/widgets/heading.php:43
+#: elementor/widgets/icon-box.php:40 elementor/widgets/icon-list.php:39
+#: elementor/widgets/image.php:43 elementor/widgets/latest-products.php:47
+#: elementor/widgets/menu-cart.php:37 elementor/widgets/ova-before-after.php:39
+#: elementor/widgets/ova-image-box.php:39
+#: elementor/widgets/ova-image-box.php:242 elementor/widgets/ova-video.php:43
+#: elementor/widgets/price-list.php:44 elementor/widgets/pricing-tab.php:38
+#: elementor/widgets/pricing.php:43 elementor/widgets/pricing.php:206
+#: elementor/widgets/process.php:46 elementor/widgets/product-list.php:38
+#: elementor/widgets/product-list.php:157 elementor/widgets/promotions.php:43
+#: elementor/widgets/tabs.php:111 elementor/widgets/tabs.php:689
+#: elementor/widgets/team-2.php:44 elementor/widgets/team-2.php:164
+#: elementor/widgets/team.php:43 elementor/widgets/testimonial-2.php:48
+#: elementor/widgets/testimonial-3.php:39
+#: elementor/widgets/testimonial-3.php:504 elementor/widgets/testimonial.php:45
+#: elementor/widgets/text-marquee.php:39
+#: elementor/widgets/toggle-content.php:77 elementor/widgets/toggle.php:55
+#: elementor/widgets/toggle.php:1054
+msgid "Content"
+msgstr ""
+
+#: elementor/widgets/menu-footer.php:180 elementor/widgets/menu-nav.php:108
+msgid "Content Padding"
+msgstr ""
+
+#: elementor/widgets/client-stories.php:301
+msgid "Content Story"
+msgstr ""
+
+#: elementor/widgets/testimonial-2.php:428
+#: elementor/widgets/testimonial.php:535
+msgid "Content Testimonial"
+msgstr ""
+
+#: elementor/widgets/toggle-content.php:477
+msgid "Content Title"
+msgstr ""
+
+#: elementor/widgets/price-list.php:102 elementor/widgets/promotions.php:135
+msgid "Currency Symbol"
+msgstr ""
+
+#: elementor/widgets/price-list.php:108 elementor/widgets/promotions.php:141
+msgctxt "Currency Symbol"
+msgid "Baht"
+msgstr ""
+
+#: elementor/widgets/price-list.php:106 elementor/widgets/promotions.php:139
+msgctxt "Currency Symbol"
+msgid "Dollar"
+msgstr ""
+
+#: elementor/widgets/price-list.php:107 elementor/widgets/promotions.php:140
+msgctxt "Currency Symbol"
+msgid "Euro"
+msgstr ""
+
+#: elementor/widgets/price-list.php:109 elementor/widgets/promotions.php:142
+msgctxt "Currency Symbol"
+msgid "Franc"
+msgstr ""
+
+#: elementor/widgets/price-list.php:110 elementor/widgets/promotions.php:143
+msgctxt "Currency Symbol"
+msgid "Guilder"
+msgstr ""
+
+#: elementor/widgets/price-list.php:111 elementor/widgets/promotions.php:144
+msgctxt "Currency Symbol"
+msgid "Krona"
+msgstr ""
+
+#: elementor/widgets/price-list.php:112 elementor/widgets/promotions.php:145
+msgctxt "Currency Symbol"
+msgid "Lira"
+msgstr ""
+
+#: elementor/widgets/price-list.php:113 elementor/widgets/promotions.php:146
+msgctxt "Currency Symbol"
+msgid "Peseta"
+msgstr ""
+
+#: elementor/widgets/price-list.php:114 elementor/widgets/promotions.php:147
+msgctxt "Currency Symbol"
+msgid "Peso"
+msgstr ""
+
+#: elementor/widgets/price-list.php:115 elementor/widgets/promotions.php:148
+msgctxt "Currency Symbol"
+msgid "Pound Sterling"
+msgstr ""
+
+#: elementor/widgets/price-list.php:116 elementor/widgets/promotions.php:149
+msgctxt "Currency Symbol"
+msgid "Real"
+msgstr ""
+
+#: elementor/widgets/price-list.php:117 elementor/widgets/promotions.php:150
+msgctxt "Currency Symbol"
+msgid "Ruble"
+msgstr ""
+
+#: elementor/widgets/price-list.php:118 elementor/widgets/promotions.php:151
+msgctxt "Currency Symbol"
+msgid "Rupee"
+msgstr ""
+
+#: elementor/widgets/price-list.php:119 elementor/widgets/promotions.php:152
+msgctxt "Currency Symbol"
+msgid "Rupee (Indian)"
+msgstr ""
+
+#: elementor/widgets/price-list.php:120 elementor/widgets/promotions.php:153
+msgctxt "Currency Symbol"
+msgid "Shekel"
+msgstr ""
+
+#: elementor/widgets/price-list.php:122 elementor/widgets/promotions.php:155
+msgctxt "Currency Symbol"
+msgid "Won"
+msgstr ""
+
+#: elementor/widgets/price-list.php:121 elementor/widgets/promotions.php:154
+msgctxt "Currency Symbol"
+msgid "Yen/Yuan"
+msgstr ""
+
+#: elementor/widgets/pricing.php:107
+msgid "Currency Unit"
+msgstr ""
+
+#: elementor/widgets/price-list.php:123 elementor/widgets/promotions.php:156
+msgid "Custom"
+msgstr ""
+
+#: inc/class-customize.php:228 inc/class-customize.php:239
+#: inc/class-customize.php:255
+msgid "Custom Font"
+msgstr ""
+
+#: elementor/widgets/price-list.php:132 elementor/widgets/promotions.php:165
+msgid "Custom Symbol"
+msgstr ""
+
+#: elementor/widgets/logo.php:52
+msgid "Custom URL"
+msgstr ""
+
+#: elementor/widgets/testimonial-2.php:81 elementor/widgets/testimonial.php:96
+msgid "Customer"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:128 elementor/widgets/blog-grid.php:590
+#: elementor/widgets/client-stories.php:119
+#: elementor/widgets/client-stories.php:247
+#: elementor/widgets/latest-products.php:127
+#: elementor/widgets/product-list.php:115
+msgid "Date"
+msgstr ""
+
+#: elementor/widgets/client-stories.php:157 elementor/widgets/team.php:206
+#: elementor/widgets/testimonial.php:140
+msgid "David Cooper"
+msgstr ""
+
+#: inc/class-customize.php:528 inc/class-elementor.php:333
+#: inc/class-hook.php:167 inc/class-hook.php:197
+#: elementor/widgets/counter.php:162 elementor/widgets/menu-footer.php:84
+#: elementor/widgets/progress-circle.php:120
+#: elementor/widgets/promotions.php:485
+msgid "Default"
+msgstr ""
+
+#: elementor/widgets/gallery.php:226
+msgid "Default grid sizer is 25% (4 columns)"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:143
+#: elementor/widgets/latest-products.php:112
+#: elementor/widgets/product-list.php:128
+msgid "Descending"
+msgstr ""
+
+#: elementor/widgets/heading.php:112 elementor/widgets/heading.php:349
+#: elementor/widgets/icon-box.php:81 elementor/widgets/icon-box.php:238
+#: elementor/widgets/icon-list.php:71 elementor/widgets/icon-list.php:226
+#: elementor/widgets/pricing.php:98 elementor/widgets/process.php:113
+#: elementor/widgets/process.php:326 elementor/widgets/toggle-content.php:106
+#: elementor/widgets/toggle-content.php:518
+msgid "Description"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:184
+msgid "Description Words Total"
+msgstr ""
+
+#: template-parts/footer-default.php:4
+msgid "Design and Develop by Ovatheme"
+msgstr ""
+
+#: elementor/widgets/logo.php:105
+msgid "Desktop Logo"
+msgstr ""
+
+#: elementor/widgets/logo.php:149
+msgid "Desktop Logo Height"
+msgstr ""
+
+#: elementor/widgets/logo.php:129
+msgid "Desktop Logo Width"
+msgstr ""
+
+#: elementor/widgets/text-marquee.php:304
+msgid "Direction"
+msgstr ""
+
+#: inc/class-elementor.php:189
+msgid "Display"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:109
+msgid "Display Background by Feature Image in Post/Page"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:100
+msgid "Display Boxed Content"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:177
+msgid "DIV"
+msgstr ""
+
+#: elementor/widgets/heading.php:145 elementor/widgets/ova-video.php:121
+msgid "Div"
+msgstr ""
+
+#: elementor/widgets/ova-image-box.php:121
+msgid "div"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:637
+#: elementor/widgets/testimonial.php:689
+msgid "Dot Color"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:714
+#: elementor/widgets/testimonial.php:771
+msgid "Dot Color Active"
+msgstr ""
+
+#: elementor/widgets/testimonial-3.php:602
+msgid "Dot Control"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:556
+#: elementor/widgets/gallery-slide.php:625
+#: elementor/widgets/testimonial-2.php:207
+#: elementor/widgets/testimonial.php:264 elementor/widgets/testimonial.php:638
+#: elementor/widgets/testimonial.php:679
+msgid "Dots"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:702
+#: elementor/widgets/testimonial.php:761
+msgid "Dots Active"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:671
+#: elementor/widgets/testimonial.php:721
+msgid "Dots Height"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:747
+msgid "Dots Height Active"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:702
+msgid "Dots Width"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:652
+msgid "Dots width"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:729
+#: elementor/widgets/testimonial.php:784
+msgid "Dots Width Active"
+msgstr ""
+
+#: elementor/widgets/pricing.php:165
+msgid "Eam impedit molestie ett"
+msgstr ""
+
+#: template-parts/parts/comment.php:50
+msgid "Edit"
+msgstr ""
+
+#: elementor/widgets/client-stories.php:112
+#: elementor/widgets/client-stories.php:142
+#: elementor/widgets/testimonial.php:131
+msgid "Edna Marxten"
+msgstr ""
+
+#: install-resource/active-plugins.php:13
+msgid "Elementor"
+msgstr ""
+
+#: inc/class-hook.php:385 elementor/widgets/contact-info.php:88
+msgid "Email"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:112
+msgid "Email Adress"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:99
+msgid "Email Label"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:101
+#: elementor/widgets/contact-info.php:114
+#: elementor/widgets/contact-info.php:215
+#: elementor/widgets/contact-info.php:216
+msgid "email@company.com"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:83
+msgid "Embed Video Link"
+msgstr ""
+
+#: elementor/widgets/progress-circle.php:188
+msgid "Empty Color"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:280 elementor/widgets/promotions.php:341
+#: elementor/widgets/promotions.php:377 elementor/widgets/tabs.php:178
+#: elementor/widgets/tabs.php:208 elementor/widgets/tabs.php:778
+#: elementor/widgets/toggle.php:719
+msgid "End"
+msgstr ""
+
+#: elementor/widgets/product-list.php:138
+#: elementor/widgets/product-list.php:147
+msgid "Enter the product category IDs. IDs are separated by \"|\". Ex: 1|2|3."
+msgstr ""
+
+#: elementor/widgets/ova-video.php:143
+msgid "Enter your URL"
+msgstr ""
+
+#: inc/class-customize.php:138
+msgid "Example: 0px, 0.5em"
+msgstr ""
+
+#: inc/class-customize.php:101
+msgid "Example: 16px, 1.2em"
+msgstr ""
+
+#: elementor/widgets/team-2.php:143
+msgid "Facebook"
+msgstr ""
+
+#: elementor/widgets/toggle.php:174
+msgid "FAQ Schema"
+msgstr ""
+
+#: elementor/widgets/process.php:136 elementor/widgets/text-marquee.php:296
+msgid "Fast"
+msgstr ""
+
+#: inc/class-elementor.php:348
+msgid "Flaticon"
+msgstr ""
+
+#: inc/class-elementor.php:197 elementor/widgets/tabs.php:324
+msgid "Flex"
+msgstr ""
+
+#: inc/class-elementor.php:304
+msgid "Flip"
+msgstr ""
+
+#: inc/class-customize.php:203
+msgid "Font"
+msgstr ""
+
+#: elementor/widgets/ova-video.php:88 elementor/widgets/promotions.php:89
+msgid "Font Family"
+msgstr ""
+
+#: inc/class-customize.php:100 elementor/widgets/contact-info.php:335
+msgid "Font Size"
+msgstr ""
+
+#: inc/class-customize.php:476 inc/class-customize.php:737
+#: inc/class-customize.php:932
+msgid "Footer"
+msgstr ""
+
+#: inc/class-customize.php:489
+msgid "Footer Default"
+msgstr ""
+
+#: elementor/widgets/gallery.php:19
+msgid "Gallery"
+msgstr ""
+
+#: elementor/widgets/gallery.php:180
+msgid "Gallery 01"
+msgstr ""
+
+#: elementor/widgets/gallery.php:183
+msgid "Gallery 02"
+msgstr ""
+
+#: elementor/widgets/gallery.php:186
+msgid "Gallery 03"
+msgstr ""
+
+#: elementor/widgets/gallery.php:189
+msgid "Gallery 04"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:122 elementor/widgets/gallery.php:75
+msgid "Gallery Image"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:949
+msgid "Gallery Slide"
+msgstr ""
+
+#: elementor/widgets/product-list.php:165 elementor/widgets/team.php:347
+msgid "Gap"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:262 elementor/widgets/gallery-slide.php:308
+#: elementor/widgets/icon-box.php:94 elementor/widgets/image.php:122
+#: elementor/widgets/image.php:181 elementor/widgets/latest-products.php:140
+#: elementor/widgets/ova-image-box.php:158 elementor/widgets/pricing.php:495
+#: elementor/widgets/promotions.php:321 elementor/widgets/tabs.php:233
+#: elementor/widgets/team.php:225 elementor/widgets/testimonial-3.php:270
+#: elementor/widgets/testimonial.php:283 elementor/widgets/text-marquee.php:114
+msgid "General"
+msgstr ""
+
+#: elementor/widgets/text-marquee.php:97
+msgid "Get 20% Off For Your First Order"
+msgstr ""
+
+#: elementor/widgets/menu-canvas.php:40 elementor/widgets/menu-nav.php:36
+msgid "Global"
+msgstr ""
+
+#: inc/class-main.php:220
+msgid "Go to top"
+msgstr ""
+
+#: inc/class-customize.php:529
+msgid "Grid"
+msgstr ""
+
+#: elementor/widgets/gallery.php:199
+msgid "Grid Sizer"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:171 elementor/widgets/heading.php:139
+#: elementor/widgets/ova-image-box.php:115 elementor/widgets/ova-video.php:115
+msgid "H1"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:172 elementor/widgets/heading.php:140
+#: elementor/widgets/ova-image-box.php:116 elementor/widgets/ova-video.php:116
+msgid "H2"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:173 elementor/widgets/heading.php:141
+#: elementor/widgets/ova-image-box.php:117 elementor/widgets/ova-video.php:117
+msgid "H3"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:174 elementor/widgets/heading.php:142
+#: elementor/widgets/ova-image-box.php:118 elementor/widgets/ova-video.php:118
+msgid "H4"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:175 elementor/widgets/heading.php:143
+#: elementor/widgets/ova-image-box.php:119 elementor/widgets/ova-video.php:119
+msgid "H5"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:176 elementor/widgets/heading.php:144
+#: elementor/widgets/ova-image-box.php:120 elementor/widgets/ova-video.php:120
+msgid "H6"
+msgstr ""
+
+#: inc/class-customize.php:450 inc/class-customize.php:721
+#: inc/class-customize.php:916
+msgid "Header"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:42
+msgid "Header Banner"
+msgstr ""
+
+#: inc/class-customize.php:463
+msgid "Header Default"
+msgstr ""
+
+#: inc/class-elementor.php:255
+msgid "Header Footer"
+msgstr ""
+
+#: inc/class-customize.php:308 elementor/widgets/price-list.php:52
+#: elementor/widgets/price-list.php:187
+msgid "Heading"
+msgstr ""
+
+#: elementor/widgets/gallery.php:130 elementor/widgets/heading.php:447
+#: elementor/widgets/latest-products.php:256
+#: elementor/widgets/ova-before-after.php:68
+#: elementor/widgets/ova-video.php:337 elementor/widgets/promotions.php:392
+#: elementor/widgets/promotions.php:893 elementor/widgets/tabs.php:938
+#: elementor/widgets/toggle.php:600
+msgid "Height"
+msgstr ""
+
+#: elementor/widgets/image.php:192
+msgid "Height (px)"
+msgstr ""
+
+#: inc/class-elementor.php:305
+msgid "Helix"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:163 elementor/widgets/blog-grid.php:175
+#: elementor/widgets/blog-grid.php:200 elementor/widgets/blog-grid.php:212
+#: elementor/widgets/blog-grid.php:224 elementor/widgets/blog-grid.php:236
+#: elementor/widgets/blog-grid.php:248 elementor/widgets/counter.php:138
+#: elementor/widgets/heading.php:185 elementor/widgets/icon-list.php:119
+#: elementor/widgets/image.php:91 elementor/widgets/image.php:106
+#: elementor/widgets/menu-canvas.php:87 elementor/widgets/product-list.php:48
+#: elementor/widgets/promotions.php:670 elementor/widgets/toggle.php:480
+#: elementor/widgets/toggle.php:923
+msgid "Hide"
+msgstr ""
+
+#: template-parts/parts/breadcrumbs.php:13
+#: template-parts/parts/breadcrumbs.php:195
+#: template-parts/parts/breadcrumbs_title.php:5
+#: template-parts/parts/breadcrumbs_title.php:9
+msgid "Home"
+msgstr ""
+
+#: elementor/widgets/logo.php:50
+msgid "Home Page"
+msgstr ""
+
+#: elementor/widgets/tabs.php:155
+msgid "Horizontal"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:872
+#: elementor/widgets/latest-products.php:198
+#: elementor/widgets/menu-canvas.php:205 elementor/widgets/menu-footer.php:135
+#: elementor/widgets/menu-footer.php:245 elementor/widgets/menu-nav.php:164
+#: elementor/widgets/menu-nav.php:320 elementor/widgets/ova-video.php:412
+#: elementor/widgets/product-list.php:286
+#: elementor/widgets/product-list.php:447 elementor/widgets/promotions.php:992
+#: elementor/widgets/tabs.php:477 elementor/widgets/tabs.php:832
+#: elementor/widgets/team-2.php:222 elementor/widgets/team-2.php:376
+#: elementor/widgets/team-2.php:450 elementor/widgets/team-2.php:535
+#: elementor/widgets/team.php:423 elementor/widgets/testimonial-2.php:559
+#: elementor/widgets/toggle.php:334 elementor/widgets/toggle.php:529
+#: elementor/widgets/toggle.php:981
+msgid "Hover"
+msgstr ""
+
+#: elementor/widgets/pricing.php:248
+msgid "Hover Animation"
+msgstr ""
+
+#: elementor/widgets/client-stories.php:77
+msgid "Hover Background Image"
+msgstr ""
+
+#: elementor/widgets/toggle.php:751 elementor/widgets/toggle.php:860
+msgid "Hover Color"
+msgstr ""
+
+#: elementor/widgets/heading.php:135 elementor/widgets/ova-image-box.php:111
+#: elementor/widgets/ova-video.php:111
+msgid "HTML Tag"
+msgstr ""
+
+#. URI of the theme
+msgid "https://themeforest.net/user/ovatheme/portfolio"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:154
+#: elementor/widgets/contact-info.php:167 elementor/widgets/menu-canvas.php:97
+#: elementor/widgets/toggle-content.php:209
+msgid "https://your-domain.com"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:66
+#: elementor/widgets/gallery-slide.php:85 elementor/widgets/logo.php:68
+#: elementor/widgets/ova-image-box.php:95 elementor/widgets/price-list.php:68
+#: elementor/widgets/pricing.php:186 elementor/widgets/process.php:87
+#: elementor/widgets/promotions.php:249 elementor/widgets/team-2.php:87
+#: elementor/widgets/team-2.php:116 elementor/widgets/toggle-content.php:127
+#: elementor/widgets/toggle-content.php:289
+msgid "https://your-link.com"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:158
+msgid "Hydro Therapy"
+msgstr ""
+
+#: inc/class-elementor.php:110 elementor/widgets/client-stories.php:65
+#: elementor/widgets/contact-info.php:60 elementor/widgets/contact-info.php:260
+#: elementor/widgets/counter.php:71 elementor/widgets/counter.php:229
+#: elementor/widgets/gallery-slide.php:52
+#: elementor/widgets/gallery-slide.php:328 elementor/widgets/gallery.php:50
+#: elementor/widgets/gallery.php:310 elementor/widgets/icon-box.php:60
+#: elementor/widgets/icon-box.php:149 elementor/widgets/icon-list.php:50
+#: elementor/widgets/icon-list.php:141 elementor/widgets/menu-cart.php:45
+#: elementor/widgets/menu-cart.php:68 elementor/widgets/ova-image-box.php:72
+#: elementor/widgets/ova-image-box.php:250 elementor/widgets/ova-video.php:303
+#: elementor/widgets/pricing.php:76 elementor/widgets/pricing.php:136
+#: elementor/widgets/pricing.php:334 elementor/widgets/pricing.php:556
+#: elementor/widgets/tabs.php:59 elementor/widgets/tabs.php:790
+#: elementor/widgets/text-marquee.php:46 elementor/widgets/text-marquee.php:164
+#: elementor/widgets/toggle-content.php:65
+#: elementor/widgets/toggle-content.php:152
+#: elementor/widgets/toggle-content.php:187
+#: elementor/widgets/toggle-content.php:275
+#: elementor/widgets/toggle-content.php:859 elementor/widgets/toggle.php:97
+#: elementor/widgets/toggle.php:700 elementor/widgets/toggle.php:826
+msgid "Icon"
+msgstr ""
+
+#: elementor/widgets/team.php:113
+msgid "Icon 1"
+msgstr ""
+
+#: elementor/widgets/team.php:134
+msgid "Icon 2"
+msgstr ""
+
+#: elementor/widgets/team.php:155
+msgid "Icon 3"
+msgstr ""
+
+#: elementor/widgets/team.php:176
+msgid "Icon 4"
+msgstr ""
+
+#: elementor/widgets/ova-video.php:131
+msgid "Icon Class"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:502 elementor/widgets/gallery-slide.php:378
+#: elementor/widgets/heading.php:310 elementor/widgets/search-popup.php:51
+#: elementor/widgets/search-popup.php:166
+msgid "Icon Color"
+msgstr ""
+
+#: elementor/widgets/search-popup.php:62 elementor/widgets/search-popup.php:177
+msgid "Icon Hover Color"
+msgstr ""
+
+#: elementor/widgets/testimonial-2.php:55 elementor/widgets/testimonial.php:65
+msgid "Icon Quote"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:337
+#: elementor/widgets/gallery-slide.php:801 elementor/widgets/icon-box.php:157
+#: elementor/widgets/team-2.php:585 elementor/widgets/testimonial-2.php:483
+#: elementor/widgets/testimonial.php:592
+#: elementor/widgets/toggle-content.php:386
+msgid "Icon Size"
+msgstr ""
+
+#: elementor/widgets/toggle-content.php:713
+msgid "Icon Spacing"
+msgstr ""
+
+#: elementor/widgets/tabs.php:51 elementor/widgets/tabs.php:762
+msgid "Icon/Image"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:126
+#: elementor/widgets/latest-products.php:125
+#: elementor/widgets/product-list.php:114
+msgid "ID"
+msgstr ""
+
+#: elementor/widgets/gallery.php:236 elementor/widgets/latest-products.php:230
+#: elementor/widgets/logo.php:39 elementor/widgets/ova-image-box.php:61
+#: elementor/widgets/ova-video.php:264 elementor/widgets/process.php:71
+#: elementor/widgets/tabs.php:63 elementor/widgets/tabs.php:901
+#: elementor/widgets/team-2.php:303
+msgid "Image"
+msgstr ""
+
+#: elementor/widgets/team.php:285
+msgid "Image Margin"
+msgstr ""
+
+#: elementor/widgets/price-list.php:76
+msgid "Image on Hover"
+msgstr ""
+
+#: elementor/widgets/team-2.php:52
+msgid "Image Team"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:226
+#: elementor/widgets/testimonial-2.php:142
+#: elementor/widgets/testimonial-3.php:201
+#: elementor/widgets/testimonial.php:194
+msgid "Infinite Loop"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:512 elementor/widgets/team.php:458
+msgid "Info"
+msgstr ""
+
+#: elementor/widgets/menu-footer.php:88
+msgid "Inline Flex"
+msgstr ""
+
+#: elementor/widgets/team-2.php:148
+msgid "Instagram"
+msgstr ""
+
+#: template-parts/404.php:5 template-parts/post/content-none.php:14
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: elementor/widgets/testimonial.php:164 elementor/widgets/testimonial.php:179
+msgid "Item"
+msgstr ""
+
+#: elementor/widgets/team-2.php:125
+msgid "Item #1"
+msgstr ""
+
+#: elementor/widgets/client-stories.php:358
+msgid "Item Client Stories"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:191
+#: elementor/widgets/testimonial-3.php:167
+msgid "Item Number"
+msgstr ""
+
+#: elementor/widgets/menu-nav.php:96
+msgid "Item Padding"
+msgstr ""
+
+#: elementor/widgets/price-list.php:387
+msgid "Item Price List"
+msgstr ""
+
+#: elementor/widgets/process.php:380
+msgid "Item Process"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:144 elementor/widgets/icon-list.php:91
+#: elementor/widgets/menu-cart.php:108 elementor/widgets/price-list.php:152
+#: elementor/widgets/process.php:161 elementor/widgets/text-marquee.php:89
+msgid "Items"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:227
+msgid "Items Alignment"
+msgstr ""
+
+#: elementor/widgets/gallery.php:175
+msgid "Items Gallery"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:209
+msgid "Items Info"
+msgstr ""
+
+#: elementor/widgets/client-stories.php:137
+msgid "Items Story"
+msgstr ""
+
+#: elementor/widgets/testimonial-2.php:108
+#: elementor/widgets/testimonial-3.php:109
+#: elementor/widgets/testimonial.php:123
+msgid "Items Testimonial"
+msgstr ""
+
+#: elementor/widgets/client-stories.php:151
+#: elementor/widgets/testimonial.php:137
+msgid "Jessica Brown"
+msgstr ""
+
+#: elementor/widgets/team.php:210
+msgid "Jessica Rose"
+msgstr ""
+
+#: elementor/widgets/team.php:103 elementor/widgets/team.php:512
+#: elementor/widgets/testimonial-2.php:79
+#: elementor/widgets/testimonial-2.php:393
+#: elementor/widgets/testimonial-3.php:91
+#: elementor/widgets/testimonial-3.php:447 elementor/widgets/testimonial.php:94
+#: elementor/widgets/testimonial.php:482
+msgid "Job"
+msgstr ""
+
+#: elementor/widgets/tabs.php:182 elementor/widgets/tabs.php:212
+msgid "Justified"
+msgstr ""
+
+#: elementor/widgets/promotions.php:329
+msgid "Justify"
+msgstr ""
+
+#: elementor/widgets/client-stories.php:148 elementor/widgets/team-2.php:69
+#: elementor/widgets/testimonial.php:134
+msgid "Kevin Martin"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:72 elementor/widgets/contact-info.php:437
+#: elementor/widgets/pricing-tab.php:46 elementor/widgets/pricing-tab.php:64
+#: elementor/widgets/pricing-tab.php:85
+#: elementor/widgets/toggle-content.php:199
+msgid "Label"
+msgstr ""
+
+#: elementor/widgets/latest-products.php:24
+msgid "Latest Products"
+msgstr ""
+
+#: inc/class-customize.php:360 inc/class-customize.php:389
+#: inc/class-customize.php:704 inc/class-customize.php:759
+#: elementor/widgets/menu-footer.php:80
+msgid "Layout"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:274 elementor/widgets/contact-info.php:483
+#: elementor/widgets/contact-info.php:524 elementor/widgets/counter.php:114
+#: elementor/widgets/header-banner.php:270 elementor/widgets/heading.php:159
+#: elementor/widgets/logo.php:83 elementor/widgets/menu-canvas.php:69
+#: elementor/widgets/ova-image-box.php:135 elementor/widgets/pricing.php:430
+#: elementor/widgets/progress-circle.php:201
+#: elementor/widgets/progress-circle.php:301
+#: elementor/widgets/promotions.php:181 elementor/widgets/team.php:237
+#: elementor/widgets/toggle-content.php:50 elementor/widgets/toggle.php:656
+msgid "Left"
+msgstr ""
+
+#: inc/class-customize.php:959 inc/class-customize.php:1024
+#: inc/class-hook.php:231
+msgid "Left Sidebar"
+msgstr ""
+
+#: elementor/widgets/text-marquee.php:308
+msgid "Left to Right"
+msgstr ""
+
+#: elementor/widgets/testimonial-3.php:117
+msgid "Leslie J. Weller"
+msgstr ""
+
+#: inc/class-customize.php:137
+msgid "Letter Spacing"
+msgstr ""
+
+#: inc/class-customize.php:348
+msgid "Light"
+msgstr ""
+
+#: elementor/widgets/heading.php:405
+msgid "Line"
+msgstr ""
+
+#: elementor/widgets/icon-list.php:116
+msgid "Line Before"
+msgstr ""
+
+#: elementor/widgets/menu-nav.php:146
+msgid "Line Color"
+msgstr ""
+
+#: inc/class-elementor.php:371
+msgid "Line Height"
+msgstr ""
+
+#: inc/class-customize.php:119
+msgid "Line height"
+msgstr ""
+
+#: elementor/widgets/image.php:219
+msgid "Line Left"
+msgstr ""
+
+#: elementor/widgets/image.php:265
+msgid "Line Right"
+msgstr ""
+
+#: elementor/widgets/menu-nav.php:209
+msgid "Line Width"
+msgstr ""
+
+#: elementor/widgets/progress-circle.php:116
+msgid "LineCap"
+msgstr ""
+
+#: elementor/widgets/client-stories.php:88
+#: elementor/widgets/contact-info.php:90 elementor/widgets/gallery-slide.php:64
+#: elementor/widgets/heading.php:121 elementor/widgets/logo.php:47
+#: elementor/widgets/logo.php:63 elementor/widgets/ova-video.php:151
+#: elementor/widgets/price-list.php:63 elementor/widgets/pricing.php:181
+#: elementor/widgets/process.php:82 elementor/widgets/team-2.php:85
+#: elementor/widgets/team-2.php:111 elementor/widgets/toggle-content.php:125
+#: elementor/widgets/toggle-content.php:207
+#: elementor/widgets/toggle-content.php:287
+msgid "Link"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:165
+msgid "Link Adress"
+msgstr ""
+
+#: elementor/widgets/menu-canvas.php:95 elementor/widgets/promotions.php:244
+msgid "Link Button"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:491 elementor/widgets/contact-info.php:573
+msgid "Link Color hover"
+msgstr ""
+
+#: elementor/widgets/team.php:125
+msgid "Link Icon 1"
+msgstr ""
+
+#: elementor/widgets/team.php:146
+msgid "Link Icon 2"
+msgstr ""
+
+#: elementor/widgets/team.php:167
+msgid "Link Icon 3"
+msgstr ""
+
+#: elementor/widgets/team.php:188
+msgid "Link Icon 4"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:152
+msgid "Link Label"
+msgstr ""
+
+#: elementor/widgets/ova-image-box.php:93
+msgid "Link Title"
+msgstr ""
+
+#: elementor/widgets/price-list.php:418
+msgid "List Padding"
+msgstr ""
+
+#: elementor/widgets/pricing.php:157 elementor/widgets/pricing.php:487
+msgid "List Text Service"
+msgstr ""
+
+#: customize/custom-control/google-font.php:122
+msgid "Load Font Weight"
+msgstr ""
+
+#: inc/class-woo.php:186
+msgid "Login"
+msgstr ""
+
+#: elementor/widgets/logo.php:19
+msgid "Logo"
+msgstr ""
+
+#: inc/class-customize.php:43
+msgid "Logo Default"
+msgstr ""
+
+#: elementor/widgets/ova-video.php:205
+msgid "Loop"
+msgstr ""
+
+#: elementor/widgets/pricing.php:162
+msgid "Lorem ipsum dolor sit amet"
+msgstr ""
+
+#: elementor/widgets/toggle-content.php:109
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua."
+msgstr ""
+
+#: elementor/widgets/tabs.php:128 elementor/widgets/tabs.php:132
+#: elementor/widgets/toggle.php:74 elementor/widgets/toggle.php:78
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, "
+"luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: elementor/widgets/process.php:115
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur notted adipisicing elit sed do "
+"eiusmod."
+msgstr ""
+
+#: install-resource/active-plugins.php:23
+msgid "Mailchimp for wp"
+msgstr ""
+
+#: inc/class-widgets.php:20 inc/class-widgets.php:22
+msgid "Main Sidebar"
+msgstr ""
+
+#: inc/class-elementor.php:60 inc/class-elementor.php:89
+#: inc/class-elementor.php:118 inc/class-elementor.php:224
+#: elementor/widgets/blog-grid.php:311 elementor/widgets/blog-grid.php:379
+#: elementor/widgets/blog-grid.php:435 elementor/widgets/blog-grid.php:513
+#: elementor/widgets/blog-grid.php:663 elementor/widgets/blog-grid.php:718
+#: elementor/widgets/client-stories.php:231
+#: elementor/widgets/client-stories.php:328
+#: elementor/widgets/contact-info.php:378
+#: elementor/widgets/contact-info.php:467
+#: elementor/widgets/contact-info.php:595
+#: elementor/widgets/gallery-slide.php:434
+#: elementor/widgets/gallery-slide.php:499
+#: elementor/widgets/gallery-slide.php:609 elementor/widgets/gallery.php:244
+#: elementor/widgets/heading.php:250 elementor/widgets/heading.php:333
+#: elementor/widgets/heading.php:389 elementor/widgets/icon-box.php:204
+#: elementor/widgets/icon-box.php:246 elementor/widgets/icon-list.php:212
+#: elementor/widgets/latest-products.php:164
+#: elementor/widgets/latest-products.php:315
+#: elementor/widgets/menu-footer.php:156 elementor/widgets/menu-footer.php:266
+#: elementor/widgets/ova-image-box.php:292
+#: elementor/widgets/ova-image-box.php:332 elementor/widgets/ova-video.php:494
+#: elementor/widgets/pricing-tab.php:157 elementor/widgets/pricing.php:531
+#: elementor/widgets/pricing.php:594 elementor/widgets/pricing.php:646
+#: elementor/widgets/pricing.php:735 elementor/widgets/product-list.php:307
+#: elementor/widgets/progress-circle.php:342
+#: elementor/widgets/promotions.php:424 elementor/widgets/promotions.php:537
+#: elementor/widgets/promotions.php:581 elementor/widgets/promotions.php:684
+#: elementor/widgets/promotions.php:797 elementor/widgets/promotions.php:837
+#: elementor/widgets/promotions.php:957 elementor/widgets/promotions.php:1071
+#: elementor/widgets/tabs.php:378 elementor/widgets/tabs.php:648
+#: elementor/widgets/tabs.php:745 elementor/widgets/tabs.php:888
+#: elementor/widgets/tabs.php:992 elementor/widgets/team-2.php:287
+#: elementor/widgets/team-2.php:323 elementor/widgets/team-2.php:397
+#: elementor/widgets/team-2.php:471 elementor/widgets/team-2.php:634
+#: elementor/widgets/team.php:261 elementor/widgets/team.php:498
+#: elementor/widgets/team.php:538 elementor/widgets/testimonial-3.php:325
+#: elementor/widgets/testimonial-3.php:376
+#: elementor/widgets/testimonial-3.php:419
+#: elementor/widgets/testimonial-3.php:475
+#: elementor/widgets/testimonial-3.php:531
+#: elementor/widgets/text-marquee.php:204
+#: elementor/widgets/toggle-content.php:504
+#: elementor/widgets/toggle-content.php:545
+#: elementor/widgets/toggle-content.php:631
+#: elementor/widgets/toggle-content.php:672
+#: elementor/widgets/toggle-content.php:736
+#: elementor/widgets/toggle-content.php:781 elementor/widgets/toggle.php:260
+#: elementor/widgets/toggle.php:465 elementor/widgets/toggle.php:682
+#: elementor/widgets/toggle.php:805 elementor/widgets/toggle.php:905
+#: elementor/widgets/toggle.php:1037 elementor/widgets/toggle.php:1140
+msgid "Margin"
+msgstr ""
+
+#: elementor/widgets/toggle.php:1152
+msgid "Margin (p, h1... h6)"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:181
+#: elementor/widgets/testimonial-3.php:158
+msgid "Margin Right Items"
+msgstr ""
+
+#: inc/class-elementor.php:162
+msgid "Margin Title"
+msgstr ""
+
+#: inc/class-customize.php:530
+msgid "Masonry"
+msgstr ""
+
+#: elementor/widgets/price-list.php:54
+msgid "Massages & Prices"
+msgstr ""
+
+#: elementor/widgets/counter.php:206 elementor/widgets/ova-image-box.php:166
+#: elementor/widgets/price-list.php:333 elementor/widgets/testimonial-3.php:278
+msgid "Max Width"
+msgstr ""
+
+#: elementor/widgets/pricing.php:168
+msgid "Mei populo est"
+msgstr ""
+
+#. Name of the theme
+#: inc/class-elementor.php:263
+msgid "Mellis"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Mellis is a modernized take on an ever-popular WordPress. It has custom "
+"color options with beautiful default color schemes, a harmonious fluid grid "
+"using a mobile-first approach, and impeccable polish in every detail. Mellis "
+"will make your WordPress look beautiful everywhere. Created by <a "
+"href=\"https://themeforest.net/user/ovatheme\">Ovatheme</a>"
+msgstr ""
+
+#: template-parts/header-default.php:22 elementor/widgets/menu-footer.php:44
+#: elementor/widgets/menu-footer.php:72 elementor/widgets/menu-nav.php:16
+#: elementor/widgets/menu-nav.php:389
+msgid "Menu"
+msgstr ""
+
+#: elementor/widgets/menu-canvas.php:154
+msgid "Menu Background"
+msgstr ""
+
+#: elementor/widgets/menu-canvas.php:16
+msgid "Menu Canvas"
+msgstr ""
+
+#: elementor/widgets/menu-cart.php:21
+msgid "Menu Cart"
+msgstr ""
+
+#: elementor/widgets/menu-canvas.php:189 elementor/widgets/menu-canvas.php:212
+#: elementor/widgets/menu-canvas.php:236 elementor/widgets/menu-nav.php:134
+#: elementor/widgets/menu-nav.php:171 elementor/widgets/menu-nav.php:196
+#: elementor/widgets/menu-nav.php:302 elementor/widgets/menu-nav.php:327
+#: elementor/widgets/menu-nav.php:351
+msgid "Menu Color"
+msgstr ""
+
+#: elementor/widgets/menu-canvas.php:65 elementor/widgets/toggle-content.php:46
+msgid "Menu Direction"
+msgstr ""
+
+#: elementor/widgets/menu-footer.php:20
+msgid "Menu Footer"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:463
+msgid "Meta"
+msgstr ""
+
+#: elementor/widgets/client-stories.php:145
+#: elementor/widgets/testimonial-2.php:72
+#: elementor/widgets/testimonial-2.php:119 elementor/widgets/testimonial.php:87
+#: elementor/widgets/testimonial.php:128
+msgid "Mike Hardson"
+msgstr ""
+
+#: elementor/widgets/testimonial-3.php:121
+msgid "Mike hardson"
+msgstr ""
+
+#: elementor/widgets/ova-video.php:274
+msgid "Min Height"
+msgstr ""
+
+#: elementor/widgets/logo.php:172
+msgid "Mobile Logo"
+msgstr ""
+
+#: elementor/widgets/logo.php:207
+msgid "Mobile Logo Height"
+msgstr ""
+
+#: elementor/widgets/logo.php:187
+msgid "Mobile Logo Width"
+msgstr ""
+
+#: elementor/widgets/ova-video.php:233
+msgid "Modest Branding"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:129
+#: elementor/widgets/latest-products.php:128
+msgid "Modified"
+msgstr ""
+
+#: elementor/widgets/pricing-tab.php:48
+msgid "Monthly"
+msgstr ""
+
+#: inc/class-elementor.php:300
+msgid "Move Down"
+msgstr ""
+
+#: inc/class-elementor.php:301
+msgid "Move Left"
+msgstr ""
+
+#: inc/class-elementor.php:302
+msgid "Move Right"
+msgstr ""
+
+#: inc/class-elementor.php:299
+msgid "Move Up"
+msgstr ""
+
+#: elementor/widgets/ova-video.php:191
+msgid "Mute"
+msgstr ""
+
+#: inc/class-hook.php:376 elementor/widgets/client-stories.php:204
+#: elementor/widgets/team.php:92 elementor/widgets/team.php:470
+msgid "Name"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:771
+msgid "Nav"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:782
+msgid "Nav Size"
+msgstr ""
+
+#: elementor/widgets/tabs.php:312
+msgid "Navigation"
+msgstr ""
+
+#: elementor/widgets/tabs.php:241
+msgid "Navigation Width"
+msgstr ""
+
+#: inc/class-customize.php:550 inc/class-customize.php:570
+#: inc/class-customize.php:590 inc/class-customize.php:610
+#: inc/class-customize.php:630 inc/class-customize.php:650
+#: inc/class-customize.php:670 inc/class-customize.php:690
+#: inc/class-customize.php:782 inc/class-customize.php:802
+#: inc/class-customize.php:822 inc/class-customize.php:842
+#: inc/class-customize.php:862 inc/class-customize.php:882
+#: inc/class-customize.php:902 inc/class-customize.php:998
+#: inc/class-customize.php:1044 elementor/widgets/gallery-slide.php:216
+#: elementor/widgets/gallery-slide.php:231
+#: elementor/widgets/gallery-slide.php:245
+#: elementor/widgets/gallery-slide.php:282
+#: elementor/widgets/gallery-slide.php:296 elementor/widgets/icon-list.php:83
+#: elementor/widgets/latest-products.php:90 elementor/widgets/ova-video.php:180
+#: elementor/widgets/ova-video.php:194 elementor/widgets/ova-video.php:208
+#: elementor/widgets/ova-video.php:222 elementor/widgets/ova-video.php:236
+#: elementor/widgets/ova-video.php:250 elementor/widgets/pricing.php:68
+#: elementor/widgets/testimonial-2.php:147
+#: elementor/widgets/testimonial-2.php:161
+#: elementor/widgets/testimonial-2.php:198
+#: elementor/widgets/testimonial-2.php:212
+#: elementor/widgets/testimonial-3.php:136
+#: elementor/widgets/testimonial-3.php:192
+#: elementor/widgets/testimonial-3.php:206
+#: elementor/widgets/testimonial-3.php:220
+#: elementor/widgets/testimonial-3.php:257
+#: elementor/widgets/testimonial.php:199 elementor/widgets/testimonial.php:213
+#: elementor/widgets/testimonial.php:250 elementor/widgets/testimonial.php:269
+msgid "No"
+msgstr ""
+
+#: elementor/widgets/text-marquee.php:100
+msgid "No Artificial Fragrances"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:46
+msgid "No content Category found"
+msgstr ""
+
+#: elementor/widgets/product-list.php:579
+msgid "No products found"
+msgstr ""
+
+#: inc/class-customize.php:957 inc/class-customize.php:1022
+#: inc/class-hook.php:229
+msgid "No Sidebar"
+msgstr ""
+
+#: elementor/widgets/heading.php:68 elementor/widgets/latest-products.php:124
+#: elementor/widgets/logo.php:51 elementor/widgets/price-list.php:105
+#: elementor/widgets/promotions.php:138 elementor/widgets/promotions.php:486
+#: elementor/widgets/tabs.php:55 elementor/widgets/tabs.php:332
+msgid "None"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:835
+#: elementor/widgets/latest-products.php:180
+#: elementor/widgets/menu-canvas.php:182 elementor/widgets/menu-footer.php:115
+#: elementor/widgets/menu-footer.php:225 elementor/widgets/menu-nav.php:127
+#: elementor/widgets/menu-nav.php:295 elementor/widgets/ova-video.php:371
+#: elementor/widgets/process.php:135 elementor/widgets/product-list.php:266
+#: elementor/widgets/product-list.php:385 elementor/widgets/promotions.php:917
+#: elementor/widgets/tabs.php:422 elementor/widgets/tabs.php:811
+#: elementor/widgets/team-2.php:174 elementor/widgets/team-2.php:356
+#: elementor/widgets/team-2.php:430 elementor/widgets/team-2.php:504
+#: elementor/widgets/team.php:391 elementor/widgets/testimonial-2.php:528
+#: elementor/widgets/testimonial.php:672 elementor/widgets/text-marquee.php:295
+#: elementor/widgets/toggle.php:303 elementor/widgets/toggle.php:509
+#: elementor/widgets/toggle.php:961
+msgid "Normal"
+msgstr ""
+
+#: template-parts/post/content-none.php:3
+msgid "Nothing Found"
+msgstr ""
+
+#: elementor/widgets/counter.php:83 elementor/widgets/counter.php:348
+msgid "Number"
+msgstr ""
+
+#: elementor/widgets/process.php:55
+msgid "Number Column"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:193
+#: elementor/widgets/testimonial-3.php:169
+msgid "Number Item"
+msgstr ""
+
+#: elementor/widgets/promotions.php:231
+msgid "Off"
+msgstr ""
+
+#: install-resource/active-plugins.php:43
+msgid "One click demo import"
+msgstr ""
+
+#: elementor/widgets/heading.php:69
+msgid "Only Left"
+msgstr ""
+
+#: elementor/widgets/heading.php:70
+msgid "Only Right"
+msgstr ""
+
+#: elementor/widgets/latest-products.php:87
+#: elementor/widgets/product-list.php:45
+msgid "Only Show Featured"
+msgstr ""
+
+#: elementor/widgets/gallery.php:289 elementor/widgets/text-marquee.php:131
+msgid "Opacity"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:138
+#: elementor/widgets/latest-products.php:107
+#: elementor/widgets/product-list.php:123
+msgid "Order"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:122
+#: elementor/widgets/latest-products.php:120
+#: elementor/widgets/product-list.php:109
+msgid "Order By"
+msgstr ""
+
+#: inc/class-elementor.php:45
+msgid "Ova Accordion"
+msgstr ""
+
+#: elementor/widgets/counter.php:21 elementor/widgets/counter.php:49
+#: elementor/widgets/counter.php:150
+msgid "Ova Counter"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:18
+msgid "Ova Gallery Slide"
+msgstr ""
+
+#: elementor/widgets/heading.php:20
+msgid "Ova Heading"
+msgstr ""
+
+#: inc/class-elementor.php:365
+msgid "Ova Icon"
+msgstr ""
+
+#: inc/class-elementor.php:155 elementor/widgets/icon-box.php:18
+msgid "Ova Icon Box"
+msgstr ""
+
+#: elementor/widgets/icon-list.php:18
+msgid "Ova Icon List"
+msgstr ""
+
+#: elementor/widgets/image.php:20
+msgid "Ova Image"
+msgstr ""
+
+#: elementor/widgets/ova-image-box.php:18
+msgid "Ova Image Box"
+msgstr ""
+
+#: elementor/widgets/pricing.php:20
+msgid "Ova Pricing"
+msgstr ""
+
+#: inc/class-elementor.php:182
+msgid "Ova Social Icon"
+msgstr ""
+
+#: elementor/widgets/team.php:20
+msgid "Ova Team"
+msgstr ""
+
+#: elementor/widgets/team-2.php:19
+msgid "Ova Team 2"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:19
+msgid "Ova Testimonial"
+msgstr ""
+
+#: elementor/widgets/testimonial-2.php:20
+msgid "Ova Testimonial 2"
+msgstr ""
+
+#: elementor/widgets/testimonial-3.php:18
+msgid "Ova Testimonial 3"
+msgstr ""
+
+#: inc/class-elementor.php:217
+msgid "Ova Text Editor"
+msgstr ""
+
+#: elementor/widgets/ova-video.php:20
+msgid "Ova Video"
+msgstr ""
+
+#: elementor/widgets/team-2.php:144
+msgid "ovaicon ovaicon-facebook-logo"
+msgstr ""
+
+#: elementor/widgets/team-2.php:149
+msgid "ovaicon ovaicon-instagram-1"
+msgstr ""
+
+#: elementor/widgets/team-2.php:103 elementor/widgets/team-2.php:139
+msgid "ovaicon-twitter"
+msgstr ""
+
+#. Author of the theme
+msgid "Ovatheme"
+msgstr ""
+
+#: install-resource/active-plugins.php:53
+msgid "OvaTheme Framework"
+msgstr ""
+
+#: install-resource/active-plugins.php:78
+msgid "Ovatheme MegaMenu"
+msgstr ""
+
+#: install-resource/active-plugins.php:66
+msgid "OvaTheme Service"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:402
+msgid "Overlay"
+msgstr ""
+
+#: elementor/widgets/heading.php:147 elementor/widgets/ova-image-box.php:123
+#: elementor/widgets/ova-video.php:123
+msgid "p"
+msgstr ""
+
+#: inc/class-elementor.php:236 elementor/widgets/blog-grid.php:298
+#: elementor/widgets/blog-grid.php:391 elementor/widgets/blog-grid.php:447
+#: elementor/widgets/blog-grid.php:566 elementor/widgets/blog-grid.php:651
+#: elementor/widgets/client-stories.php:285
+#: elementor/widgets/client-stories.php:340
+#: elementor/widgets/client-stories.php:377
+#: elementor/widgets/contact-info.php:390
+#: elementor/widgets/contact-info.php:607
+#: elementor/widgets/contact-info.php:642 elementor/widgets/counter.php:194
+#: elementor/widgets/counter.php:323 elementor/widgets/counter.php:428
+#: elementor/widgets/gallery-slide.php:316
+#: elementor/widgets/gallery-slide.php:446
+#: elementor/widgets/gallery-slide.php:511 elementor/widgets/gallery.php:163
+#: elementor/widgets/gallery.php:256 elementor/widgets/heading.php:238
+#: elementor/widgets/heading.php:321 elementor/widgets/heading.php:377
+#: elementor/widgets/icon-box.php:133 elementor/widgets/icon-list.php:200
+#: elementor/widgets/image.php:164 elementor/widgets/menu-footer.php:168
+#: elementor/widgets/menu-footer.php:278 elementor/widgets/menu-nav.php:84
+#: elementor/widgets/ova-image-box.php:200 elementor/widgets/price-list.php:214
+#: elementor/widgets/price-list.php:267 elementor/widgets/price-list.php:310
+#: elementor/widgets/price-list.php:406 elementor/widgets/pricing.php:236
+#: elementor/widgets/pricing.php:318 elementor/widgets/pricing.php:543
+#: elementor/widgets/pricing.php:724 elementor/widgets/process.php:248
+#: elementor/widgets/process.php:310 elementor/widgets/process.php:364
+#: elementor/widgets/product-list.php:234 elementor/widgets/promotions.php:411
+#: elementor/widgets/promotions.php:593 elementor/widgets/promotions.php:945
+#: elementor/widgets/search-popup.php:95 elementor/widgets/tabs.php:366
+#: elementor/widgets/tabs.php:635 elementor/widgets/tabs.php:731
+#: elementor/widgets/tabs.php:875 elementor/widgets/tabs.php:979
+#: elementor/widgets/team-2.php:273 elementor/widgets/testimonial-2.php:328
+#: elementor/widgets/testimonial-2.php:352
+#: elementor/widgets/testimonial-2.php:455
+#: elementor/widgets/testimonial-2.php:502
+#: elementor/widgets/testimonial-3.php:313
+#: elementor/widgets/testimonial-3.php:431
+#: elementor/widgets/testimonial-3.php:487
+#: elementor/widgets/testimonial-3.php:543
+#: elementor/widgets/testimonial.php:293 elementor/widgets/testimonial.php:424
+#: elementor/widgets/testimonial.php:562 elementor/widgets/text-marquee.php:150
+#: elementor/widgets/toggle-content.php:619 elementor/widgets/toggle.php:248
+#: elementor/widgets/toggle.php:453 elementor/widgets/toggle.php:793
+#: elementor/widgets/toggle.php:890 elementor/widgets/toggle.php:1128
+msgid "Padding"
+msgstr ""
+
+#: template-parts/page.php:23
+msgid "Page"
+msgstr ""
+
+#: template-parts/parts/breadcrumbs.php:148
+msgid "Page not found"
+msgstr ""
+
+#: template-parts/parts/breadcrumbs_title.php:36
+msgid "page not found"
+msgstr ""
+
+#: template-parts/page.php:19 template-parts/parts/content.php:4
+msgid "Pages:"
+msgstr ""
+
+#: elementor/widgets/menu-nav.php:67
+msgid "Parent Menu"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:211
+#: elementor/widgets/testimonial-3.php:187
+msgid "Pause on Hover"
+msgstr ""
+
+#: elementor/widgets/progress-circle.php:79
+#: elementor/widgets/progress-circle.php:225
+msgid "Percent"
+msgstr ""
+
+#: elementor/widgets/pricing.php:125 elementor/widgets/pricing.php:455
+msgid "Period"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:89
+msgid "Phone"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:139
+msgid "Phone Adress"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:126
+msgid "Phone Label"
+msgstr ""
+
+#: elementor/widgets/ova-video.php:80
+msgid "Place of beauty"
+msgstr ""
+
+#: elementor/widgets/ova-video.php:219
+msgid "Player Controls"
+msgstr ""
+
+#: elementor/widgets/counter.php:94
+msgid "Plus"
+msgstr ""
+
+#: inc/class-elementor.php:306
+msgid "PopUp"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:133 elementor/widgets/gallery.php:86
+msgid "Popup Image"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:567 elementor/widgets/promotions.php:177
+#: elementor/widgets/tabs.php:151
+msgid "Position"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:590
+#: elementor/widgets/testimonial.php:649
+msgid "Position Bottom"
+msgstr ""
+
+#: elementor/widgets/pricing.php:426
+msgid "Position Currency"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:113
+msgid "Post Total"
+msgstr ""
+
+#: elementor/widgets/product-list.php:100
+msgid "Posts Per Page"
+msgstr ""
+
+#: elementor/widgets/latest-products.php:331
+#: elementor/widgets/price-list.php:143 elementor/widgets/price-list.php:356
+#: elementor/widgets/pricing.php:116 elementor/widgets/pricing.php:388
+#: elementor/widgets/product-list.php:343 elementor/widgets/promotions.php:201
+#: elementor/widgets/promotions.php:215 elementor/widgets/promotions.php:614
+msgid "Price"
+msgstr ""
+
+#: elementor/widgets/price-list.php:21
+msgid "Price List"
+msgstr ""
+
+#: elementor/widgets/pricing-tab.php:17
+msgid "Pricing Tab"
+msgstr ""
+
+#: inc/class-customize.php:288
+msgid "Primary"
+msgstr ""
+
+#: inc/class-customize.php:149 inc/class-customize.php:164
+msgid "Primary Font"
+msgstr ""
+
+#: inc/class-main.php:89
+msgid "Primary Menu"
+msgstr ""
+
+#: elementor/widgets/process.php:21
+msgid "Process"
+msgstr ""
+
+#: inc/class-customize.php:1003
+msgid "Product detail"
+msgstr ""
+
+#: elementor/widgets/product-list.php:22
+msgid "Product List"
+msgstr ""
+
+#: elementor/widgets/icon-list.php:104
+msgid "Professional & Expert Staff"
+msgstr ""
+
+#: elementor/widgets/ova-image-box.php:86
+msgid "Professional Facial Treatment For Men & Women"
+msgstr ""
+
+#: elementor/widgets/progress-circle.php:21
+#: elementor/widgets/progress-circle.php:48
+msgid "Progress Circle"
+msgstr ""
+
+#: elementor/widgets/promotions.php:753
+msgid "Promo"
+msgstr ""
+
+#: elementor/widgets/promotions.php:106 elementor/widgets/promotions.php:122
+msgid "Promo Code"
+msgstr ""
+
+#: elementor/widgets/promotions.php:120
+msgid "Promo Code Text"
+msgstr ""
+
+#: elementor/widgets/promotions.php:20
+msgid "Promotions"
+msgstr ""
+
+#: elementor/widgets/icon-list.php:64 elementor/widgets/icon-list.php:96
+msgid "Quality Products"
+msgstr ""
+
+#: elementor/widgets/client-stories.php:170
+msgid "Quote"
+msgstr ""
+
+#: elementor/widgets/testimonial-2.php:268
+#: elementor/widgets/testimonial.php:369
+msgid "Quote Icon"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:130
+#: elementor/widgets/latest-products.php:129
+msgid "Rand"
+msgstr ""
+
+#: elementor/widgets/testimonial-3.php:100
+msgid "Rating For"
+msgstr ""
+
+#: elementor/widgets/testimonial-3.php:559
+msgid "Rating Stars"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:153 elementor/widgets/blog-grid.php:679
+msgid "Read More"
+msgstr ""
+
+#: template-parts/parts/readmore.php:2
+msgid "Read more"
+msgstr ""
+
+#: template-parts/post/content-none.php:10
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/class-customize.php:120
+msgid "Recommend use em. Example: 1.6em, 23px"
+msgstr ""
+
+#: elementor/widgets/icon-box.php:74
+msgid "Reduce Body Stress"
+msgstr ""
+
+#: inc/class-woo.php:192
+msgid "Register"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:575
+msgid "Relative"
+msgstr ""
+
+#: elementor/widgets/counter.php:167
+msgid "Reverse"
+msgstr ""
+
+#: elementor/widgets/product-list.php:321
+msgid "Review"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:282 elementor/widgets/contact-info.php:491
+#: elementor/widgets/contact-info.php:532 elementor/widgets/counter.php:122
+#: elementor/widgets/gallery.php:379 elementor/widgets/header-banner.php:278
+#: elementor/widgets/heading.php:167 elementor/widgets/logo.php:91
+#: elementor/widgets/menu-canvas.php:73 elementor/widgets/ova-image-box.php:143
+#: elementor/widgets/pricing.php:435 elementor/widgets/progress-circle.php:209
+#: elementor/widgets/progress-circle.php:309
+#: elementor/widgets/promotions.php:185 elementor/widgets/team.php:245
+#: elementor/widgets/toggle-content.php:54
+msgid "Right"
+msgstr ""
+
+#: inc/class-customize.php:958 inc/class-customize.php:1023
+#: inc/class-hook.php:230
+msgid "Right Sidebar"
+msgstr ""
+
+#: elementor/widgets/text-marquee.php:309
+msgid "Right to Left"
+msgstr ""
+
+#: elementor/widgets/testimonial-3.php:84
+#: elementor/widgets/testimonial-3.php:114
+msgid "Robert M. Borne"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:295
+msgid "Rolate"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:357
+msgid "Rotate"
+msgstr ""
+
+#: elementor/widgets/progress-circle.php:121
+msgid "Round"
+msgstr ""
+
+#: elementor/widgets/client-stories.php:154
+msgid "Sarah Albert"
+msgstr ""
+
+#: elementor/widgets/testimonial-2.php:101
+#: elementor/widgets/testimonial.php:116
+msgid ""
+"Saturday is a day for the spa. It's not selfish to love yourself, take care "
+"of yourself, and to make your happiness a priority."
+msgstr ""
+
+#: inc/class-elementor.php:303
+msgid "Scale Up"
+msgstr ""
+
+#: elementor/widgets/search-popup.php:44
+#: template-parts/parts/breadcrumbs_title.php:17
+msgid "Search"
+msgstr ""
+
+#: elementor/widgets/search-popup.php:226
+msgid "Search for:"
+msgstr ""
+
+#: elementor/widgets/search-popup.php:20
+msgid "Search Popup"
+msgstr ""
+
+#: elementor/widgets/search-popup.php:159
+msgid "Search popup"
+msgstr ""
+
+#: template-parts/parts/breadcrumbs.php:86
+msgid "Search results for"
+msgstr ""
+
+#: template-parts/search.php:7
+msgid "Search Results for: "
+msgstr ""
+
+#: elementor/widgets/search-popup.php:226
+msgid "Search …"
+msgstr ""
+
+#: inc/class-customize.php:188
+msgid "Second Font"
+msgstr ""
+
+#: elementor/widgets/icon-list.php:73
+msgid ""
+"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium "
+"doloremque laudantium totam aperiam"
+msgstr ""
+
+#: elementor/widgets/latest-products.php:75
+#: elementor/widgets/product-list.php:90
+msgid "Select Category"
+msgstr ""
+
+#: elementor/widgets/menu-canvas.php:54 elementor/widgets/menu-footer.php:58
+#: elementor/widgets/menu-nav.php:50
+msgid "Select Menu"
+msgstr ""
+
+#: elementor/widgets/testimonial-3.php:118
+msgid "Senior Manager"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:203
+#: elementor/widgets/testimonial-3.php:179
+msgid "Set how many slides are scrolled per swipe."
+msgstr ""
+
+#: template-parts/parts/tags.php:12
+msgid "Share: "
+msgstr ""
+
+#: elementor/widgets/testimonial-2.php:116
+msgid "Shirley Smith"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:407
+msgid "Short Description"
+msgstr ""
+
+#: elementor/widgets/pricing-tab.php:57
+msgid "Shortcode Pricing"
+msgstr ""
+
+#: elementor/widgets/pricing-tab.php:55
+msgid "Shortcode Pricing 1"
+msgstr ""
+
+#: elementor/widgets/pricing-tab.php:73 elementor/widgets/pricing-tab.php:75
+msgid "Shortcode Pricing 2"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:162 elementor/widgets/blog-grid.php:174
+#: elementor/widgets/blog-grid.php:199 elementor/widgets/blog-grid.php:211
+#: elementor/widgets/blog-grid.php:223 elementor/widgets/blog-grid.php:235
+#: elementor/widgets/blog-grid.php:247 elementor/widgets/counter.php:137
+#: elementor/widgets/heading.php:184 elementor/widgets/icon-list.php:118
+#: elementor/widgets/image.php:90 elementor/widgets/image.php:105
+#: elementor/widgets/menu-canvas.php:86 elementor/widgets/product-list.php:47
+#: elementor/widgets/promotions.php:669 elementor/widgets/toggle.php:479
+#: elementor/widgets/toggle.php:922
+msgid "Show"
+msgstr ""
+
+#: inc/class-customize.php:624 inc/class-customize.php:856
+#: elementor/widgets/blog-grid.php:209
+msgid "Show Author"
+msgstr ""
+
+#: elementor/widgets/toggle.php:477
+msgid "Show Before Title"
+msgstr ""
+
+#: elementor/widgets/toggle.php:920
+msgid "Show Border Icon"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:201
+msgid "Show Breadcrumbs"
+msgstr ""
+
+#: elementor/widgets/menu-canvas.php:84
+msgid "Show Button"
+msgstr ""
+
+#: inc/class-customize.php:604 inc/class-customize.php:836
+#: elementor/widgets/blog-grid.php:233
+msgid "Show Category"
+msgstr ""
+
+#: inc/class-customize.php:644 inc/class-customize.php:876
+#: elementor/widgets/blog-grid.php:172
+msgid "Show Comment"
+msgstr ""
+
+#: inc/class-customize.php:584 inc/class-customize.php:816
+#: elementor/widgets/blog-grid.php:197
+msgid "Show Date"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:277
+#: elementor/widgets/testimonial-3.php:252
+msgid "Show Dots"
+msgstr ""
+
+#: inc/class-customize.php:664
+msgid "Show Excerpt"
+msgstr ""
+
+#: elementor/widgets/ova-video.php:247
+msgid "Show Info"
+msgstr ""
+
+#: elementor/widgets/heading.php:182
+msgid "Show Line"
+msgstr ""
+
+#: elementor/widgets/image.php:88
+msgid "Show Line Left"
+msgstr ""
+
+#: elementor/widgets/image.php:103
+msgid "Show Line Right"
+msgstr ""
+
+#: elementor/widgets/promotions.php:667
+msgid "Show Mask"
+msgstr ""
+
+#: inc/class-customize.php:544 inc/class-customize.php:776
+msgid "Show Media"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:291
+msgid "Show Nav"
+msgstr ""
+
+#: elementor/widgets/testimonial-3.php:131
+msgid "Show Rating"
+msgstr ""
+
+#: inc/class-customize.php:684 elementor/widgets/blog-grid.php:245
+msgid "Show Read More"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:160
+msgid "Show Short Description"
+msgstr ""
+
+#: elementor/widgets/counter.php:135
+msgid "Show Star"
+msgstr ""
+
+#: inc/class-customize.php:896
+msgid "Show Tag"
+msgstr ""
+
+#: inc/class-customize.php:564 inc/class-customize.php:796
+#: elementor/widgets/blog-grid.php:221 elementor/widgets/header-banner.php:135
+msgid "Show Title"
+msgstr ""
+
+#: inc/class-customize.php:992 inc/class-customize.php:1038
+msgid "Show/Hide Title"
+msgstr ""
+
+#: inc/class-customize.php:405 inc/class-customize.php:975
+msgid "Sidebar Width (px)"
+msgstr ""
+
+#: inc/class-customize.php:745
+msgid "Single"
+msgstr ""
+
+#: elementor/widgets/process.php:59
+msgid "Single Column"
+msgstr ""
+
+#: inc/class-customize.php:1017
+msgid "Single Layout"
+msgstr ""
+
+#: elementor/widgets/counter.php:237 elementor/widgets/menu-cart.php:76
+#: elementor/widgets/ova-image-box.php:258 elementor/widgets/pricing.php:342
+#: elementor/widgets/pricing.php:564 elementor/widgets/team-2.php:567
+#: elementor/widgets/team.php:328 elementor/widgets/testimonial-2.php:234
+#: elementor/widgets/testimonial-2.php:276
+#: elementor/widgets/testimonial-3.php:357
+#: elementor/widgets/testimonial-3.php:637
+#: elementor/widgets/testimonial.php:335 elementor/widgets/testimonial.php:382
+#: elementor/widgets/text-marquee.php:172
+#: elementor/widgets/toggle-content.php:802
+#: elementor/widgets/toggle-content.php:868
+msgid "Size"
+msgstr ""
+
+#: inc/class-elementor.php:130
+msgid "Size "
+msgstr ""
+
+#: elementor/widgets/progress-circle.php:148
+msgid "Size (px)"
+msgstr ""
+
+#: elementor/widgets/search-popup.php:130
+msgid "Size Icon"
+msgstr ""
+
+#: elementor/widgets/icon-box.php:84
+msgid "Skilled therapists their hands nurturing wellness renewal opulente"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:149
+msgid "Skin Treatments"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:161
+msgid "Skin Treatments 2"
+msgstr ""
+
+#: install-resource/active-plugins.php:60
+msgid "Slider Revolution"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:201
+#: elementor/widgets/testimonial-3.php:177
+msgid "Slides to Scroll"
+msgstr ""
+
+#: elementor/widgets/process.php:134 elementor/widgets/text-marquee.php:294
+msgid "Slow"
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:268
+#: elementor/widgets/testimonial-2.php:184
+#: elementor/widgets/testimonial-3.php:243
+#: elementor/widgets/testimonial.php:236
+msgid "Smart Speed"
+msgstr ""
+
+#: elementor/widgets/team-2.php:486 elementor/widgets/team.php:301
+msgid "Social"
+msgstr ""
+
+#: install-resource/active-plugins.php:48
+msgid "Social Feed Gallery"
+msgstr ""
+
+#: elementor/widgets/team-2.php:133
+msgid "Social Icons"
+msgstr ""
+
+#: elementor/widgets/toggle-content.php:302
+#: elementor/widgets/toggle-content.php:750
+#: elementor/widgets/toggle-content.php:1001
+msgid "Socials"
+msgstr ""
+
+#: template-parts/search.php:29
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/page.php:34
+msgid "Sorry, no pages matched your criteria."
+msgstr ""
+
+#: elementor/widgets/gallery-slide.php:115
+msgid "Spa & Beauty"
+msgstr ""
+
+#: elementor/widgets/promotions.php:345
+msgid "Space Around"
+msgstr ""
+
+#: elementor/widgets/pricing.php:503 elementor/widgets/promotions.php:349
+#: elementor/widgets/text-marquee.php:267 elementor/widgets/toggle.php:223
+msgid "Space Between"
+msgstr ""
+
+#: elementor/widgets/testimonial-3.php:570
+#: elementor/widgets/toggle-content.php:758 elementor/widgets/toggle.php:775
+msgid "Spacing"
+msgstr ""
+
+#: elementor/widgets/heading.php:146 elementor/widgets/ova-image-box.php:122
+#: elementor/widgets/ova-video.php:122
+msgid "span"
+msgstr ""
+
+#: elementor/widgets/product-list.php:329
+msgid "Star Color"
+msgstr ""
+
+#: elementor/widgets/testimonial-2.php:226
+#: elementor/widgets/testimonial.php:327
+msgid "Star Icon"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:272 elementor/widgets/promotions.php:333
+#: elementor/widgets/promotions.php:369 elementor/widgets/tabs.php:170
+#: elementor/widgets/tabs.php:200 elementor/widgets/tabs.php:774
+#: elementor/widgets/toggle.php:715
+msgid "Start"
+msgstr ""
+
+#: elementor/widgets/progress-circle.php:129
+msgid "Start Angel"
+msgstr ""
+
+#: inc/class-customize.php:256
+msgid ""
+"Step 1: Insert font-face in style.css file: Refer https://www.w3schools."
+"com/cssref/css3_pr_font-face_rule.asp. Step 2: Insert font-family and font-"
+"weight like format: \n"
+"\t\t\t\t\t\t\t[\"Perpetua\", \"Regular:Bold:Italic:Light\"] | [\"Name-Font\","
+" \"Regular:Bold:Italic:Light\"]. Step 3: Refresh customize page to display "
+"new font in dropdown font field."
+msgstr ""
+
+#: elementor/widgets/logo.php:239
+msgid "Sticky Logo"
+msgstr ""
+
+#: elementor/widgets/logo.php:276
+msgid "Sticky Logo Height"
+msgstr ""
+
+#: elementor/widgets/logo.php:256
+msgid "Sticky Logo Width"
+msgstr ""
+
+#: elementor/widgets/client-stories.php:429
+msgid "story"
+msgstr ""
+
+#: elementor/widgets/client-stories.php:128
+msgid "Story "
+msgstr ""
+
+#: elementor/widgets/menu-canvas.php:130
+msgid "Style"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:77
+msgid "Style 1"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:78
+msgid "Style 2"
+msgstr ""
+
+#: elementor/widgets/heading.php:79
+msgid "Sub Icon"
+msgstr ""
+
+#: elementor/widgets/heading.php:64
+msgid "Sub Icon Visible"
+msgstr ""
+
+#: elementor/widgets/menu-footer.php:204 elementor/widgets/menu-nav.php:243
+msgid "Sub Menu"
+msgstr ""
+
+#: elementor/widgets/heading.php:94 elementor/widgets/heading.php:282
+#: elementor/widgets/promotions.php:66 elementor/widgets/promotions.php:503
+#: elementor/widgets/team-2.php:76 elementor/widgets/team-2.php:412
+msgid "Sub Title"
+msgstr ""
+
+#: elementor/widgets/counter.php:92 elementor/widgets/counter.php:390
+#: elementor/widgets/promotions.php:229
+msgid "Suffix"
+msgstr ""
+
+#: elementor/widgets/pricing-tab.php:127
+msgid "Switch Button"
+msgstr ""
+
+#: elementor/widgets/tabs.php:127
+msgid "Tab #1"
+msgstr ""
+
+#: elementor/widgets/tabs.php:131
+msgid "Tab #2"
+msgstr ""
+
+#: elementor/widgets/tabs.php:112 elementor/widgets/tabs.php:113
+msgid "Tab Content"
+msgstr ""
+
+#: elementor/widgets/tabs.php:99 elementor/widgets/tabs.php:100
+msgid "Tab Title"
+msgstr ""
+
+#: elementor/widgets/tabs.php:40
+msgid "Tabs"
+msgstr ""
+
+#: elementor/widgets/tabs.php:122
+msgid "Tabs Items"
+msgstr ""
+
+#: template-parts/parts/breadcrumbs_title.php:25
+msgid "Tags"
+msgstr ""
+
+#: elementor/widgets/team.php:197
+msgid "Team List"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:60 elementor/widgets/contact-info.php:47
+#: elementor/widgets/counter.php:57 elementor/widgets/heading.php:50
+#: elementor/widgets/icon-box.php:47 elementor/widgets/image.php:50
+#: elementor/widgets/ova-image-box.php:48 elementor/widgets/pricing.php:52
+#: elementor/widgets/progress-circle.php:57 elementor/widgets/promotions.php:52
+#: elementor/widgets/team.php:50 elementor/widgets/testimonial-3.php:46
+msgid "Template"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:64 elementor/widgets/contact-info.php:51
+#: elementor/widgets/counter.php:61 elementor/widgets/heading.php:54
+#: elementor/widgets/icon-box.php:51 elementor/widgets/image.php:54
+#: elementor/widgets/ova-image-box.php:52 elementor/widgets/pricing.php:56
+#: elementor/widgets/progress-circle.php:61 elementor/widgets/promotions.php:56
+#: elementor/widgets/team.php:54 elementor/widgets/testimonial-3.php:50
+msgid "Template 1"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:65 elementor/widgets/contact-info.php:52
+#: elementor/widgets/counter.php:62 elementor/widgets/heading.php:55
+#: elementor/widgets/icon-box.php:52 elementor/widgets/image.php:55
+#: elementor/widgets/ova-image-box.php:53 elementor/widgets/pricing.php:57
+#: elementor/widgets/progress-circle.php:62 elementor/widgets/promotions.php:57
+#: elementor/widgets/team.php:55 elementor/widgets/testimonial-3.php:51
+msgid "Template 2"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:73
+msgid "Template 2 Style"
+msgstr ""
+
+#: elementor/widgets/counter.php:63 elementor/widgets/heading.php:56
+#: elementor/widgets/image.php:56 elementor/widgets/promotions.php:58
+#: elementor/widgets/testimonial-3.php:52
+msgid "Template 3"
+msgstr ""
+
+#: elementor/widgets/testimonial-2.php:623
+#: elementor/widgets/testimonial-2.php:672
+#: elementor/widgets/testimonial-3.php:735
+#: elementor/widgets/testimonial-3.php:810
+#: elementor/widgets/testimonial.php:847 elementor/widgets/testimonial.php:912
+msgid "testimonial"
+msgstr ""
+
+#: elementor/widgets/testimonial-2.php:99
+#: elementor/widgets/testimonial-3.php:62 elementor/widgets/testimonial.php:114
+msgid "Testimonial "
+msgstr ""
+
+#: inc/class-customize.php:328 elementor/widgets/contact-info.php:91
+#: elementor/widgets/contact-info.php:196 elementor/widgets/promotions.php:811
+#: elementor/widgets/text-marquee.php:60 elementor/widgets/text-marquee.php:218
+#: elementor/widgets/toggle-content.php:140
+msgid "Text"
+msgstr ""
+
+#: elementor/widgets/menu-canvas.php:113 elementor/widgets/pricing.php:194
+#: elementor/widgets/promotions.php:257 elementor/widgets/promotions.php:271
+#: elementor/widgets/promotions.php:285
+msgid "Text Button"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:480
+msgid "Text Color"
+msgstr ""
+
+#: elementor/widgets/menu-cart.php:57
+msgid "Text Empty"
+msgstr ""
+
+#: inc/class-customize.php:82
+msgid "Text Font"
+msgstr ""
+
+#: elementor/widgets/text-marquee.php:18
+msgid "Text Marquee"
+msgstr ""
+
+#: elementor/widgets/process.php:95 elementor/widgets/process.php:188
+msgid "Text Number"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:151
+msgid "Text Read More"
+msgstr ""
+
+#: elementor/widgets/pricing.php:148 elementor/widgets/pricing.php:607
+msgid "Text Service"
+msgstr ""
+
+#: elementor/widgets/team-2.php:78 elementor/widgets/team.php:203
+#: elementor/widgets/team.php:207 elementor/widgets/team.php:211
+msgid "THERAPIST"
+msgstr ""
+
+#: elementor/widgets/progress-circle.php:167
+msgid "Thickness"
+msgstr ""
+
+#: inc/class-customize.php:464 inc/class-customize.php:490
+msgid "This isn't effect in Blog"
+msgstr ""
+
+#: elementor/widgets/testimonial-3.php:64
+msgid ""
+"Through a unique combination of engineering, construction design disciplines "
+"and expertise, Concor delivers world class infrastructure solutions."
+msgstr ""
+
+#: elementor/widgets/price-list.php:93 elementor/widgets/price-list.php:283
+msgid "Time"
+msgstr ""
+
+#: elementor/widgets/text-marquee.php:290
+msgid "Time Duration"
+msgstr ""
+
+#: inc/class-elementor.php:52 elementor/widgets/blog-grid.php:127
+#: elementor/widgets/blog-grid.php:340 elementor/widgets/counter.php:101
+#: elementor/widgets/counter.php:285 elementor/widgets/gallery-slide.php:102
+#: elementor/widgets/gallery-slide.php:426 elementor/widgets/heading.php:103
+#: elementor/widgets/heading.php:105 elementor/widgets/heading.php:198
+#: elementor/widgets/icon-box.php:72 elementor/widgets/icon-box.php:196
+#: elementor/widgets/icon-list.php:62 elementor/widgets/icon-list.php:173
+#: elementor/widgets/latest-products.php:126
+#: elementor/widgets/latest-products.php:278
+#: elementor/widgets/ova-image-box.php:84
+#: elementor/widgets/ova-image-box.php:304 elementor/widgets/ova-video.php:78
+#: elementor/widgets/price-list.php:84 elementor/widgets/price-list.php:229
+#: elementor/widgets/pricing.php:88 elementor/widgets/pricing.php:280
+#: elementor/widgets/process.php:104 elementor/widgets/process.php:272
+#: elementor/widgets/product-list.php:113
+#: elementor/widgets/product-list.php:249
+#: elementor/widgets/progress-circle.php:70
+#: elementor/widgets/progress-circle.php:289
+#: elementor/widgets/promotions.php:80 elementor/widgets/promotions.php:82
+#: elementor/widgets/promotions.php:553 elementor/widgets/tabs.php:394
+#: elementor/widgets/team-2.php:67 elementor/widgets/team-2.php:338
+#: elementor/widgets/toggle-content.php:97
+#: elementor/widgets/toggle-content.php:176 elementor/widgets/toggle.php:275
+msgid "Title"
+msgstr ""
+
+#: elementor/widgets/tabs.php:97 elementor/widgets/toggle.php:42
+msgid "Title & Description"
+msgstr ""
+
+#: elementor/widgets/price-list.php:325
+msgid "Title & Time"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:184
+msgid "Title - Template 2"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:145 elementor/widgets/ova-video.php:100
+msgid "Title Color"
+msgstr ""
+
+#: elementor/widgets/toggle.php:155
+msgid "Title HTML Tag"
+msgstr ""
+
+#: elementor/widgets/team-2.php:123
+msgid "Title Icon"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:157
+msgid "Title Padding"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:191
+msgid "Title Typo"
+msgstr ""
+
+#: elementor/widgets/toggle.php:33 elementor/widgets/toggle.php:185
+msgid "Toggle"
+msgstr ""
+
+#: elementor/widgets/toggle.php:73
+msgid "Toggle #1"
+msgstr ""
+
+#: elementor/widgets/toggle.php:77
+msgid "Toggle #2"
+msgstr ""
+
+#: elementor/widgets/toggle-content.php:355
+msgid "Toggle Button Icon"
+msgstr ""
+
+#: elementor/widgets/toggle-content.php:18
+#: elementor/widgets/toggle-content.php:39 elementor/widgets/toggle.php:57
+msgid "Toggle Content"
+msgstr ""
+
+#: elementor/widgets/toggle-content.php:924
+msgid "Toggle content"
+msgstr ""
+
+#: elementor/widgets/toggle.php:68
+msgid "Toggle Items"
+msgstr ""
+
+#: elementor/widgets/toggle.php:44
+msgid "Toggle Title"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:231 elementor/widgets/gallery.php:346
+#: elementor/widgets/promotions.php:725 elementor/widgets/toggle.php:630
+msgid "Top"
+msgstr ""
+
+#: elementor/widgets/latest-products.php:98
+msgid "Total"
+msgstr ""
+
+#: elementor/widgets/team-2.php:138
+msgid "Twitter"
+msgstr ""
+
+#: inc/class-customize.php:523 elementor/widgets/contact-info.php:84
+msgid "Type"
+msgstr ""
+
+#: inc/class-customize.php:54 elementor/widgets/heading.php:206
+#: elementor/widgets/heading.php:291 elementor/widgets/heading.php:358
+#: elementor/widgets/product-list.php:393 elementor/widgets/promotions.php:518
+#: elementor/widgets/promotions.php:562 elementor/widgets/promotions.php:776
+#: elementor/widgets/promotions.php:818 elementor/widgets/team.php:477
+#: elementor/widgets/team.php:519
+msgid "Typography"
+msgstr ""
+
+#: elementor/widgets/promotions.php:623
+msgid "Typography Price"
+msgstr ""
+
+#: elementor/widgets/promotions.php:632
+msgid "Typography Suffix"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:584
+msgid "Underline Color hover"
+msgstr ""
+
+#: elementor/widgets/progress-circle.php:98
+msgid "Unit"
+msgstr ""
+
+#: elementor/widgets/ova-video.php:141
+msgid "URL Video"
+msgstr ""
+
+#: elementor/widgets/ova-video.php:51 elementor/widgets/testimonial.php:52
+msgid "Version"
+msgstr ""
+
+#: elementor/widgets/ova-video.php:55 elementor/widgets/promotions.php:483
+#: elementor/widgets/testimonial.php:56
+msgid "Version 1"
+msgstr ""
+
+#: elementor/widgets/ova-video.php:56 elementor/widgets/promotions.php:484
+#: elementor/widgets/testimonial.php:57
+msgid "Version 2"
+msgstr ""
+
+#: elementor/widgets/tabs.php:156
+msgid "Vertical"
+msgstr ""
+
+#: elementor/widgets/ova-video.php:165
+msgid "Video Options"
+msgstr ""
+
+#: elementor/widgets/tabs.php:142 elementor/widgets/toggle.php:88
+msgid "View"
+msgstr ""
+
+#: elementor/widgets/promotions.php:259
+msgid "visit now"
+msgstr ""
+
+#: elementor/widgets/pricing.php:171
+msgid "Vivendo oportere"
+msgstr ""
+
+#: inc/class-hook.php:394
+msgid "Website"
+msgstr ""
+
+#: inc/class-hook.php:340
+msgid "Wide"
+msgstr ""
+
+#: inc/class-customize.php:421
+msgid "Wide Site"
+msgstr ""
+
+#: install-resource/active-plugins.php:38
+msgid "Widget importer exporter"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:315 elementor/widgets/gallery.php:97
+#: elementor/widgets/heading.php:428 elementor/widgets/image.php:144
+#: elementor/widgets/latest-products.php:237
+#: elementor/widgets/ova-video.php:311 elementor/widgets/promotions.php:701
+#: elementor/widgets/promotions.php:873 elementor/widgets/tabs.php:910
+#: elementor/widgets/team.php:309 elementor/widgets/toggle.php:570
+#: elementor/widgets/toggle.php:932
+msgid "Width"
+msgstr ""
+
+#: elementor/widgets/text-marquee.php:245
+msgid "Width (%)"
+msgstr ""
+
+#: elementor/widgets/image.php:240 elementor/widgets/image.php:286
+msgid "Width (px)"
+msgstr ""
+
+#: install-resource/active-plugins.php:33
+msgid "Woocommerce"
+msgstr ""
+
+#: inc/class-widgets.php:33 inc/class-widgets.php:35
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: elementor/widgets/pricing-tab.php:66
+msgid "Yearly"
+msgstr ""
+
+#: elementor/widgets/counter.php:103
+msgid "Years Experience"
+msgstr ""
+
+#: inc/class-customize.php:549 inc/class-customize.php:569
+#: inc/class-customize.php:589 inc/class-customize.php:609
+#: inc/class-customize.php:629 inc/class-customize.php:649
+#: inc/class-customize.php:669 inc/class-customize.php:689
+#: inc/class-customize.php:781 inc/class-customize.php:801
+#: inc/class-customize.php:821 inc/class-customize.php:841
+#: inc/class-customize.php:861 inc/class-customize.php:881
+#: inc/class-customize.php:901 inc/class-customize.php:997
+#: inc/class-customize.php:1043 elementor/widgets/gallery-slide.php:215
+#: elementor/widgets/gallery-slide.php:230
+#: elementor/widgets/gallery-slide.php:244
+#: elementor/widgets/gallery-slide.php:281
+#: elementor/widgets/gallery-slide.php:295 elementor/widgets/icon-list.php:82
+#: elementor/widgets/latest-products.php:89 elementor/widgets/ova-video.php:179
+#: elementor/widgets/ova-video.php:193 elementor/widgets/ova-video.php:207
+#: elementor/widgets/ova-video.php:221 elementor/widgets/ova-video.php:235
+#: elementor/widgets/ova-video.php:249 elementor/widgets/pricing.php:67
+#: elementor/widgets/testimonial-2.php:146
+#: elementor/widgets/testimonial-2.php:160
+#: elementor/widgets/testimonial-2.php:197
+#: elementor/widgets/testimonial-2.php:211
+#: elementor/widgets/testimonial-3.php:135
+#: elementor/widgets/testimonial-3.php:191
+#: elementor/widgets/testimonial-3.php:205
+#: elementor/widgets/testimonial-3.php:219
+#: elementor/widgets/testimonial-3.php:256
+#: elementor/widgets/testimonial.php:198 elementor/widgets/testimonial.php:212
+#: elementor/widgets/testimonial.php:249 elementor/widgets/testimonial.php:268
+msgid "Yes"
+msgstr ""
+
+#: install-resource/active-plugins.php:73
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:123
+msgid "You can add background image in Advanced Tab"
+msgstr ""
+
+#: elementor/widgets/menu-cart.php:59
+msgid "Your Cart is Empty"
+msgstr ""
+
+#: template-parts/parts/comment.php:21
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: elementor/widgets/text-marquee.php:62
+msgid "Your Text"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:198
+msgid "Your text"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:186
+msgid "Your Title"
+msgstr ""

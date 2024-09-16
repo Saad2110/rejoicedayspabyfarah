@@ -1,0 +1,33 @@
+/* custom scss icon list, icon box, icon widget default in elementor*/
+.elementor-icon-list-items {
+	.elementor-icon-list-icon {
+		color: var(--primary);
+	}
+}
+
+.elementor-view-stacked {
+	&.elementor-widget-icon, &.elementor-widget-icon-box {
+        .elementor-icon {
+			background-color: var(--primary); 
+		}
+	}
+} 
+
+.elementor-view-framed {
+	&.elementor-widget-icon, &.elementor-widget-icon-box {
+        .elementor-icon {
+        	color: var(--primary); 
+			border-color: var(--primary); 
+		}
+	}
+}
+
+.elementor-widget-icon, .elementor-widget-icon-box {
+	 .elementor-icon {
+		color: var(--primary); 
+	}
+}
+
+.elementor-element.elementor-widget-text-path svg text {
+	direction: ltr;
+}

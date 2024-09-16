@@ -1,0 +1,61 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.service_loops .elementor-7097 .elementor-element.elementor-element-ef65512 > .elementor-widget-container {
+
+    padding: 0px 0px 1px 0px;
+}
+.service_loops h4{
+    height: 80px; 
+    overflow: hidden; 
+    display: -webkit-box;
+    -webkit-box-orient: vertical; 
+    -webkit-line-clamp: 2; 
+    text-overflow: ellipsis; 
+    line-height: 1.2em;
+}
+.service_loops .elementor-widget-container {
+    height: calc(1.2em* 3);
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    text-overflow: ellipsis;
+    line-height: 1.2em;
+}
+.elementor-7097 .elementor-element.elementor-element-65a9fee:not(.elementor-motion-effects-element-type-background){
+transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    position: relative;
+    background-color: #fff;
+    box-shadow: 0px 10px 60px 0px rgba(0, 0, 0, 0.07);
+    border: 1px solid transparent;
+    padding: 60px;
+    z-index: 0;
+    text-align: center;
+    overflow:hidden;
+}
+.service_loops .elementor-7097 .elementor-element.elementor-element-65a9fee:not(.elementor-motion-effects-element-type-background):hover{
+border: 1px solid #de968d;
+}
+.service_loops .elementor-7097 .elementor-element.elementor-element-65a9fee:hover {
+   
+    --overlay-opacity: 1;
+ 
+}
+@media only screen and (max-width: 600px){
+	.elementor-7097 .elementor-element.elementor-element-65a9fee:not(.elementor-motion-effects-element-type-background){
+    padding: 20px;
+ 
+}
+	.service_loops h4{
+		height:100%; }
+   .service_loops .elementor-7097 .elementor-element.elementor-element-65a9fee:hover {
+   
+    --overlay-opacity: 0.6;
+ 
+}
+}
+</style>
+<!-- end Simple Custom CSS and JS -->

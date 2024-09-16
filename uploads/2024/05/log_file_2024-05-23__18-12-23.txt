@@ -1,0 +1,74 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://dev-carmart1.pantheonsite.io
+Data file = /code/wp-content/themes/mellis/install-resource/demo-import/demo-content.xml
+Widget file = /code/wp-content/themes/mellis/install-resource/demo-import/widgets.wie
+Customizer file = /code/wp-content/themes/mellis/install-resource/demo-import/customize.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+service-sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+Search - Search - Imported to Inactive
+Categories - Categories - Imported to Inactive
+
+Main Sidebar : 
+
+Search - No Title - Imported
+Archives - No Title - Imported
+Categories - Categories - Imported
+Tag Cloud - Tags - Imported
+
+WooCommerce Sidebar : 
+
+Product Search - No Title - Imported
+Filter Products by Price - Price - Imported
+Product Categories - Categories - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

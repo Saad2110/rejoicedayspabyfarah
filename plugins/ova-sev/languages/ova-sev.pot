@@ -1,0 +1,495 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ovatheme Service\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-30 06:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.2\n"
+"X-Domain: ova-sev"
+
+#: elementor/widgets/service-box.php:106
+msgid "2 Column"
+msgstr ""
+
+#: inc/class-customize.php:70
+msgid "2 column"
+msgstr ""
+
+#: elementor/widgets/service-box.php:107
+msgid "3 Column"
+msgstr ""
+
+#: inc/class-customize.php:71
+msgid "3 column"
+msgstr ""
+
+#: elementor/widgets/service-box.php:108
+msgid "4 Column"
+msgstr ""
+
+#: inc/class-customize.php:72
+msgid "4 column"
+msgstr ""
+
+#: elementor/widgets/service-box.php:109
+msgid "5 Column"
+msgstr ""
+
+#: elementor/widgets/service-box.php:110
+msgid "6 Column"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:28 inc/class-ova-custom-post-type.php:29
+msgid "Add New"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:71 inc/class-ova-custom-post-type.php:72
+msgid "Add New Category"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:76
+msgid "Add or remove items"
+msgstr ""
+
+#: elementor/widgets/service-box.php:123
+msgid "All categories"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:67
+msgid "All Category Service"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:27
+msgid "All Service"
+msgstr ""
+
+#: inc/class-customize.php:31
+msgid "Archive"
+msgstr ""
+
+#: elementor/widgets/service-box.php:176 elementor/widgets/service-list.php:94
+msgid "Ascending"
+msgstr ""
+
+#: elementor/widgets/service-box.php:230 elementor/widgets/service-box.php:404
+#: elementor/widgets/service-list.php:135
+msgid "Background Color"
+msgstr ""
+
+#: elementor/widgets/service-box.php:241 elementor/widgets/service-list.php:146
+msgid "Background Color Hover"
+msgstr ""
+
+#: elementor/widgets/service-box.php:219
+msgid "Background Image"
+msgstr ""
+
+#: elementor/widgets/service-box.php:186 templates/parts/item-service.php:27
+msgid "Book Now"
+msgstr ""
+
+#: elementor/widgets/service-box.php:252
+msgid "Border Color Hover"
+msgstr ""
+
+#: elementor/widgets/service-box.php:275 elementor/widgets/service-box.php:352
+#: elementor/widgets/service-list.php:181
+msgid "Border Radius"
+msgstr ""
+
+#: elementor/widgets/service-box.php:288
+msgid "Box Shadow"
+msgstr ""
+
+#: elementor/widgets/service-box.php:626
+msgid "Button"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:66
+msgid "Categories"
+msgstr ""
+
+#: elementor/widgets/service-box.php:136
+msgid "Category"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:77
+msgid "Choose from the most used"
+msgstr ""
+
+#: elementor/widgets/service-box.php:473 elementor/widgets/service-box.php:577
+#: elementor/widgets/service-box.php:663 elementor/widgets/service-list.php:212
+msgid "Color"
+msgstr ""
+
+#: elementor/widgets/service-box.php:484 elementor/widgets/service-box.php:588
+#: elementor/widgets/service-box.php:674 elementor/widgets/service-list.php:223
+msgid "Color Hover"
+msgstr ""
+
+#: elementor/widgets/service-box.php:101
+msgid "Column"
+msgstr ""
+
+#: elementor/widgets/service-box.php:44 elementor/widgets/service-list.php:43
+msgid "Content"
+msgstr ""
+
+#: elementor/widgets/service-box.php:81
+msgid "Custom Link"
+msgstr ""
+
+#: elementor/widgets/service-box.php:163
+msgid "Custom Order"
+msgstr ""
+
+#: elementor/widgets/service-box.php:161 elementor/widgets/service-list.php:80
+msgid "Date"
+msgstr ""
+
+#: elementor/widgets/service-box.php:72
+msgid "Default"
+msgstr ""
+
+#: elementor/widgets/service-box.php:175 elementor/widgets/service-list.php:93
+msgid "Descending"
+msgstr ""
+
+#: elementor/widgets/service-box.php:522
+msgid "Description"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:73
+msgid "Edit Category"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:31
+msgid "Edit Service"
+msgstr ""
+
+#: inc/class-customize.php:105
+msgid "Footer Archive"
+msgstr ""
+
+#: inc/class-customize.php:149
+msgid "Footer Single"
+msgstr ""
+
+#: inc/class-customize.php:87
+msgid "Header Archive"
+msgstr ""
+
+#: inc/class-customize.php:130
+msgid "Header Single"
+msgstr ""
+
+#: elementor/widgets/service-box.php:331
+msgid "Height"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://themeforest.net/user/ovatheme"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://themeforest.net/user/ovatheme/portfolio"
+msgstr ""
+
+#: elementor/widgets/service-box.php:83
+msgid "https://your-link.com"
+msgstr ""
+
+#: elementor/widgets/service-box.php:367
+msgid "Icon"
+msgstr ""
+
+#: elementor/widgets/service-box.php:393
+msgid "Icon Color"
+msgstr ""
+
+#: elementor/widgets/service-box.php:375 elementor/widgets/service-box.php:637
+msgid "Icon Size"
+msgstr ""
+
+#: elementor/widgets/service-box.php:162 elementor/widgets/service-list.php:81
+msgid "ID"
+msgstr ""
+
+#: elementor/widgets/service-box.php:299
+msgid "Image"
+msgstr ""
+
+#: admin/class-ova-metabox.php:46
+msgid "Insert Number"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:24
+msgid "Item Archives"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:25
+msgid "Item Attributes"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:82
+msgid "Items list"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:83
+msgid "Items list navigation"
+msgstr ""
+
+#: inc/class-customize.php:65
+msgid "Layout"
+msgstr ""
+
+#: elementor/widgets/service-list.php:117
+msgid "Limit words to display \"Title Service\""
+msgstr ""
+
+#: elementor/widgets/service-box.php:68
+msgid "Link"
+msgstr ""
+
+#: elementor/widgets/service-box.php:507 elementor/widgets/service-box.php:611
+#: elementor/widgets/service-list.php:169
+msgid "Margin"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:30
+msgid "New Item"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:70
+msgid "New Item Name"
+msgstr ""
+
+#: elementor/widgets/service-box.php:73
+msgid "New Page"
+msgstr ""
+
+#: elementor/widgets/service-list.php:105
+msgid "No"
+msgstr ""
+
+#: elementor/widgets/service-box.php:130
+msgid "No content Category found"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:81
+msgid "No items"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:80
+msgid "Not Found"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:35
+msgid "Not found"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:36
+msgid "Not found in Trash"
+msgstr ""
+
+#: inc/class-customize.php:48
+msgid "Number of posts per page"
+msgstr ""
+
+#: elementor/widgets/service-box.php:171 elementor/widgets/service-list.php:89
+msgid "Order"
+msgstr ""
+
+#: elementor/widgets/service-box.php:156 elementor/widgets/service-list.php:75
+msgid "Order By"
+msgstr ""
+
+#. Author of the plugin
+msgid "Ovatheme"
+msgstr ""
+
+#. Name of the plugin
+msgid "Ovatheme Service"
+msgstr ""
+
+#: elementor/widgets/service-box.php:263 elementor/widgets/service-box.php:495
+#: elementor/widgets/service-box.php:599 elementor/widgets/service-list.php:157
+msgid "Padding"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:68
+msgid "Parent Item"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:26 inc/class-ova-custom-post-type.php:69
+msgid "Parent Item:"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:78
+msgid "Popular Items"
+msgstr ""
+
+#: elementor/widgets/service-box.php:146 elementor/widgets/service-list.php:65
+msgid "Post Per Page"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:39
+msgid "Post Type Description"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:64
+msgctxt "Post Type General Name"
+msgid "Category Service"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:20
+msgctxt "Post Type General Name"
+msgid "Service"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:65
+msgctxt "Post Type Singular Name"
+msgid "Category"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:21
+msgctxt "Post Type Singular Name"
+msgid "Service"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:34
+msgid "Search Item"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:79
+msgid "Search Items"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:75
+msgid "Separate items with commas"
+msgstr ""
+
+#. Description of the plugin
+#: elementor/class-ova-register-elementor.php:27 inc/class-customize.php:25
+#: inc/class-ova-custom-post-type.php:22 inc/class-ova-custom-post-type.php:23
+msgid "Service"
+msgstr ""
+
+#: elementor/widgets/service-box.php:21
+msgid "Service Box"
+msgstr ""
+
+#: elementor/widgets/service-box.php:211
+msgid "Service box"
+msgstr ""
+
+#: admin/class-ova-metabox.php:36
+msgid "Service Icon"
+msgstr ""
+
+#: elementor/widgets/service-list.php:20 elementor/widgets/service-list.php:127
+msgid "Service List"
+msgstr ""
+
+#: admin/class-ova-metabox.php:26
+msgid "Service Settings"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:97
+msgctxt "Service Slug"
+msgid "cat_sev"
+msgstr ""
+
+#: elementor/widgets/service-list.php:196
+msgid "Service Title"
+msgstr ""
+
+#: inc/class-customize.php:114
+msgid "Single"
+msgstr ""
+
+#: elementor/widgets/service-box.php:105
+msgid "Single Column"
+msgstr ""
+
+#: elementor/widgets/service-box.php:310
+msgid "Size"
+msgstr ""
+
+#: admin/class-ova-metabox.php:44
+msgid "Sort Order"
+msgstr ""
+
+#: elementor/widgets/service-list.php:102
+msgid "Target Blank"
+msgstr ""
+
+#: elementor/widgets/service-box.php:53 elementor/widgets/service-list.php:52
+msgid "Template"
+msgstr ""
+
+#: elementor/widgets/service-box.php:57 elementor/widgets/service-list.php:56
+msgid "Template 1"
+msgstr ""
+
+#: elementor/widgets/service-box.php:58 elementor/widgets/service-list.php:57
+msgid "Template 2"
+msgstr ""
+
+#: elementor/widgets/service-box.php:59
+msgid "Template 3"
+msgstr ""
+
+#: elementor/widgets/service-box.php:60
+msgid "Template 4"
+msgstr ""
+
+#: elementor/widgets/service-box.php:184
+msgid "Text Button"
+msgstr ""
+
+#: elementor/widgets/service-box.php:160 elementor/widgets/service-box.php:421
+#: elementor/widgets/service-list.php:79
+msgid "Title"
+msgstr ""
+
+#: elementor/widgets/service-list.php:113
+msgid "Title Limit"
+msgstr ""
+
+#: elementor/widgets/service-list.php:315
+#: elementor/widgets/service-list.php:328
+msgid "Untitled"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:51
+msgctxt "URL slug"
+msgid "service"
+msgstr ""
+
+#: admin/class-ova-metabox.php:38
+msgid ""
+"Use in Service Box Element ( Example : flaticon flaticon-massage .You can "
+"find here: https://ova-themes.gitbook.io/mellis/find-icons)"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:32 inc/class-ova-custom-post-type.php:74
+msgid "View Item"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:33
+msgid "View Items"
+msgstr ""
+
+#: elementor/widgets/service-list.php:104
+msgid "Yes"
+msgstr ""

@@ -1,0 +1,200 @@
+.ova-gallery-slide {
+
+    .owl-stage-outer{
+        position: relative;
+        z-index: 1;
+    }
+
+    .gallery-slide {
+
+        .owl-item {
+            display: inline-block;
+            float: none;
+            vertical-align: middle;
+            &:nth-child(odd) {
+               .gallery-box {
+                    .list-gallery {
+                        img {
+                            height: 400px;
+                        }
+                    }
+               }
+            }
+        }
+
+        .gallery-box {
+
+            &:hover {
+                .list-gallery {
+                    &:before {
+                        @include transaction( all, 0.5s, ease);
+                        transform: scale(1.0);
+                    }
+                    img {
+                        @include transaction( all, 0.5s, ease);
+                        transform: scale(1.05);
+                    }
+                    .icon-box {
+                        @include transaction( all, 0.5s, ease);
+                        opacity: 1;
+                        transform: scale(1.0);
+                    }
+                }
+            }
+            .list-gallery {
+                position: relative;
+                display: block;
+                overflow: hidden;
+
+                &:before {
+                    @include transaction( all, 0.5s, ease);
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    right: 0;
+                    bottom: 0;
+                    content: "";
+                    background: var(--heading);
+                    opacity: 0.85;
+                    z-index: 1;
+                    transform: scale(0);
+                }
+
+                img {
+                    @include transaction( all, 0.5s, ease);
+                    width: 100%;
+                    height: 330px;
+                    object-fit:cover;
+                    object-position: center;
+                    transform: scale(1);
+                }
+
+                .icon-box {
+                    @include transaction( all, 0.5s, ease);
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    right: 0;
+                    width: 100%;
+                    height: 100%;
+                    opacity: 0;
+                    transform: scale(0);
+                    z-index: 1;
+
+                    .icon {
+                        transition: all .3s ease;
+                        position: absolute;
+                        top: 15px;
+                        right: 15px;
+                        display: inline-flex;
+                        align-items: center;
+                        justify-content: center;
+                        width: 60px;
+                        height: 60px;
+                        border-radius: 50%;
+                        background: var(--primary);
+                        flex-shrink: 0;
+                        &:hover {
+                            transition: all .3s ease;
+                            background-color: #fff;
+                            i {
+                                transition: all .3s ease;
+                                color: var(--primary);
+                            }
+                        }
+                        i {
+                            transition: all .3s ease;
+                            display: inline-flex;
+                            color: #fff;
+                        }
+                    }
+
+                    .info {
+                        position: absolute;
+                        left: 25px;
+                        bottom: 30px;
+                        max-width: calc( 100% - 30px );
+                    }
+                    .title {
+                        margin: 0 0 3px 0;
+                        font-size: 22px;
+                        font-weight: 400;
+                        color: #fff;
+                        line-height: 1.1;
+                        padding: 7px 15px;
+                        min-width: 194px;
+                        background-color: var(--primary);
+                    }
+                    .category {
+                        display: inline-block;
+                        line-height: 1.1;
+                        color: var(--heading);
+                        padding: 7px 15px;
+                        background-color: #fff;
+                    }
+                }
+            }
+        }
+
+        .owl-nav{
+            button{
+                position: absolute;
+                top: 50%;
+                z-index: 1;
+                &.owl-prev{
+                    left: 0;
+                    transform: translate(50%, -50%);
+                }
+                &.owl-next{
+                    right: 0;
+                    transform: translate(-50%, -50%);
+                }
+                i{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                }
+                &:hover{
+                    color: var(--primary);
+                }
+            }   
+        }
+            
+        .owl-dots{
+            margin-top: 30px;
+            text-align: center;
+          
+            button{
+                width: 8px;
+                height: 8px;
+                background-color: var(--text);
+                border-radius: 50%;
+                margin: 0px 4px;
+                &.active{
+                    background-color: var(--primary);
+                }
+            }
+        }
+    }
+}
+
+.rtl {
+    .ova-gallery-slide {
+        .gallery-slide {
+            .gallery-box {
+                .list-gallery {
+                    .icon-box {
+                        .icon {
+                            right: unset;
+                            left: 15px;
+                        }
+                        .info {
+                            left: unset;
+                            right: 25px;
+                        }
+                    }
+                }
+            }
+        }
+    }  
+}

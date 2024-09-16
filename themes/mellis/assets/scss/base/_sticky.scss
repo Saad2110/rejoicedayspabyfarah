@@ -1,0 +1,20 @@
+.header_sticky {
+
+    &.sticky_bg_dark {
+        &.active_sticky {
+            background-color: var(--heading); 
+        }
+    }
+
+    &.active_sticky{
+      	position: fixed;
+      	top: 0;
+      	left: 0;
+      	width: 100%;
+      	z-index: 9999;
+      	padding-top: 5px!important;
+        padding-bottom: 5px!important;
+      	@include transaction( all, 0.3s, linear );
+    }
+    
+}

@@ -1,0 +1,70 @@
+.ova-price-list {
+	a {
+		padding:0!important;
+	}
+	.heading {
+		margin: 0;
+		padding-bottom: 25px;
+		font-size: 30px;
+		font-weight: 400;
+	}
+	.item-price-list {
+		transition: all .5s ease;
+		position: relative;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		padding: 20px 0;
+		border-bottom: 1px solid #f0e8e8;
+		&:hover {
+			transition: all .5s ease;
+			border-bottom: 1px solid var(--primary);
+			.img-wrapper {
+				transition: all .5s ease;
+				top: 50%;
+				visibility: visible;
+				opacity: 1;
+			}
+		}
+		.title-time {
+			display: flex;
+			align-items: center;
+			flex-wrap: wrap;
+			.title {
+				margin: 0;
+				padding-right: 10px;
+				font-size: 18px;
+				font-weight: 400;
+			}
+			.time {
+				font-size: 14px;
+				font-weight: 500;
+				color: var(--text);
+				padding-right: 20px;
+			}
+		}
+		.price-wrapper {
+			.price {
+				font-family: var(--secondary-font);
+				font-size: 18px;
+				color: var(--primary);
+			}
+		}
+		.img-wrapper {
+			transition: all .5s ease;
+			position: absolute;
+			left: 50%;
+			top: 45%;
+			transform: translate(-50%, -50%) rotate(-10deg); 
+			z-index: 1;
+			opacity: 0;
+			visibility: hidden;
+			img {
+				display: block;
+				width: 173px;
+				height: 190px;
+				object-fit: cover;
+			}
+		}
+	}
+}

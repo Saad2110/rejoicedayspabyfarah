@@ -1,0 +1,153 @@
+.ova-text-marquee{
+	position: relative;
+    overflow: hidden;
+    padding: 10px 0 4px 0;
+    display: inline-flex;
+    align-items: center;
+    white-space: nowrap;
+    background-color: var(--primary);
+    width: 100%;
+    direction: ltr;
+
+    &.direction-ltr {
+    	direction: rtl;
+    	.content-wrapper {
+			animation: ova_scroll_ltr 20s linear infinite;
+			animation-delay: -20s;
+		}
+
+		.content-wrapper-2 {
+			animation: ova_scroll2_ltr 20s linear infinite;
+			animation-delay: -10s;
+		}
+
+		&.duration-slow{
+			.content-wrapper {
+				animation: ova_scroll_ltr 30s linear infinite;
+				animation-delay: -30s;
+			}
+
+			.content-wrapper-2 {
+				animation: ova_scroll2_ltr 30s linear infinite;
+				animation-delay: -15s;
+			}
+		}
+
+		&.duration-fast{
+			.content-wrapper {
+				animation: ova_scroll_ltr 10s linear infinite;
+				animation-delay: -10s;
+			}
+
+			.content-wrapper-2 {
+				animation: ova_scroll2_ltr 10s linear infinite;
+				animation-delay: -5s;
+			}
+		}
+    }
+
+	.content-wrapper, .content-wrapper-2{
+		width: 330%;
+		@media(max-width: 1024px){
+			width: 400%;
+		}
+		@media(max-width: 767px){
+			width: 700%;
+		}
+
+		.icon{
+			margin: 0 30px;
+			display: inline-block;
+			vertical-align: middle;
+			i {
+				font-size: 24px;
+				color: #fff;
+			}
+		}
+
+		.text{
+			font-family: var(--secondary-font);
+			font-size: 24px;
+			color: #fff;
+        	width: 200%;
+		}
+	}
+
+	.content-wrapper {
+		animation: ova_scroll 20s linear infinite;
+		animation-delay: -20s;
+	}
+
+	.spacing {
+		-webkit-box-flex: 1;
+	    -ms-flex-positive: 1;
+	    flex-grow: 1;
+	    width: 600px;
+	}
+
+	.content-wrapper-2 {
+		animation: ova_scroll2 20s linear infinite;
+		animation-delay: -10s;
+	}
+
+	&.duration-slow{
+		.content-wrapper {
+			animation: ova_scroll 30s linear infinite;
+			animation-delay: -30s;
+		}
+
+		.content-wrapper-2 {
+			animation: ova_scroll2 30s linear infinite;
+			animation-delay: -15s;
+		}
+	}
+
+	&.duration-fast{
+		.content-wrapper {
+			animation: ova_scroll 10s linear infinite;
+			animation-delay: -10s;
+		}
+
+		.content-wrapper-2 {
+			animation: ova_scroll2 10s linear infinite;
+			animation-delay: -5s;
+		}
+	}
+}
+
+
+@keyframes ova_scroll {
+    0% {
+      	transform: translateX(100%);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+}
+
+@keyframes ova_scroll2 {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-200%);
+    }
+}
+
+@keyframes ova_scroll_ltr {
+    0% {
+      	transform: translateX(-100%);
+    }
+    100% {
+      transform: translateX(100%);
+    }
+}
+
+@keyframes ova_scroll2_ltr {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(200%);
+    }
+}

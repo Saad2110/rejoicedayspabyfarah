@@ -1,0 +1,11 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.wc-block-grid.wp-block-product-new.wc-block-product-new.has-4-columns {
+    display: none;
+}
+#post-12 > div > div:nth-child(4) > div > div > h2:nth-child(3){
+	display: none;
+}
+
+</style>
+<!-- end Simple Custom CSS and JS -->

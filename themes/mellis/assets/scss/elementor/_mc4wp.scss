@@ -1,0 +1,190 @@
+.ova-mc4wp-form{
+    position: relative;
+
+    .email {
+        display: flex;
+        align-items: center;
+        width: 100%;
+        input{
+            border-radius: 0;
+            border: none;
+            
+            font-style: normal;
+            font-size: 14px;
+            font-weight: 500;
+            line-height: 1.2;
+            color: var(--text);
+            width: 100%;
+            
+            padding: 20px 25px;
+            background-color: #1e1c20;
+            
+            &::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+                color: var(--text);
+                font-weight: 500;
+                opacity: 1; /* Firefox */
+            }
+            
+            &:-webkit-autofill {
+                transition-delay: 600s; 
+            }
+        }
+    }
+
+    .submit{
+        position: absolute;
+        right: 0;
+        top: 50%;
+        transform: translate(0px, -50%);
+
+        button{
+            padding: 16px 29px;
+            background-color: transparent;
+            border-color: transparent;
+             &:hover{
+                i{
+                    color: #fff;
+                }  
+            }
+            i{
+                font-size: 14px;
+                color: var(--primary);
+            }
+        }
+    }
+}
+
+// style 2
+.mc4wp-form-ova-style2 {
+    .visuallyhidden {
+        position: static;
+        overflow: visible;
+        width: auto;
+        height: auto;
+    }
+    .ova-mc4wp-form {
+        .email {
+            margin-bottom: 20px;
+            input {
+                border: 1px solid rgba(39, 37, 42, 0.10);
+                background-color: #FCF5F5;
+            }
+        }
+        .submit {
+            margin-bottom: 25px;
+            position: static;
+            transform: none;  
+            button {
+                font-size: 12px;
+                text-transform: uppercase;
+                width: 100%;
+                max-width: 350px;
+                background-color: var(--primary);
+                border: 1px solid var(--primary);
+                border-radius: 0;
+                &:hover {
+                    background-color: transparent;
+                }
+            }
+            i {
+                display: none;
+            }
+        }
+    }
+}
+
+
+// style 3
+.mc4wp-form-ova-style3 {
+    .ova-mc4wp-form {
+        .email {
+            input {
+                font-size: 16px;
+                font-weight: 400;
+                border: 1px solid rgba(255, 255, 255, 0.10);
+                background: #45414B;
+
+                &::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+                    font-weight: 400;
+                }
+            }
+        }
+        .submit {
+            right: 5px;
+            button {
+                padding: 12px 16px;
+                background-color: var(--primary);
+                border-radius: 0;
+                &:hover {
+                    background-color: #fff;
+                    i {
+                        color: var(--primary);
+                    }
+                }
+            }
+            i {
+                font-size: 16px;
+                color: #fff;
+            }
+        }
+    }
+}
+
+// style 3
+.mc4wp-form-ova-style3b {
+    .ova-mc4wp-form {
+        .email {
+            input {
+                font-size: 16px;
+                font-weight: 400;
+                border: 1px solid rgba(39, 37, 42, 0.07);
+                background: #fff;
+
+                &::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+                    font-weight: 400;
+                }
+            }
+        }
+        .submit {
+            right: 5px;
+            button {
+                padding: 12px 16px;
+                background-color: var(--primary);
+                border-radius: 0;
+                &:hover {
+                    background-color: #fff;
+                    i {
+                        color: var(--primary);
+                    }
+                }
+            }
+            i {
+                font-size: 16px;
+                color: #fff;
+            }
+        }
+    }
+}
+
+.mc4wp-response{
+    p{
+        color: #fff;
+        margin: 15px 0px;
+    }
+}
+
+.rtl {
+    .ova-mc4wp-form {
+        .submit {
+            right: unset;
+            left: 0;
+        }
+    } 
+    .mc4wp-form-ova-style3 {
+        .ova-mc4wp-form {
+            .submit {
+                left: 5px;
+            }
+        }
+    }
+}

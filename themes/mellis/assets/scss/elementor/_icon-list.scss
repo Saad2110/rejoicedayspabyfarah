@@ -1,0 +1,96 @@
+.ova-icon-list {
+    margin: 0 15px;
+    
+    .item {
+        position: relative;
+        padding-bottom: 35px;
+
+        &:last-child{
+            padding-bottom: 0;
+            &.item-line{
+                &:before {
+                    content: none;
+                }
+            }
+        }
+        &:before {
+            position: absolute;
+            content: none;
+            height: 100%;
+            width: 2px;
+            left: 0;
+            top: 35px;
+            background: radial-gradient(50% 50% at 50% 50%, #000 0%, rgba(0, 0, 0, 0) 100%);
+        }
+
+        &.item-line{
+            &:before {
+                content: "";
+            }
+        }
+
+        i {
+            font-size: 16px;
+            color: #fff;
+            background-color: var(--primary); 
+          
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+
+            position: absolute;
+            top: 0;
+            left: -20px;
+        }
+
+        &.active {
+            .info {
+                padding: 14px 26px;
+                border: 1px solid rgba(5, 26, 83, 0.01);
+            }
+        }
+
+        .info {
+            display: inline-block;
+            margin-left: 40px;
+        }
+
+        .title {
+            margin: 0 0 8px 0;
+            font-size: 22px;
+            font-weight: 400;
+            line-height: 1.4;
+        }
+        .desc {
+            margin: 0;
+			font-size: 16px;
+            white-space: pre-line;
+            @media (max-width: 1024px) {
+                white-space: normal;
+            }
+        }
+
+    }
+}
+
+.rtl {
+    .ova-icon-list {
+        .item {
+            &:before {
+                left: unset;
+                right: 0;
+            }
+            .info {
+                margin-left: 0;
+                margin-right: 40px;
+            }
+            i {
+                left: unset;
+                right: -20px;
+            }
+        } 
+    } 
+}

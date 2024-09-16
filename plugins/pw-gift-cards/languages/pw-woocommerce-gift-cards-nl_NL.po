@@ -1,0 +1,2640 @@
+# Copyright (C) 2018 PW WooCommerce Gift Cards
+# This file is distributed under the same license as the PW WooCommerce Gift Cards package.
+msgid ""
+msgstr ""
+"Project-Id-Version: PW WooCommerce Gift Cards Pro\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/pw-gift-cards\n"
+"POT-Creation-Date: 2022-08-08T19:08:15+00:00\n"
+"PO-Revision-Date: 2023-07-15 22:36-0400\n"
+"Last-Translator: Ella Des (Ellad2) <info@ellad2.com>\n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.2\n"
+
+#. Plugin Name of the plugin
+msgid "PW WooCommerce Gift Cards Pro"
+msgstr "PW WooCommerce Gift Cards Pro"
+
+#. Plugin URI of the plugin
+msgid "https://www.pimwick.com/gift-cards/"
+msgstr "https://www.pimwick.com/gift-cards/"
+
+#. Description of the plugin
+msgid "Sell gift cards in your WooCommerce store."
+msgstr "Verkoop Cadeaubonnen in je Wocommerce winkel."
+
+#. Author of the plugin
+msgid "Pimwick, LLC"
+msgstr "Pimwick, LLC"
+
+#. Author URI of the plugin
+msgid "https://www.pimwick.com"
+msgstr "https://www.pimwick.com"
+
+#. translators: %s is PW Gift Cards.
+#: admin/pw-gift-cards-admin.php:16 admin/pw-gift-cards-admin.php:231
+#: admin/pw-gift-cards-admin.php:328 admin/pw-gift-cards-admin.php:339
+#: admin/pw-gift-cards-admin.php:351 admin/pw-gift-cards-admin.php:352
+#: admin/pw-gift-cards-admin.php:371 admin/pw-gift-cards-admin.php:372
+#: admin/pw-gift-cards-admin.php:753
+msgid "PW Gift Cards"
+msgstr "PW Gift Cards"
+
+#: admin/pw-gift-cards-admin.php:22
+msgid "Allow Scheduled Delivery"
+msgstr "Geplande bezorging toestaan"
+
+#: admin/pw-gift-cards-admin.php:23
+msgid ""
+"Provides a \"Delivery Date\" for the purchasing customer to specify that the "
+"gift card should be delivered on a certain date. Otherwise gift cards are "
+"delivered as soon as the order is marked Complete. Default: Checked."
+msgstr ""
+"Geeft een ' LeveringsDatum ' aan voor de inkoop klant om aan te geven dat de "
+"geschenkbon op een bepaalde datum moet worden geleverd. Anders worden "
+"cadeaubonnen geleverd zodra de bestelling is gemarkeerd als voltooid. "
+"Standaard: aangeVinkt."
+
+#: admin/pw-gift-cards-admin.php:29
+msgid "Calendar Format"
+msgstr "Kalenderformaat"
+
+#: admin/pw-gift-cards-admin.php:30
+msgid ""
+"If Scheduled Delivery is allowed, this is the date format that will appear "
+"for the Delivery Date calendar. Default: YYYY-MM-DD"
+msgstr ""
+"Als Geplande levering is toegestaan, is dit het datumformaat dat zal "
+"verschijnen voor de leveringsdatumkalender. Standaard: JJJJ-MM-DD"
+
+#: admin/pw-gift-cards-admin.php:36
+msgid "Calendar First Day of the Week"
+msgstr "Kalender Eerste dag van de week"
+
+#: admin/pw-gift-cards-admin.php:37
+msgid ""
+"If Scheduled Delivery is allowed, this indicates the first day of the week "
+"for the Delivery Date calendar. 0 = Sunday, 1 = Monday. Default: 0 (Sunday)"
+msgstr ""
+"Als Geplande levering is toegestaan, geeft dit de eerste dag van de week aan "
+"voor de kalender Leveringsdatum. 0 = zondag, 1 = maandag. Standaard: 0 "
+"(zondag)"
+
+#: admin/pw-gift-cards-admin.php:43
+msgid "Auto Complete Orders"
+msgstr "Bestellingen automatisch afronden"
+
+#: admin/pw-gift-cards-admin.php:44
+msgid ""
+"When an order only contains gift cards, automatically mark the order as "
+"Complete to send the gift cards immediately."
+msgstr ""
+"Als een bestelling alleen cadeaubonnen bevat, markeer de bestelling "
+"automatisch als voltooid om de cadeaubonnen onmiddellijk te verzenden."
+
+#: admin/pw-gift-cards-admin.php:50
+msgid "Send When Payment Received"
+msgstr "Verzenden wanneer betaling ontvangen"
+
+#: admin/pw-gift-cards-admin.php:51
+msgid ""
+"By default we wait until the order status is Complete before generating and "
+"emailing the gift card. Check this box to send the gift card immediately "
+"once the payment has been received. Scheduled gift cards will still be sent "
+"on the scheduled date. Default: Unchecked"
+msgstr ""
+"Standaard wachten we tot de orderstatus Voltooid is voordat we de cadeaubon "
+"genereren en e-mailen. Vink dit vakje aan om de cadeaubon onmiddellijk te "
+"versturen zodra de betaling is ontvangen. Geplande cadeaubonnen zullen nog "
+"steeds op de geplande datum worden verzonden. Standaard: Niet aangevinkt"
+
+#: admin/pw-gift-cards-admin.php:57
+msgid "Disable Expiration Date"
+msgstr "Vervaldatum uitschakelen"
+
+#: admin/pw-gift-cards-admin.php:58
+msgid ""
+"If the law in your area prohibits an expiration date for gift cards, you can "
+"disable Expiration Dates system wide. This will hide all buttons, options, "
+"and mention of an expiration date. Default: Unchecked."
+msgstr ""
+"Als de wet bij u in de buurt een vervaldatum voor cadeaubonnen verbiedt, "
+"kunt u het systeem voor de vervaldatum uitschakelen. Hierdoor worden alle "
+"knoppen, opties en de vermelding van een vervaldatum verborgen. Standaard: "
+"Niet aangevinkt."
+
+#: admin/pw-gift-cards-admin.php:64
+msgid "Buy Gift Cards with Gift Cards"
+msgstr "Koop cadeaubonnen met cadeaubonnen"
+
+#: admin/pw-gift-cards-admin.php:65
+msgid ""
+"Allow customers to purchase gift cards using another gift card. Disable this "
+"to prevent customers from extending the date on expiring gift cards. "
+"Default: Unchecked."
+msgstr ""
+"Sta klanten toe cadeaubonnen te kopen met een andere cadeaubon. Schakel dit "
+"uit om te voorkomen dat klanten de datum op verlopen cadeaukaarten "
+"verlengen. Standaard: Niet aangevinkt."
+
+#: admin/pw-gift-cards-admin.php:71
+msgid "Check Balance on My Account"
+msgstr "Controleer het saldo op mijn rekening"
+
+#: admin/pw-gift-cards-admin.php:72
+msgid ""
+"When enabled, a link to the Check Balance page will be added to the My "
+"Account page. Default: checked"
+msgstr ""
+"Indien ingeschakeld, zal een link naar de Check Balance pagina worden "
+"toegevoegd aan de Mijn Account pagina. Standaard: aangevinkt"
+
+#: admin/pw-gift-cards-admin.php:78
+msgid "Allow Reloading"
+msgstr "Opnieuw laden toestaan"
+
+#: admin/pw-gift-cards-admin.php:79
+msgid ""
+"When enabled, customers can add funds to an existing gift card from the "
+"Check Balance page."
+msgstr ""
+"Wanneer deze optie is ingeschakeld, kunnen klanten fondsen toevoegen aan een "
+"bestaande Gift Card op de pagina controle saldo."
+
+#: admin/pw-gift-cards-admin.php:85
+msgid "Allow Manual Debit"
+msgstr "Handmatig debet toestaan"
+
+#: admin/pw-gift-cards-admin.php:86
+msgid ""
+"When enabled, customers or store employees can debit funds from an existing "
+"gift card from the Check Balance page. Useful for physical stores where "
+"customers will redeem the card for in store purchases."
+msgstr ""
+"Indien ingeschakeld, kunnen klanten of winkelmedewerkers geld van een "
+"bestaande cadeaubon afschrijven van de Check Balance-pagina. Nuttig voor "
+"fysieke winkels waar klanten de kaart inwisselen voor aankopen in de winkel."
+
+#: admin/pw-gift-cards-admin.php:92
+msgid "Show Activity on Check Balance Page"
+msgstr "Toon activiteit op de checkbalanspagina"
+
+#: admin/pw-gift-cards-admin.php:93
+msgid ""
+"When enabled, detailed transaction history will be shown on the Check "
+"Balance page."
+msgstr ""
+"Indien ingeschakeld, zal de gedetailleerde transactiegeschiedenis worden "
+"weergegeven op de pagina Check Balance."
+
+#: admin/pw-gift-cards-admin.php:99
+msgid "Use the WooCommerce Transactional Email System"
+msgstr "Gebruik het Woocommerce Email systeem"
+
+#: admin/pw-gift-cards-admin.php:100
+msgid ""
+"Enabled by default. If you are not receiving your gift card emails, try "
+"disabling this setting."
+msgstr ""
+"Standaard ingeschakeld. Als je de e-mails van je cadeaubon niet ontvangt, "
+"schakel dan deze instelling uit."
+
+#: admin/pw-gift-cards-admin.php:106
+msgid "Allow Background Images"
+msgstr "Achtergrondafbeeldingen toestaan"
+
+#: admin/pw-gift-cards-admin.php:107
+msgid ""
+"Disabled by default. Check this box to allow a background image to be set in "
+"the Email Designer. Outlook does not display background images."
+msgstr ""
+"Standaard uitgeschakeld. Vink dit vakje aan om een achtergrondafbeelding in "
+"de Email Designer in te stellen. Outlook geeft geen achtergrondafbeeldingen "
+"weer."
+
+#: admin/pw-gift-cards-admin.php:113
+msgid "Apply Fix For Missing Fields"
+msgstr "Fixeer voor ontbrekende velden"
+
+#: admin/pw-gift-cards-admin.php:114
+msgid ""
+"If you do not see the To / From / Message fields on your gift card product "
+"page, try checking this box and reloading. Some themes have out of date "
+"WooCommerce template files and need to be patched to work with the Gift Card "
+"product."
+msgstr ""
+"Als u de velden aan/uit/bericht op de product pagina van de Gift Card niet "
+"ziet, u dit vakje controleren en opnieuw laden. Sommige Thema's hebben "
+"verouderd WooCommerce template bestanden en moeten worden opgelapt om te "
+"werken met de Gift Card product."
+
+#: admin/pw-gift-cards-admin.php:120
+msgid "Format Prices"
+msgstr "Fomaat van de prijzen"
+
+#: admin/pw-gift-cards-admin.php:121
+msgid ""
+"For fixed gift card amounts, format the price with the system currency "
+"symbol. This is enabled by default. If you are having trouble with currency "
+"switchers, disable this setting. Note: You must remove and re-add your fixed "
+"gift card amounts if you change this setting."
+msgstr ""
+"Voor cadeaubonnen met vast bedrag, maak de prijs met het systeem-"
+"valutasymbool. Dit is standaard ingeschakeld. Als je problemen ondervindt "
+"met valuta veranderingen, schakel dan deze instelling uit. Opmerking: Als je "
+"deze instelling wijzigt dan moet je de bedragen van de cadeaubonnen met een "
+"vast bedrag verwijderen en opnieuw toevoegen."
+
+#: admin/pw-gift-cards-admin.php:127
+msgid "Pre-populate the \"From\" Field"
+msgstr "Voorbereiden van het \"Van\"-veld"
+
+#: admin/pw-gift-cards-admin.php:128
+msgid ""
+"If the customer is logged in, populate the From field with the Display Name "
+"value for their account. Default: Checked."
+msgstr ""
+"Als de klant is ingelogd, vul dan het veld From in met de waarde Display "
+"Name voor zijn account. Standaard: Gecontroleerd."
+
+#: admin/pw-gift-cards-admin.php:134
+msgid "Allow Multiple Recipients"
+msgstr "Laat meerdere ontvangers toe"
+
+#: admin/pw-gift-cards-admin.php:135
+msgid ""
+"Similar to how Amazon works, allow multiple recipient email addresses when "
+"purchasing a gift card. Default: Checked."
+msgstr ""
+"Net als bij Amazon, kunt u meerdere e-mailadressen van ontvangers toestaan "
+"bij de aankoop van een cadeaubon. Standaard: Gecontroleerd."
+
+#: admin/pw-gift-cards-admin.php:141
+msgid "Carbon Copy"
+msgstr "Koolstofkopie"
+
+#: admin/pw-gift-cards-admin.php:142
+msgid ""
+"When a gift card is emailed, carbon copy these addresses. Separate multiple "
+"emails with a comma."
+msgstr ""
+"Wanneer een cadeaubon wordt gemaild, kopieer dan deze adressen. Scheid "
+"meerdere e-mails van elkaar met een komma."
+
+#: admin/pw-gift-cards-admin.php:148
+msgid "Blind Carbon Copy"
+msgstr "Blinde Koolstofkopie"
+
+#: admin/pw-gift-cards-admin.php:149
+msgid ""
+"When a gift card is emailed, blind carbon copy these addresses. Separate "
+"multiple emails with a comma."
+msgstr ""
+"Wanneer een cadeaubon wordt gemaild, kopieer dan deze adressen blindelings. "
+"Scheid meerdere e-mails van elkaar met een komma."
+
+#: admin/pw-gift-cards-admin.php:155
+msgid "Send to the Buyer"
+msgstr "Naar de koper sturen"
+
+#: admin/pw-gift-cards-admin.php:156
+msgid ""
+"When a gift card is emailed, blind carbon copy the gift card to the "
+"purchasing customer."
+msgstr ""
+"Wanneer een cadeaubon wordt gemaild, kopieert u de cadeaubon blinddruk naar "
+"de aankopende klant."
+
+#: admin/pw-gift-cards-admin.php:162
+msgid "Redeem Location - Cart"
+msgstr "Inwissel-locatie - winkelwagen"
+
+#: admin/pw-gift-cards-admin.php:163
+msgid "Specifies where the \"Apply Gift Card\" box appears on the Cart page."
+msgstr ""
+"Geeft aan waar het vakje \"Cadeaubon toepassen\" op de winkelwagen-pagina "
+"wordt weergegeven."
+
+#: admin/pw-gift-cards-admin.php:171
+msgid "Above the \"Proceed to Checkout\" button."
+msgstr "Boven de knop \"Doorgaan naar afrekenen\"."
+
+#: admin/pw-gift-cards-admin.php:172 admin/pw-gift-cards-admin.php:187
+msgid "Below the \"Apply Coupon\" area."
+msgstr "Onder het gedeelte \"Kortingsbon toepassen\"."
+
+#: admin/pw-gift-cards-admin.php:173 admin/pw-gift-cards-admin.php:188
+msgid "Do not display gift card field."
+msgstr "Geef het veld geschenk kaart niet weer."
+
+#: admin/pw-gift-cards-admin.php:177
+msgid "Redeem Location - Checkout"
+msgstr "Inwissel-locatie - Afrekenen"
+
+#: admin/pw-gift-cards-admin.php:178
+msgid ""
+"Specifies where the \"Apply Gift Card\" box appears on the Checkout page."
+msgstr ""
+"Geeft aan waar het vakje \"Cadeaubon toepassen\" op de afreken-pagina wordt "
+"weergegeven."
+
+#: admin/pw-gift-cards-admin.php:186
+msgid "Below the \"Payment Methods\" area."
+msgstr "Onder het \"Betaal mogelijkheden\" gedeelte."
+
+#: admin/pw-gift-cards-admin.php:192
+msgid "Coupon Code Field Input"
+msgstr "Couponcode Veldinvoer"
+
+#: admin/pw-gift-cards-admin.php:193
+msgid ""
+"Allow gift card numbers to be entered into the Coupon Code field to be "
+"redeemed. Default: checked."
+msgstr ""
+"Laat toe dat de nummers van de cadeaubon in het veld Couponcode worden "
+"ingevuld om te worden ingewisseld. Standaard: gecontroleerd."
+
+#: admin/pw-gift-cards-admin.php:199
+msgid "Remove card after checkout"
+msgstr "Verwijder de kaart na het afrekenen"
+
+#: admin/pw-gift-cards-admin.php:200
+msgid ""
+"After an order is placed the gift card will remain in the session for use "
+"with future purchases. Check this box to automatically remove the card from "
+"the session instead. Default: Unchecked"
+msgstr ""
+"Nadat een bestelling is geplaatst, blijft de cadeaubon in de sessie voor "
+"gebruik bij toekomstige aankopen. Vink dit vakje aan om de kaart automatisch "
+"uit de sessie te verwijderen. Standaard: Uitgecheckt"
+
+#: admin/pw-gift-cards-admin.php:206
+msgid "Use Font Awesome Icon"
+msgstr "Gebruik het pictogram van het Awesome lettertype"
+
+#. translators: %s is a link to the Font Awesome website.
+#: admin/pw-gift-cards-admin.php:208
+msgid ""
+"On the customer facing \"Check Balance\" page, show a gift card icon from "
+"the %s library."
+msgstr ""
+"Toon op de pagina \"Saldo controleren\" van de klant een pictogram van een "
+"cadeaubon uit de %s bibliotheek."
+
+#: admin/pw-gift-cards-admin.php:214
+msgid "Default Redeem URL"
+msgstr "Standaard URL inwisselen URL inwisselen"
+
+#: admin/pw-gift-cards-admin.php:215
+msgid ""
+"The link for the Redeem button on the gift card email. Include the https "
+"prefix, the Gift Card Number is automatically appended in the URL. Can be "
+"different per Design."
+msgstr ""
+"De link voor de Verzilveringsknop op de cadeaubon e-mail. Neem de https "
+"prefix op, het Cadeaubonnummer wordt automatisch toegevoegd aan de URL. Kan "
+"per ontwerp verschillen."
+
+#: admin/pw-gift-cards-admin.php:222
+msgid "Show Balances by Date"
+msgstr "Toon Balansen op Datum"
+
+#: admin/pw-gift-cards-admin.php:223
+msgid ""
+"On the Balances page in the admin area, optionally show a date picker to "
+"show the balances as of a certain date."
+msgstr ""
+"Op de Balansen-pagina in het admin-gebied kunt u optioneel een datumkiezer "
+"laten zien om de saldi vanaf een bepaalde datum te laten zien."
+
+#: admin/pw-gift-cards-admin.php:229
+msgid "Hide Pimwick Plugins Menu"
+msgstr "Verberg Pimwick Plugins Menu"
+
+#. translators: %s is PW Gift Cards.
+#: admin/pw-gift-cards-admin.php:231
+msgid ""
+"Do not show the Pimwick Plugins menu on the left. You can still access the "
+"dashboard via WooCommerce > %s"
+msgstr ""
+"Laat het Pimwick Plugins menu aan de linkerkant niet zien. U kunt nog steeds "
+"toegang krijgen tot het dashboard via WooCommerce > %s"
+
+#: admin/pw-gift-cards-admin.php:299
+msgid "Configuration error detected by"
+msgstr "Configuratiefout gedetecteerd door"
+
+#: admin/pw-gift-cards-admin.php:300
+msgid ""
+"Your PayPal payment gateway is incorrectly configured. You should not have "
+"both IPN and PDT enabled. The \"IPN Email Notifications\" setting is enabled "
+"and there is also a \"PayPal Identity Token\" (PDT) value set. PayPal is "
+"reaching back to your site twice to confirm the payment. This causes things "
+"to happen twice including email notifications, stock reduction, and gift "
+"card generation. Go to WooCommerce -> Settings -> Payments -> PayPal and "
+"either clear the value from the \"PayPal Identity Token\" field or disable "
+"the \"IPN Email Notifications\" setting."
+msgstr ""
+"Uw PayPal-betaalgateway is onjuist geconfigureerd. U mag niet zowel IPN als "
+"PDT ingeschakeld hebben. De instelling \"IPN E-mailmeldingen\" is "
+"ingeschakeld en er is ook een \"PayPal Identity Token\" (PDT) waarde "
+"ingesteld. PayPal belt twee keer terug naar uw site om de betaling te "
+"bevestigen. Dit zorgt ervoor dat er twee keer dingen gebeuren, waaronder e-"
+"mailberichten, voorraadvermindering en het genereren van cadeaubonnen. Ga "
+"naar WooCommerce -> Instellingen -> Instellingen -> Betalingen -> PayPal en "
+"wis de waarde uit het \"PayPal Identity Token\" veld of schakel de \"IPN E-"
+"mail Notifications\" instelling uit."
+
+#: admin/pw-gift-cards-admin.php:301
+msgid "Dismiss this notice"
+msgstr "Negeer deze melding"
+
+#: admin/pw-gift-cards-admin.php:329 admin/pw-gift-cards-admin.php:340
+#: admin/pw-gift-cards-admin.php:361
+msgid "Pimwick Plugins"
+msgstr "Pimwick Plugins"
+
+#: admin/pw-gift-cards-admin.php:362
+msgid "Our Plugins"
+msgstr "Onze Plugins"
+
+#: admin/pw-gift-cards-admin.php:421
+msgid "Adjustment amount? Can be positive or negative."
+msgstr "Het aan te passen bedrag. Kan positief of negatief zijn."
+
+#: admin/pw-gift-cards-admin.php:422 admin/ui/sections/activity-records.php:11
+#: pw-gift-cards.php:283
+#: templates/woocommerce/pw-gift-cards/balance-activity.php:20
+msgid "Note"
+msgstr "Opmerking"
+
+#: admin/pw-gift-cards-admin.php:423 admin/ui/sections/designer-panel.php:58
+#: admin/ui/sections/designer-panel.php:92
+msgid "Select Image"
+msgstr "Selecteer afbeelding"
+
+#: admin/pw-gift-cards-admin.php:424
+msgid "Use selected image"
+msgstr "Gebruik geselecteerde afbeelding"
+
+#: admin/pw-gift-cards-admin.php:425
+msgid "Expiration Date (YYYY-MM-DD)"
+msgstr "Vervaldatum (jjjj-mm-dd)"
+
+#: admin/pw-gift-cards-admin.php:426
+#: admin/ui/sections/search-results-email-form.php:17
+msgid "Recipient Email Address"
+msgstr "E-mailadres ontvanger"
+
+#: admin/pw-gift-cards-admin.php:427 admin/ui/sections/create.php:70
+#: admin/ui/sections/import-results.php:21
+#: admin/ui/sections/search-results-email-form.php:29 pw-gift-cards.php:142
+#: templates/woocommerce/emails/customer-pw-gift-card.php:134
+msgid "From"
+msgstr "Van"
+
+#: admin/pw-gift-cards-admin.php:428
+msgid "Note (optional)"
+msgstr "Bericht (naar keuze)"
+
+#: admin/pw-gift-cards-admin.php:429
+msgid "Email has been sent."
+msgstr "E-mail is verstuurd."
+
+#: admin/pw-gift-cards-admin.php:430
+msgid "Are you sure you want to delete this design?"
+msgstr "Weet u zeker dat u dit ontwerp wilt verwijderen?"
+
+#: admin/pw-gift-cards-admin.php:431
+msgid "Note: Be sure to save changes before sending a preview email."
+msgstr ""
+"Opmerking: Zorg ervoor dat u de wijzigingen opslaat voordat u een "
+"voorbeeldmail verstuurt."
+
+#: admin/pw-gift-cards-admin.php:432
+msgid "Recipient email address?"
+msgstr "E-mailadres van de ontvanger?"
+
+#: admin/pw-gift-cards-admin.php:475
+msgid "Wait"
+msgstr "Wacht"
+
+#: admin/pw-gift-cards-admin.php:476
+msgid "Add"
+msgstr "Toevoegen"
+
+#: admin/pw-gift-cards-admin.php:477
+msgid "Remove"
+msgstr "Verwijder"
+
+#: admin/pw-gift-cards-admin.php:478
+#: includes/class-wc-product-pw-gift-card.php:312
+msgid "Amount must be greater than zero."
+msgstr "Bedrag moet groter zijn dan nul."
+
+#: admin/pw-gift-cards-admin.php:479
+msgid "Amount must be greater than minimum amount."
+msgstr "Het bedrag moet groter zijn dan het minimumbedrag."
+
+#: admin/pw-gift-cards-admin.php:480
+msgid "Amount must be less than maximum amount."
+msgstr "Bedrag moet kleiner zijn dan het maximale bedrag."
+
+#: admin/pw-gift-cards-admin.php:481 admin/pw-gift-cards-admin.php:1188
+#: includes/pw-gift-cards-redeeming.php:702 pw-gift-cards.php:1184
+msgid "Error"
+msgstr "Fout"
+
+#: admin/pw-gift-cards-admin.php:482 admin/ui/product-data-panel-cards.php:381
+msgid "Add a bonus amount"
+msgstr "Een bonusbedrag toevoegen"
+
+#: admin/pw-gift-cards-admin.php:483
+msgid "Gift card amount that triggers the bonus?"
+msgstr "Gift Card bedrag dat de bonus activeert?"
+
+#: admin/pw-gift-cards-admin.php:484
+msgid "Bonus gift card amount?"
+msgstr "Bonus Gift Card bedrag?"
+
+#: admin/pw-gift-cards-admin.php:517 admin/pw-gift-cards-admin.php:1426
+#: pw-gift-cards.php:135 pw-gift-cards.php:136
+msgid "Gift Card"
+msgstr "Cadeaubon"
+
+#: admin/pw-gift-cards-admin.php:546 admin/ui/product-data-panel-cards.php:251
+msgid "Specify which products can be purchased using this gift card."
+msgstr "Geef aan welke producten met deze cadeaubon kunnen worden gekocht."
+
+#: admin/pw-gift-cards-admin.php:547 admin/ui/product-data-panel-cards.php:250
+msgid "Redemption restrictions?"
+msgstr "Aflossingsbeperkingen?"
+
+#: admin/pw-gift-cards-admin.php:575 admin/ui/product-data-panel-cards.php:269
+msgid ""
+"Products that can be purchased using this gift card. Leave blank to allow "
+"all products except excluded products and categories."
+msgstr ""
+"Producten die met deze cadeaubon kunnen worden gekocht. Laat leeg om alle "
+"producten toe te laten, behalve uitgesloten producten en categorieën."
+
+#: admin/pw-gift-cards-admin.php:591 admin/ui/product-data-panel-cards.php:285
+msgid "Products that cannot be purchased using this gift card."
+msgstr "Producten die niet met deze cadeaubon kunnen worden gekocht."
+
+#: admin/pw-gift-cards-admin.php:607 admin/ui/product-data-panel-cards.php:299
+msgid ""
+"Product categories that can be purchased using this gift card. Leave blank "
+"to allow all categories except excluded products and categories."
+msgstr ""
+"Productcategorieën die met deze cadeaubon kunnen worden gekocht. Laat leeg "
+"om alle categorieën toe te laten behalve uitgesloten producten en "
+"categorieën."
+
+#: admin/pw-gift-cards-admin.php:620 admin/ui/product-data-panel-cards.php:312
+msgid "Product categories that cannot be purchased using this gift card."
+msgstr "Productcategorieën die niet met deze cadeaubon kunnen worden gekocht."
+
+#: admin/pw-gift-cards-admin.php:636 admin/ui/product-data-panel-cards.php:319
+msgid "Exclude tax"
+msgstr "Exclusief belasting"
+
+#: admin/pw-gift-cards-admin.php:638 admin/ui/product-data-panel-cards.php:321
+msgid ""
+"Check this box and tax will not be paid by this gift card when redeemed."
+msgstr ""
+"Als u dit vakje aanvinkt, wordt er bij het inwisselen van deze cadeaubon "
+"geen belasting betaald."
+
+#: admin/pw-gift-cards-admin.php:638 admin/pw-gift-cards-admin.php:647
+#: admin/ui/product-data-panel-cards.php:321
+#: admin/ui/product-data-panel-cards.php:330
+msgid "Default: Unchecked"
+msgstr "Standaard: Niet aangevinkt"
+
+#: admin/pw-gift-cards-admin.php:645 admin/ui/product-data-panel-cards.php:328
+msgid "Exclude Shipping"
+msgstr "Sluit verzendkosten uit"
+
+#: admin/pw-gift-cards-admin.php:647 admin/ui/product-data-panel-cards.php:330
+msgid ""
+"Check this box and shipping will not be paid by this gift card when redeemed."
+msgstr ""
+"Vink dit vakje aan en de verzendkosten worden niet betaald door deze "
+"cadeaubon wanneer deze wordt ingewisseld."
+
+#. translators: %s is the product id.
+#: admin/pw-gift-cards-admin.php:826 admin/pw-gift-cards-admin.php:886
+msgid "Could not locate product id %s"
+msgstr "Kon product id %s niet vinden"
+
+#: admin/pw-gift-cards-admin.php:850 admin/pw-gift-cards-admin.php:918
+msgid "Could not locate product using product_id "
+msgstr "Kan product niet vinden met product_id "
+
+#: admin/pw-gift-cards-admin.php:870
+msgid "Gift Card Amount and Bonus amount are both required."
+msgstr "Cadeaukaart bedrag en bonus bedrag zijn beide vereist."
+
+#. translators: %1$s is the Spend amount, %2$s is the bonus card amount.
+#: admin/pw-gift-cards-admin.php:884 admin/ui/product-data-panel-cards.php:396
+msgid "Buy a %1$s gift card, get a %2$s bonus card"
+msgstr "Koop een %1$s cadeaubon, krijg een %2$s bonusbon"
+
+#. translators: %s is the number of gift cards created.
+#: admin/pw-gift-cards-admin.php:1161
+msgid "%s created."
+msgstr "%s gemaakt."
+
+#: admin/pw-gift-cards-admin.php:1195
+msgid "Imported"
+msgstr "Geimporteerd"
+
+#: admin/pw-gift-cards-admin.php:1214
+msgid "Too many columns."
+msgstr "Teveel kolommen."
+
+#: admin/pw-gift-cards-admin.php:1228
+msgid "Invalid gift card number"
+msgstr "Ongeldig cadeaukaartnummer"
+
+#: admin/pw-gift-cards-admin.php:1236
+msgid "Invalid balance amount"
+msgstr "Ongeldig saldo"
+
+#: admin/pw-gift-cards-admin.php:1247
+msgid "Invalid expiration date"
+msgstr "Ongeldige vervaldatum"
+
+#: admin/pw-gift-cards-admin.php:1261
+msgid "Gift card number already exists."
+msgstr "Cadeaubon nummer bestaat al."
+
+#: admin/pw-gift-cards-admin.php:1315 includes/class-pw-gift-card.php:170
+msgid "None"
+msgstr "Geen"
+
+#: admin/pw-gift-cards-admin.php:1336
+msgid "Malformed request."
+msgstr "Ongeldige aanvraag."
+
+#: admin/pw-gift-cards-admin.php:1406
+msgid "Settings saved."
+msgstr "Instellingen opgeslagen."
+
+#: admin/pw-gift-cards-admin.php:1508
+msgid "Unable to find suitable slug for check balance page."
+msgstr ""
+"Kan geschikte adres niet vinden voor de pagina voor het controleren van de "
+"balans."
+
+#: admin/pw-gift-cards-admin.php:1518 includes/pw-gift-cards-shortcodes.php:140
+msgid "Gift Card Balance"
+msgstr "Cadeaubon tegoed"
+
+#: admin/pw-gift-cards-admin.php:1558 includes/pw-gift-cards-shortcodes.php:122
+msgid "Balance adjusted."
+msgstr "Saldo aangepast."
+
+#: admin/pw-gift-cards-admin.php:1560
+msgid "Note added."
+msgstr "Opmerking toegevoegd."
+
+#: admin/pw-gift-cards-admin.php:1580
+#: includes/pw-gift-cards-rest-controller.php:305
+msgid "Unable to parse expiration date."
+msgstr "Variatie kan niet worden gevonden."
+
+#: admin/pw-gift-cards-admin.php:1585 admin/pw-gift-cards-admin.php:1633
+#: admin/pw-gift-cards-admin.php:1657 admin/pw-gift-cards-admin.php:1671
+#: admin/ui/sections/search-results-email-form.php:9
+msgid "Gift card not found."
+msgstr "Cadeaubon niet gevonden."
+
+#: admin/pw-gift-cards-admin.php:1615
+msgid "Gift Card Number and Email Address are both required."
+msgstr "Het nummer van de Gift Card en het e-mail adres zijn beide vereist."
+
+#: admin/pw-gift-cards-admin.php:1692 admin/pw-gift-cards-admin.php:1751
+#: admin/pw-gift-cards-admin.php:1807
+msgid "Error: Invalid Design ID"
+msgstr "Fout: Ongeldige ontwerp-ID"
+
+#. translators: %s is a counter.
+#: admin/pw-gift-cards-admin.php:1712
+msgid "Design %s"
+msgstr "Ontwerp %s"
+
+#: admin/pw-gift-cards-admin.php:1749
+msgid "Design saved."
+msgstr "Ontwerp opgeslagen."
+
+#: admin/pw-gift-cards-admin.php:1797
+msgid "Preview email system"
+msgstr "Voorbeeld van een e-mailsysteem"
+
+#: admin/pw-gift-cards-admin.php:1798 admin/ui/sections/create.php:66
+#: admin/ui/sections/designer-panel.php:253
+#: admin/ui/sections/search-results-email-form.php:23
+msgid "Recipient Name"
+msgstr "Ontvanger-naam"
+
+#: admin/pw-gift-cards-admin.php:1799 admin/ui/sections/designer-panel.php:255
+msgid "Gift card message to the recipient from the sender."
+msgstr "Cadeaubon bericht aan de ontvanger van de afzender."
+
+#: admin/pw-gift-cards-admin.php:1805
+msgid "Email sent."
+msgstr "E-mail verzonden."
+
+#: admin/ui/activation.php:9
+msgid "Enter the license key that was sent to your email address."
+msgstr "Voer het licentie-nummer in dat naar uw e-mailadres is verzonden."
+
+#: admin/ui/activation.php:12
+msgid "License Key"
+msgstr "Licentie sleutel"
+
+#: admin/ui/activation.php:13
+msgid "Activate"
+msgstr "Activeren"
+
+#: admin/ui/activation.php:15 admin/ui/footer.php:12
+msgid "If you need assistance please contact us."
+msgstr "Als u hulp nodig heeft, neem dan contact met ons op."
+
+#: admin/ui/activation.php:23
+msgid ""
+"You may continue using the plugin with all features enabled, however you "
+"will no longer receive new updates and features until you renew."
+msgstr ""
+"U de plugin blijven gebruiken met alle functies ingeschakeld, maar u zult "
+"geen nieuwe updates en functies meer ontvangen totdat u verlengt."
+
+#: admin/ui/activation.php:25
+msgid "Renew your license"
+msgstr "Verleng uw licentie"
+
+#: admin/ui/activation.php:26
+msgid "Hide this notice"
+msgstr "Verberg deze melding"
+
+#. translators: %s is the PW Gift Card product type name.
+#: admin/ui/initial-setup.php:16
+msgid "Create a \"%s\" product to start selling Gift Cards."
+msgstr "Maak een %s product om met de verkoop van Cadeaubonnen te beginnen."
+
+#: admin/ui/initial-setup.php:21
+msgid "Create the Gift Card product"
+msgstr "Maak het product Cadeaubon"
+
+#: admin/ui/initial-setup.php:30 admin/ui/initial-setup.php:52
+msgid "Success!"
+msgstr "Succes!"
+
+#: admin/ui/initial-setup.php:31
+msgid ""
+"The Gift Card product has been created. Click on the Products menu in the "
+"left to edit it."
+msgstr ""
+"De cadeaubon is aangemaakt. Klik op het Productenmenu in de linker zijbalk "
+"om de cadeaubon aan te passen."
+
+#: admin/ui/initial-setup.php:36
+msgid "Let your customers check their gift card balances."
+msgstr ""
+"Geef je klanten de mogelijkheid om hun cadeaubon tegoed te controleren."
+
+#: admin/ui/initial-setup.php:40
+msgid "Create the Check Gift Card Balance page."
+msgstr "Maak de pagina aan, om je cadeaubon saldo te checken."
+
+#. translators: %s is a link to the shortcode manual on wordpress.com
+#: admin/ui/initial-setup.php:45
+msgid "Create a page with the %s"
+msgstr "Maak een pagina aan met de %s"
+
+#: admin/ui/initial-setup.php:53
+msgid ""
+"The check gift card balance page has been created. Click on the Pages menu "
+"in the left to edit it."
+msgstr ""
+"De pagina om het saldo van de cadeaubon te controleren is aangemaakt. Klik "
+"links op het menu \"Pagina's\" om het aan te passen."
+
+#: admin/ui/order-gift-card-total.php:14
+msgid "PW Gift Card"
+msgstr "PW Gift Card"
+
+#: admin/ui/order-gift-card-total.php:19
+#: includes/pw-gift-cards-purchasing.php:596
+msgid " (inactive)"
+msgstr " (niet actief)"
+
+#: admin/ui/order-gift-card-total.php:25
+#: includes/pw-gift-cards-purchasing.php:594
+msgid "(deleted)"
+msgstr "(verwijderd)"
+
+#: admin/ui/product-data-panel-cards.php:9
+msgid "No default"
+msgstr "Geen standaard"
+
+#: admin/ui/product-data-panel-cards.php:11
+msgid "The purchasing customer"
+msgstr "De inkoop klant"
+
+#: admin/ui/product-data-panel-cards.php:12
+msgid "The gift card recipient."
+msgstr "De ontvanger van de geschenkbon."
+
+#: admin/ui/product-data-panel-cards.php:114
+msgid "Physical gift card?"
+msgstr "Fysieke Gift Card?"
+
+#: admin/ui/product-data-panel-cards.php:116
+msgid ""
+"When checked, the generated gift card number will be emailed to address "
+"specified below. A physical gift card should be created and mailed to the "
+"Shipping Address on the order. Leave unchecked for traditional eGift cards. "
+"Default: Unchecked."
+msgstr ""
+"Als deze optie is aangevinkt, wordt het gegenereerde geschenkbon nummer per "
+"e-mail verstuurd naar het onderstaande adres. EEN fysieke Gift Card moet "
+"worden aangemaakt en gemaild naar het VerzendAdres op de bestelling. Laat "
+"ongecontroleerd voor de traditionele eGift kaarten. Standaard: niet "
+"aangevinkt."
+
+#: admin/ui/product-data-panel-cards.php:122
+msgid "Gift card amounts"
+msgstr "Cadeaubon-bedragen"
+
+#: admin/ui/product-data-panel-cards.php:126
+msgid "The available fixed amounts that can be purchased."
+msgstr "De beschikbare vaste bedragen die kunnen worden gekocht."
+
+#: admin/ui/product-data-panel-cards.php:155
+msgid "Allow custom amounts"
+msgstr "Aangepaste bedragen toestaan"
+
+#: admin/ui/product-data-panel-cards.php:157
+msgid "Allow the customer to specify the gift card amount when purchasing."
+msgstr ""
+"De klant toestaan het bedrag van de cadeaubon op te geven bij de aankoop."
+
+#: admin/ui/product-data-panel-cards.php:163
+msgid "Minimum amount"
+msgstr "Minimum bedrag"
+
+#: admin/ui/product-data-panel-cards.php:169
+msgid ""
+"The minimum gift card amount that can be chosen by the customer. Required."
+msgstr ""
+"Het minimum cadeaubon bedrag dat door de klant kan worden gekozen. Verplicht."
+
+#: admin/ui/product-data-panel-cards.php:175
+msgid "Maximum amount"
+msgstr "Maximum bedrag"
+
+#: admin/ui/product-data-panel-cards.php:181
+msgid ""
+"The maximum gift card amount that can be chosen by the customer. Required."
+msgstr ""
+"Het maximum cadeaubon bedrag dat door de klant kan worden gekozen. Verplicht."
+
+#: admin/ui/product-data-panel-cards.php:187
+msgid "Default amount"
+msgstr "Standaardbedrag"
+
+#: admin/ui/product-data-panel-cards.php:190
+msgid ""
+"The amount that is pre-selected when a customer first views this product. "
+"They can choose another amount."
+msgstr ""
+"Het bedrag dat standaard is geselecteerd wanneer een klant dit product voor "
+"het eerst bekijkt. Ze kunnen een ander bedrag kiezen."
+
+#: admin/ui/product-data-panel-cards.php:197
+msgid "Include recipient name"
+msgstr "Naam van geadresseerde opnemen"
+
+#: admin/ui/product-data-panel-cards.php:199
+msgid ""
+"Allow the customer to specify a friendly name for the gift card recipient "
+"when purchasing. (Dad, Mom, Uncle Joe, etc)"
+msgstr ""
+"Laat de klant een beschrijvende naam opgeven voor de ontvanger van de "
+"geschenkbon bij de aankoop. (Papa, mamma, oom Joe, enz.)"
+
+#: admin/ui/product-data-panel-cards.php:206
+msgid "Ignore coupons"
+msgstr "Coupons negeren"
+
+#: admin/ui/product-data-panel-cards.php:208
+msgid ""
+"Check this box and coupons will not discount the purchase price of a gift "
+"card, although they will still apply to other items in the cart. Default: "
+"Unchecked."
+msgstr ""
+"Vink dit vakje aan en coupons zullen niet de aankoopprijs van een gift card, "
+"hoewel ze nog steeds van toepassing op andere artikelen in de winkelwagen. "
+"Standaard: niet aangevinkt."
+
+#: admin/ui/product-data-panel-cards.php:214
+#: templates/woocommerce/single-product/add-to-cart/pw-gift-card-before-add-to-cart-quantity.php:155
+msgid "Recipient email address"
+msgstr "E-mail adres ontvanger"
+
+#: admin/ui/product-data-panel-cards.php:217
+msgid ""
+"The email address that will receive the generated gift card number. This "
+"person will print the gift card and mail it to the shipping address. Leave "
+"blank if you do not want to generate a gift card number for this product "
+"(for example, if you have pre-printed gift cards)."
+msgstr ""
+"Het e-mailadres dat het gegenereerde cadeaubonnummer zal ontvangen. Deze "
+"persoon zal de cadeaubon uitprinten en naar het verzendingsadres mailen. "
+"Laat leeg als u geen cadeaubonnummer voor dit product wilt genereren "
+"(bijvoorbeeld als u voorbedrukte cadeaubonnen heeft)."
+
+#: admin/ui/product-data-panel-cards.php:224
+msgid "Expires in X days"
+msgstr "Vervalt in X dagen"
+
+#: admin/ui/product-data-panel-cards.php:227
+msgid ""
+"(optional) The number of days after the purchase date when the gift card "
+"will expire. If blank, the gift card will not expire."
+msgstr ""
+"(optioneel) Het aantal dagen na de aankoopdatum waarop de cadeaubon vervalt. "
+"Als dit niet ingevuld is, verloopt de cadeaubon niet."
+
+#. translators: %s is a link to the law for US-based stores.
+#: admin/ui/product-data-panel-cards.php:237
+msgid ""
+"In accordance with the %s, US-based gift cards should not expire for at "
+"least 5 years (1,825 days)."
+msgstr ""
+"In overeenstemming met de %s mogen de geschenkkaarten uit de VS gedurende "
+"ten minste 5 jaar (1.825 dagen) niet verlopen."
+
+#: admin/ui/product-data-panel-cards.php:251
+msgid "Can also be set at the Variation level."
+msgstr "Kan ook worden ingesteld op het niveau van de variatie."
+
+#: admin/ui/product-data-panel-cards.php:341
+msgid "Show email preview"
+msgstr "E-mail voorbeeld tonen"
+
+#: admin/ui/product-data-panel-cards.php:343
+msgid ""
+"Include a Preview button on the front end so the purchasing customer can see "
+"the gift card email. Default: Checked"
+msgstr ""
+"Voeg een Preview knop toe aan de voorkant zodat de klant de email van de "
+"cadeaubon kan zien. Standaard: Gecontroleerd"
+
+#: admin/ui/product-data-panel-cards.php:347
+#: admin/ui/sections/import-results.php:29
+#: admin/ui/sections/search-results-email-form.php:41
+msgid "Email Design"
+msgstr "E-mail ontwerp"
+
+#: admin/ui/product-data-panel-cards.php:366
+msgid "Launch the Gift Card Designer"
+msgstr "Lancering van de Gift Card Designer"
+
+#: admin/ui/product-data-panel-cards.php:375
+msgid "Enable bonus gift cards?"
+msgstr "Bonus cadeaubonnen inschakelen?"
+
+#: admin/ui/product-data-panel-cards.php:376
+msgid ""
+"Offering a bonus for purchasing gift cards is a great way to incentivise "
+"customers. For example: Buy a $25 gift card, get a $5 bonus card!"
+msgstr ""
+"Het aanbieden van een bonus voor het kopen van cadeaubonnen is een geweldige "
+"manier om klanten te stimuleren. Bijvoorbeeld: koop een $25 Gift Card, "
+"ontvang een $5 Bonuskaart!"
+
+#: admin/ui/product-data-panel-cards.php:410
+msgid "Cumulative bonus"
+msgstr "Cumulatieve bonus"
+
+#: admin/ui/product-data-panel-cards.php:411
+msgid ""
+"When checked, customer can purchase multiple gift cards to trigger the "
+"bonus. Otherwise, exact amount must be purchased to trigger bonus."
+msgstr ""
+"Indien aangevinkt, kan de klant meerdere cadeaubonnen kopen om de bonus te "
+"activeren. Anders moet het exacte bedrag worden gekocht om de bonus te "
+"activeren."
+
+#: admin/ui/product-data-panel-cards.php:418
+msgid "Who will receive the bonus gift card?"
+msgstr "Wie krijgt de bonus Gift Card?"
+
+#: admin/ui/section-buttons.php:11
+msgid "Balances"
+msgstr "Saldos"
+
+#: admin/ui/section-buttons.php:15
+msgid "Email Designer"
+msgstr "E-mail ontwerper"
+
+#: admin/ui/section-buttons.php:19
+msgid "Create Gift Cards"
+msgstr "Maak Cadeaubonnen aan"
+
+#: admin/ui/section-buttons.php:23
+msgid "Import / Export"
+msgstr "Importeren / Exporteren"
+
+#: admin/ui/section-buttons.php:27
+msgid "Settings"
+msgstr "Instellingen"
+
+#: admin/ui/sections/activity-records.php:8
+#: templates/woocommerce/pw-gift-cards/balance-activity.php:18
+msgid "Date"
+msgstr "Datum"
+
+#: admin/ui/sections/activity-records.php:9
+msgid "Action"
+msgstr "Actie"
+
+#: admin/ui/sections/activity-records.php:10
+#: templates/woocommerce/pw-gift-cards/balance-activity.php:19
+msgid "User"
+msgstr "Gebruiker"
+
+#: admin/ui/sections/activity-records.php:12 pw-gift-cards.php:139
+#: templates/woocommerce/emails/customer-pw-gift-card.php:171
+#: templates/woocommerce/pw-gift-cards/balance-activity.php:21
+msgid "Amount"
+msgstr "Bedrag"
+
+#: admin/ui/sections/activity-records.php:13
+#: admin/ui/sections/import-results.php:61
+#: admin/ui/sections/search-results.php:15
+#: templates/woocommerce/pw-gift-cards/balance-activity.php:22
+msgid "Balance"
+msgstr "Saldo"
+
+#: admin/ui/sections/activity-records.php:35
+#: templates/woocommerce/pw-gift-cards/balance-activity.php:43
+msgid "Guest"
+msgstr "Gast"
+
+#: admin/ui/sections/balance-summary.php:42
+msgid "Active gift cards"
+msgstr "Actieve Cadeaubonnen"
+
+#: admin/ui/sections/balance-summary.php:46
+msgid "Outstanding balances"
+msgstr "Uitstaand Saldo"
+
+#: admin/ui/sections/balance-summary.php:51
+#: templates/woocommerce/cart/apply-gift-card.php:35
+msgid "Apply"
+msgstr "Toepassen"
+
+#: admin/ui/sections/balance-summary.php:52
+msgid "Balances as of date"
+msgstr "Balansen per datum"
+
+#: admin/ui/sections/balances.php:14
+msgid "Gift card number or recipient email (leave blank for all)"
+msgstr "Cadeaubon nummer of e-mailadres van ontvanger (laat leeg voor beide)"
+
+#: admin/ui/sections/balances.php:15
+msgid "Search"
+msgstr "Zoeken"
+
+#: admin/ui/sections/create.php:11
+msgid "Number of cards to create"
+msgstr "Aantal te maken kaarten"
+
+#: admin/ui/sections/create.php:15
+#: templates/woocommerce/emails/customer-pw-gift-card.php:177
+#: templates/woocommerce/pw-gift-cards/balance.php:82
+msgid "Gift Card Number"
+msgstr "Cadeaubon nummer"
+
+#: admin/ui/sections/create.php:15 admin/ui/sections/create.php:58
+#: admin/ui/sections/create.php:62 admin/ui/sections/create.php:66
+#: admin/ui/sections/create.php:70 admin/ui/sections/create.php:74
+#: admin/ui/sections/search-results-email-form.php:23
+#: admin/ui/sections/search-results-email-form.php:29
+#: admin/ui/sections/search-results-email-form.php:35
+#: templates/woocommerce/single-product/add-to-cart/pw-gift-card-before-add-to-cart-quantity.php:186
+msgid "(optional)"
+msgstr "(naar keuze)"
+
+#: admin/ui/sections/create.php:15
+msgid "Existing gift card number to insert."
+msgstr "Bestaande cadeaukaart nummer in te voeren."
+
+#: admin/ui/sections/create.php:24
+msgid "Gift Card Product"
+msgstr "Product cadeaubon"
+
+#: admin/ui/sections/create.php:54
+msgid "Initial balance"
+msgstr "Initieel bedrag"
+
+#: admin/ui/sections/create.php:58
+msgid "Expiration date"
+msgstr "Vervaldatum"
+
+#: admin/ui/sections/create.php:62
+msgid "Recipient Email"
+msgstr "E-mail ontvanger"
+
+#: admin/ui/sections/create.php:66 admin/ui/sections/create.php:70
+#: admin/ui/sections/create.php:74
+msgid "Shown to the Recipient in the gift card email."
+msgstr "Wordt aan de ontvanger getoond in de e-mail met de cadeaubon."
+
+#: admin/ui/sections/create.php:74
+#: admin/ui/sections/search-results-email-form.php:35 pw-gift-cards.php:143
+msgid "Message"
+msgstr "Bericht"
+
+#: admin/ui/sections/create.php:79
+msgid "Email Design - Only used if Recipient Email has been specified."
+msgstr ""
+"E-mailontwerp - Alleen gebruikt als Ontvanger e-mail is gespecificeerd."
+
+#: admin/ui/sections/create.php:96
+msgid ""
+"Note (optional) - Added to the Activity record in the admin area. Not shown "
+"to the customer."
+msgstr ""
+"Opmerking (optioneel) - Wordt toegevoegd aan het activiteitrecord in het "
+"beheergebied. Niet getoond aan de klant."
+
+#: admin/ui/sections/create.php:102
+msgid "Send gift card email to Recipient Email if provided."
+msgstr "Stuur cadeaubon e-mail naar de ontvanger e-mail indien opgegeven."
+
+#: admin/ui/sections/create.php:108
+msgid "Reset this form after creating the gift cards."
+msgstr "Reset dit formulier na het aanmaken van de cadeaubonnen."
+
+#: admin/ui/sections/create.php:114
+msgid "Create"
+msgstr "Aanmaken"
+
+#: admin/ui/sections/designer-main.php:17
+msgid "Select a design to edit or add a new design."
+msgstr ""
+"Selecteer een ontwerp om het te bewerken of een nieuw ontwerp toe te voegen."
+
+#: admin/ui/sections/designer-main.php:29
+msgid "Create a new design"
+msgstr "Maak een nieuw ontwerp"
+
+#: admin/ui/sections/designer-main.php:35
+msgid ""
+"Edit the PW Gift Card product to specify which Email Designs can be selected "
+"by the purchasing customer."
+msgstr ""
+"Bewerk het PW Gift Card product om te specificeren welke e-mailontwerpen "
+"kunnen worden geselecteerd door de kopende klant."
+
+#: admin/ui/sections/designer-panel.php:14
+msgid "General"
+msgstr "Algemeen"
+
+#: admin/ui/sections/designer-panel.php:17
+msgid "Design name (visible to customers)"
+msgstr "Ontwerpnaam (zichtbaar voor klanten)"
+
+#: admin/ui/sections/designer-panel.php:21
+msgid "Gift card title"
+msgstr "Cadeaubon titel"
+
+#: admin/ui/sections/designer-panel.php:25
+msgid "Gift card title color"
+msgstr "Cadeaubon titel kleur"
+
+#: admin/ui/sections/designer-panel.php:26
+msgid "Gift card color"
+msgstr "Cadeaubon kleur"
+
+#: admin/ui/sections/designer-panel.php:29
+msgid "Additional content (HTML allowed)"
+msgstr "Extra inhoud (HTML toegestaan)"
+
+#: admin/ui/sections/designer-panel.php:33
+msgid "Additional content location"
+msgstr "Extra inhoudelijke locatie"
+
+#: admin/ui/sections/designer-panel.php:44
+#: admin/ui/sections/designer-panel.php:72
+msgid "Left"
+msgstr "Links"
+
+#: admin/ui/sections/designer-panel.php:45
+#: admin/ui/sections/designer-panel.php:73
+msgid "Center"
+msgstr "Midden"
+
+#: admin/ui/sections/designer-panel.php:46
+#: admin/ui/sections/designer-panel.php:74
+msgid "Right"
+msgstr "Rechts"
+
+#: admin/ui/sections/designer-panel.php:53
+#: admin/ui/sections/designer-panel.php:56
+msgid "Image"
+msgstr "Afbeelding"
+
+#: admin/ui/sections/designer-panel.php:61
+msgid "Image location"
+msgstr "Plaats van het beeld"
+
+#: admin/ui/sections/designer-panel.php:78
+msgid "Image dimensions"
+msgstr "Afmeting afbeelding"
+
+#: admin/ui/sections/designer-panel.php:79
+msgid "Max width"
+msgstr "Maximumbreedte"
+
+#: admin/ui/sections/designer-panel.php:81
+msgid "Max height"
+msgstr "Maximumhoogte"
+
+#: admin/ui/sections/designer-panel.php:84
+msgid "Additional content text color"
+msgstr "Extra inhoud tekstkleur"
+
+#: admin/ui/sections/designer-panel.php:90
+msgid "Gift card background image"
+msgstr "Cadeaubon achtergrondafbeelding"
+
+#: admin/ui/sections/designer-panel.php:94
+msgid "Outlook does not display background images."
+msgstr "Outlook geeft geen achtergrondafbeeldingen weer."
+
+#: admin/ui/sections/designer-panel.php:95
+msgid "We recommend a 500x275 pixel image."
+msgstr "Wij raden een 500x275 pixelafbeelding aan."
+
+#: admin/ui/sections/designer-panel.php:96
+msgid "Sample"
+msgstr "Steekproef"
+
+#: admin/ui/sections/designer-panel.php:116
+msgid "Redeem Button"
+msgstr "Knop Verlossen"
+
+#: admin/ui/sections/designer-panel.php:119
+msgid "Redeem button color"
+msgstr "Verzilver de kleur van de knop in te wisselen"
+
+#: admin/ui/sections/designer-panel.php:120
+msgid "Redeem button text color"
+msgstr "Wisselen knop tekstkleur inwisselen"
+
+#: admin/ui/sections/designer-panel.php:123
+msgid "Redeem Button Text"
+msgstr "Knop tekst inwisselen"
+
+#: admin/ui/sections/designer-panel.php:127
+msgid "Redeem Button Visibility"
+msgstr "Zichtbaarheid inwisselknop"
+
+#: admin/ui/sections/designer-panel.php:129
+#: admin/ui/sections/designer-panel.php:170
+msgid "Visible"
+msgstr "Zichtbaar"
+
+#: admin/ui/sections/designer-panel.php:130
+#: admin/ui/sections/designer-panel.php:171
+msgid "Hidden"
+msgstr "Verborgen"
+
+#: admin/ui/sections/designer-panel.php:134
+msgid "Redeem URL"
+msgstr "URL inwisselen"
+
+#: admin/ui/sections/designer-panel.php:137
+msgid ""
+"The link for the Redeem button on the gift card email. Include the https "
+"prefix, the Gift Card Number is automatically appended in the URL."
+msgstr ""
+"De link voor de Verzilveringsknop op de cadeaubon e-mail. Neem de https "
+"prefix op, het Cadeaubonnummer wordt automatisch toegevoegd aan de URL."
+
+#: admin/ui/sections/designer-panel.php:145
+msgid "Additional Colors"
+msgstr "Extra kleuren"
+
+#: admin/ui/sections/designer-panel.php:148
+msgid "PDF Link Color"
+msgstr "PDF Link Kleur"
+
+#: admin/ui/sections/designer-panel.php:149
+msgid "Recipient text color"
+msgstr "Ontvanger tekstkleur"
+
+#: admin/ui/sections/designer-panel.php:150
+msgid "From text color"
+msgstr "Van tekstkleur"
+
+#: admin/ui/sections/designer-panel.php:151
+msgid "Message text color"
+msgstr "Bericht tekstkleur"
+
+#: admin/ui/sections/designer-panel.php:152
+msgid "Amount label color"
+msgstr "Bedrag label kleur"
+
+#: admin/ui/sections/designer-panel.php:153
+msgid "Amount color"
+msgstr "Hoeveelheid kleur"
+
+#: admin/ui/sections/designer-panel.php:154
+msgid "Gift card number label color"
+msgstr "Cadeaunummer label kleur van de cadeaubon"
+
+#: admin/ui/sections/designer-panel.php:155
+msgid "Gift card number color"
+msgstr "Cadeaulijstnummer kleur"
+
+#: admin/ui/sections/designer-panel.php:156
+msgid "Expiration date label color"
+msgstr "Vervaldatum kleur van het etiket"
+
+#: admin/ui/sections/designer-panel.php:157
+msgid "Expiration Date color"
+msgstr "Vervaldatum Datum kleur"
+
+#: admin/ui/sections/designer-panel.php:158
+msgid "Gift card border color"
+msgstr "Cadeaubon rand kleur"
+
+#: admin/ui/sections/designer-panel.php:165
+#: admin/ui/sections/search-results-rows.php:73
+msgid "PDF"
+msgstr "PDF"
+
+#: admin/ui/sections/designer-panel.php:168
+msgid "PDF Link Visibility"
+msgstr "PDF Link Zichtbaarheid"
+
+#: admin/ui/sections/designer-panel.php:175
+msgid "PDF Link Text"
+msgstr "PDF Link Tekst"
+
+#: admin/ui/sections/designer-panel.php:183
+msgid "Advanced"
+msgstr "Geavanceerd"
+
+#: admin/ui/sections/designer-panel.php:186
+msgid "Custom CSS"
+msgstr "Aangepaste CSS"
+
+#: admin/ui/sections/designer-panel.php:189
+msgid "Save and refresh the page after adding custom CSS."
+msgstr ""
+"Sla de pagina op en ververs de pagina na het toevoegen van aangepaste CSS."
+
+#: admin/ui/sections/designer-panel.php:194
+msgid "Dropdown menu order"
+msgstr "Volgorde vervolgkeuzemenu"
+
+#. translators: %s a link to the store's WooCommerce Email Settings page.
+#: admin/ui/sections/designer-panel.php:206
+msgid ""
+"Go to the %s to customize the background color, subject, email heading, and "
+"more."
+msgstr ""
+"Ga naar de %s om de achtergrondkleur, het onderwerp, de e-mailrubriek en "
+"meer aan te passen."
+
+#: admin/ui/sections/designer-panel.php:210
+msgid "Want even more control?"
+msgstr "Wil je nog meer controle?"
+
+#: admin/ui/sections/designer-panel.php:212
+msgid ""
+"You can fully customize the gift card email to suit your needs. We use the "
+"built in WooCommerce email template system. To override the email you should "
+"copy this file"
+msgstr ""
+"U kunt de e-mail van de cadeaubon volledig aanpassen aan uw behoeften. We "
+"gebruiken het ingebouwde WooCommerce e-mail template systeem. Om de e-mail "
+"te negeren moet u dit bestand kopiëren"
+
+#: admin/ui/sections/designer-panel.php:214
+msgid "To here"
+msgstr "Naar hier"
+
+#: admin/ui/sections/designer-panel.php:216
+msgid ""
+"You may need to create the subfolders if they do not exist in your theme "
+"folder. Once the file is in your theme folder, open it up in a text editor "
+"and make any changes."
+msgstr ""
+"Het kan nodig zijn om de submappen aan te maken als deze niet in uw themamap "
+"aanwezig zijn. Zodra het bestand zich in uw themamap bevindt, opent u het in "
+"een tekstverwerker en brengt u eventuele wijzigingen aan."
+
+#: admin/ui/sections/designer-panel.php:220
+msgid "Save design"
+msgstr "Ontwerp opslaan"
+
+#: admin/ui/sections/designer-panel.php:221
+msgid "Delete design"
+msgstr "Ontwerp verwijderen"
+
+#: admin/ui/sections/designer-panel.php:236
+msgid "Custom template file detected!"
+msgstr "Aangepast sjabloonbestand gedetecteerd!"
+
+#: admin/ui/sections/designer-panel.php:239
+msgid ""
+"It appears as though you already have a custom email template file, your "
+"changes in the Designer may not appear when you actually send the email. "
+"Click the Send Preview Email button to confirm."
+msgstr ""
+"Het lijkt alsof u al een aangepast e-mailsjabloonbestand hebt, maar uw "
+"wijzigingen in de Designer worden mogelijk niet weergegeven wanneer u de e-"
+"mail daadwerkelijk verstuurt. Klik op de knop Verzend voorbeeld e-mail om te "
+"bevestigen."
+
+#: admin/ui/sections/designer-panel.php:244
+#: templates/woocommerce/single-product/add-to-cart/pw-gift-card-before-add-to-cart-quantity.php:243
+msgid "Preview"
+msgstr "Voorbeeld"
+
+#: admin/ui/sections/designer-panel.php:247
+msgid "Send a preview email"
+msgstr "Stuur een voorbeeld e-mail"
+
+#: admin/ui/sections/designer-panel.php:254
+msgid "The Purchasing Customer"
+msgstr "De inkoop klant"
+
+#: admin/ui/sections/import-results.php:8
+msgid "THIS IS ONLY A PREVIEW"
+msgstr "DIT IS ALLEEN MAAR EEN VOORBEELD"
+
+#: admin/ui/sections/import-results.php:10
+msgid ""
+"No cards have been imported yet. If the results look good, click on the "
+"\"Import cards\" button below to actually create the gift cards."
+msgstr ""
+"Er zijn nog geen cadeaubonnen geïmporteerd. Als de resultaten er goed "
+"uitzien, klikt u op de knop 'cadeaubonnen importeren' hieronder om de "
+"cadeaubonnen te maken."
+
+#: admin/ui/sections/import-results.php:13
+msgid "Overwrite data for existing gift card numbers."
+msgstr "Overschrijf gegevens voor bestaande cadeaukaart nummers."
+
+#: admin/ui/sections/import-results.php:16
+msgid ""
+"Email the gift card to the recipient if email address is included in the "
+"import."
+msgstr ""
+"E-mail de cadeaubon naar de ontvanger als het e-mailadres is opgenomen in de "
+"import."
+
+#: admin/ui/sections/import-results.php:45
+msgid "Import cards"
+msgstr "Importeer Cadeaubonnen"
+
+#: admin/ui/sections/import-results.php:59
+msgid "Row"
+msgstr "RIj"
+
+#: admin/ui/sections/import-results.php:60
+#: admin/ui/sections/search-results.php:14
+msgid "Card Number"
+msgstr "Cadeaubon nummer"
+
+#: admin/ui/sections/import-results.php:62
+#: admin/ui/sections/search-results.php:16
+msgid "Expiration Date"
+msgstr "Vervaldatum"
+
+#: admin/ui/sections/import-results.php:63
+#: admin/ui/sections/search-results.php:17 pw-gift-cards.php:141
+msgid "Recipient"
+msgstr "Ontvanger"
+
+#: admin/ui/sections/import-results.php:64
+msgid "Result"
+msgstr "Resultaat"
+
+#: admin/ui/sections/import-results.php:80
+msgid "OK"
+msgstr "OK"
+
+#: admin/ui/sections/import-results.php:84
+msgid "ERROR"
+msgstr "FOUT"
+
+#. translators: %s is the valid record count.
+#: admin/ui/sections/import-results.php:99
+msgid "%s valid"
+msgstr "%s geldig"
+
+#. translators: %s is the invalid record count.
+#: admin/ui/sections/import-results.php:105
+msgid "%s invalid"
+msgstr "%s ongeldig"
+
+#. translators: %s is the total records processed count.
+#: admin/ui/sections/import-results.php:111
+msgid "%s total records processed"
+msgstr "%s totaal aantal records verwerkt"
+
+#: admin/ui/sections/import.php:11
+msgid "Import CSV File"
+msgstr "Importeer CSV bestand"
+
+#: admin/ui/sections/import.php:15
+msgid "Upload CSV File"
+msgstr "Upload CSV bestand"
+
+#: admin/ui/sections/import.php:19
+msgid "Import Instructions"
+msgstr "Invoer instructies"
+
+#: admin/ui/sections/import.php:22
+msgid ""
+"Import a comma-separated value file (CSV) of existing gift card numbers. "
+"This is useful for importing physical gift cards sold to customers. You will "
+"see a preview of the results before anything is saved to the database."
+msgstr ""
+"Importeer een door komma's gescheiden bestand (CSV) van bestaande cadeaubon "
+"nummers. Dit is handig voor het importeren van fysieke cadeaubonnen die aan "
+"klanten worden verkocht. Je ziet een voorbeeld van de resultaten voordat er "
+"iets in de database wordt opgeslagen."
+
+#: admin/ui/sections/import.php:25
+msgid "The CSV should NOT have a header and the columns must be in this order:"
+msgstr ""
+"He CSV bestand mag GEEN kop hebben en de kolommen moeten in deze volgorde:"
+
+#: admin/ui/sections/import.php:28
+msgid ""
+"Gift Card Number, Balance, Expiration Date (optional), Recipient Email "
+"(optional)"
+msgstr ""
+"Geschenk kaartnummer, saldo, vervaldatum (optioneel), ontvanger E-mail "
+"(optioneel)"
+
+#: admin/ui/sections/import.php:45
+msgid "Export your gift card data"
+msgstr "Uw cadeaukaartgegevens exporteren"
+
+#: admin/ui/sections/import.php:48
+msgid "Download CSV File"
+msgstr "CSV-bestand downloaden"
+
+#: admin/ui/sections/search-results-email-form.php:56
+msgid "Save these values to this gift card."
+msgstr "Sla deze waarden op deze cadeaubon."
+
+#: admin/ui/sections/search-results-email-form.php:60
+msgid "Send"
+msgstr "Verzenden"
+
+#: admin/ui/sections/search-results-email-form.php:61
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: admin/ui/sections/search-results-rows.php:44
+msgid "Card has been deleted."
+msgstr "Deze Cadeaubon heeft een tegoed van nul euro."
+
+#: admin/ui/sections/search-results-rows.php:67
+msgid "View activity"
+msgstr "Bekijk activiteit"
+
+#: admin/ui/sections/search-results-rows.php:69
+msgid "Add a note"
+msgstr "Voeg een opmerking toe"
+
+#: admin/ui/sections/search-results-rows.php:70
+msgid "Adjust balance"
+msgstr "Pas balans aan"
+
+#: admin/ui/sections/search-results-rows.php:71
+msgid "Set expiration date"
+msgstr "Vervaldatum instellen"
+
+#: admin/ui/sections/search-results-rows.php:72
+msgid "Email Gift Card"
+msgstr "E-mail Gift Card"
+
+#: admin/ui/sections/search-results-rows.php:74
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: admin/ui/sections/search-results-rows.php:77
+msgid "Restore"
+msgstr "Herstellen"
+
+#: admin/ui/sections/search-results-rows.php:78
+msgid "Delete Permanently"
+msgstr "Permanent verwijderen"
+
+#: admin/ui/sections/search-results-rows.php:88
+msgid "Load more"
+msgstr "Meer laden"
+
+#: admin/ui/sections/search-results-rows.php:174
+msgid "Are you sure you want to delete this gift card?"
+msgstr "Weet u zeker dat u deze gift card wilt verwijderen?"
+
+#: admin/ui/sections/search-results-rows.php:184
+msgid ""
+"Are you sure you want to PERMANENTLY delete this gift card? This action "
+"cannot be undone!"
+msgstr ""
+"Weet u zeker dat u deze cadeaubon PERMANENTLY wilt verwijderen? Deze actie "
+"kan niet ongedaan worden gemaakt!"
+
+#: admin/ui/sections/search-results.php:7
+msgid "No results"
+msgstr "Geen resultaten"
+
+#: admin/ui/sections/search-results.php:8
+msgid "There are no gift cards found matching your search terms."
+msgstr "Er zijn geen cadeaubon gevonden die voldoen aan je zoek voorwaarden."
+
+#: admin/ui/sections/settings.php:15
+msgid "Not receiving gift card emails?"
+msgstr "Geen cadeaubon e-mails ontvangen?"
+
+#: admin/ui/sections/settings.php:16
+msgid ""
+"Confirm that the Order Status is \"Complete\" for the gift cards purchased. "
+"You should see the Gift Card number along with the recipient email in the "
+"Order line items inside the admin area. If the order is Complete and it "
+"shows the Gift Card number, try disabling the WooCommerce Transactional "
+"Email System for the gift cards below."
+msgstr ""
+"Controleer of de Bestelstatus \"Voltooid\" is voor de gekochte cadeaubonnen. "
+"U moet het nummer van de cadeaubon samen met de e-mail van de ontvanger zien "
+"in de bestelregel in de admin-zone. Als de bestelling is voltooid en het "
+"nummer van de cadeaubon wordt getoond, probeer dan het WooCommerce "
+"Transactional Email System voor de onderstaande cadeaubonnen uit te "
+"schakelen."
+
+#: admin/ui/sections/settings.php:26
+msgid "Save Settings"
+msgstr "Instellingen opslaan"
+
+#: includes/class-pw-gift-card-activity.php:72
+msgid "Could not find activity record"
+msgstr "Kon geen activiteit record vinden"
+
+#: includes/class-pw-gift-card-activity.php:84
+msgid "Invalid action value: "
+msgstr "Ongeldige actie-waarde: "
+
+#. translators: %1$s is the previous gift card number and %2$s is the new gift card number.
+#: includes/class-pw-gift-card.php:25
+msgid "Number changed from %1$s to %2$s"
+msgstr "Nummer veranderd van %1$s naar %2$s"
+
+#: includes/class-pw-gift-card.php:108
+msgid "Card number does not exist."
+msgstr "Cadeaubon nummer bestaat niet."
+
+#: includes/class-pw-gift-card.php:111
+msgid "Enter a card number."
+msgstr "Voer een Cadeaubon nummer in."
+
+#: includes/class-pw-gift-card.php:167
+#: templates/woocommerce/cart/cart-pw-gift-card.php:38
+#: templates/woocommerce/checkout/pw-gift-cards.php:36
+msgid "Expired"
+msgstr "Verlopen"
+
+#: includes/class-pw-gift-card.php:281
+msgid "Amount added should be greater than zero."
+msgstr "Het opgegeven bedrag moet groter zijn dan nul."
+
+#: includes/class-pw-gift-card.php:294
+msgid "Amount deducted should be less than zero."
+msgstr "Het in mindering gebrachte bedrag moet kleiner zijn dan nul."
+
+#: includes/class-pw-gift-card.php:303
+msgid "Unable to adjust balance, card is not active."
+msgstr "Kon saldo niet aanpassen, cadeaubon is niet actief."
+
+#: includes/class-pw-gift-card.php:492
+msgid "Card Number cannot be empty."
+msgstr "Cadeaubon nummer kan niet leeg zijn."
+
+#. translators: %1$s is the number, %2$s is the database table name, %3$s is the inserted gift card id, and %4$s is the database error message.
+#: includes/class-pw-gift-card.php:505
+msgid ""
+"Gift Card %1$s was inserted into table %2$s and received database id %3$s "
+"but it could not be retrieved. Last error: %4$s"
+msgstr ""
+"Cadeaubon %1$s werd ingevoegd in tabel %2$s en kreeg database id %3$s maar "
+"kon niet worden opgehaald. Laatste fout: %4$s"
+
+#. translators: %1$s is the number, %2$s is the database table name, %3$s is the database error message.
+#: includes/class-pw-gift-card.php:509
+msgid "Gift Card %1$s could not be inserted into table %2$s. Last error: %3$s"
+msgstr ""
+"Cadeaubon %1$s kon niet in tabel %2$s ingevoegd worden. Laatste fout: %3$s"
+
+#: includes/class-pw-gift-card.php:515
+msgid "Unknown error in add_card method."
+msgstr "Onbekende fout in add_card methode."
+
+#. translators: %1$s is the property name, %2$s is the class name.
+#: includes/class-pw-gift-card.php:586
+msgid "Property %1$s does not exist on %2$s"
+msgstr "Eigenschap %1$s bestaat niet op %2$s"
+
+#: includes/class-wc-product-pw-gift-card.php:325
+msgid "Amount already exists: "
+msgstr "Bedrag bestaat al: "
+
+#: includes/class-wc-product-pw-gift-card.php:338
+msgid "Could not create variation."
+msgstr "Kon geen variatie aanmaken."
+
+#: includes/class-wc-product-pw-gift-card.php:359
+msgid "Could not locate variation using variation_id "
+msgstr "Kon variatie niet vinden met behulp van variation_id "
+
+#: includes/class-wc-product-pw-gift-card.php:690
+msgid "Select amount"
+msgstr "Selecteer bedrag"
+
+#: includes/emails/class-wc-email-pw-gift-card.php:13
+msgid "PW Gift Card Email"
+msgstr "PW Gift Card Email"
+
+#: includes/emails/class-wc-email-pw-gift-card.php:14
+msgid "This email is sent to the recipients of a gift card."
+msgstr "Deze email is verstuurd naar de ontvanger van de cadeaubon."
+
+#: includes/emails/class-wc-email-pw-gift-card.php:16
+msgid "You were given a gift card"
+msgstr "Je hebt een cadeaubon gekregen"
+
+#: includes/emails/class-wc-email-pw-gift-card.php:17
+msgid "{sender} sent you a gift card"
+msgstr "{sender} heeft je een cadeaubon gestuurd"
+
+#: includes/emails/class-wc-email-pw-gift-card.php:151
+msgid "Gift Card for Order #"
+msgstr "Gift Card for Order #"
+
+#: includes/emails/class-wc-email-pw-gift-card.php:393
+msgid "Enable/Disable"
+msgstr "Inschakelen/Uitschakelen"
+
+#: includes/emails/class-wc-email-pw-gift-card.php:395
+msgid "Enable this email notification"
+msgstr "Deze e-mailnotificatie inschakelen"
+
+#: includes/emails/class-wc-email-pw-gift-card.php:399
+msgid "Subject"
+msgstr "Onderwerp"
+
+#. translators: %s is the default email subject line.
+#: includes/emails/class-wc-email-pw-gift-card.php:402
+msgid ""
+"This controls the email subject line. Leave blank to use the default "
+"subject: <code>%s</code>."
+msgstr ""
+"Hiermee wordt de onderwerpregel van de e-mail beheerd. Laat dit leeg om het "
+"standaard-onderwerp formaat te gebruiken: <code>%s</code>."
+
+#: includes/emails/class-wc-email-pw-gift-card.php:407
+msgid "Email Heading"
+msgstr "Email Titel"
+
+#. translators: %s is the default heading string.
+#: includes/emails/class-wc-email-pw-gift-card.php:410
+msgid ""
+"This controls the main heading contained within the email notification. "
+"Leave blank to use the default heading: <code>%s</code>."
+msgstr ""
+"Hiermee regelt u de opmaak van de titel van de e-mailmelding. Laat dit leeg "
+"om de standaardtitel opmaak te gebruiken: <code>%s</code>."
+
+#: includes/emails/class-wc-email-pw-gift-card.php:415
+msgid "Email type"
+msgstr "Email type"
+
+#: includes/emails/class-wc-email-pw-gift-card.php:417
+msgid "Choose which format of email to send."
+msgstr "Kies welk e-mailformaat je wilt verzenden."
+
+#: includes/emails/class-wc-email-pw-gift-card.php:421
+msgid "Plain text"
+msgstr "Platte tekst"
+
+#: includes/emails/class-wc-email-pw-gift-card.php:422
+msgid "HTML"
+msgstr "HTML"
+
+#: includes/emails/class-wc-email-pw-gift-card.php:423
+msgid "Multipart"
+msgstr "Multipart"
+
+#: includes/pw-gift-cards-email-designer.php:28
+msgid "Top"
+msgstr "Top"
+
+#: includes/pw-gift-cards-email-designer.php:29
+msgid "Before recipient"
+msgstr "Voor de ontvanger"
+
+#: includes/pw-gift-cards-email-designer.php:30
+msgid "Before Gift Card"
+msgstr "Voor Cadeaubon"
+
+#: includes/pw-gift-cards-email-designer.php:31
+msgid "Gift Card Top"
+msgstr "Cadeaubon bovenzijde"
+
+#: includes/pw-gift-cards-email-designer.php:32
+msgid "Gift Card Bottom"
+msgstr "Cadeaubon Bodem"
+
+#: includes/pw-gift-cards-email-designer.php:33
+msgid "After Gift Card"
+msgstr "Na Cadeaubon"
+
+#: includes/pw-gift-cards-email-designer.php:34
+msgid "Bottom"
+msgstr "Onderkant"
+
+#: includes/pw-gift-cards-email-designer.php:87
+msgid "Default"
+msgstr "Standaard"
+
+#: includes/pw-gift-cards-email-designer.php:88
+msgid "Redeem"
+msgstr "Inwisselen"
+
+#: includes/pw-gift-cards-email-designer.php:94
+msgid "View or print your gift card."
+msgstr "Bekijk of print uw cadeaubon."
+
+#. translators: %s is the store name (blog name)
+#: includes/pw-gift-cards-email-designer.php:98
+#: templates/woocommerce/emails/plain/customer-pw-gift-card.php:8
+msgid "%s Gift Card"
+msgstr "%s Cadeaubon"
+
+#: includes/pw-gift-cards-email-designer.php:108
+msgid "Happy Birthday"
+msgstr "Fijne Verjaardag"
+
+#: includes/pw-gift-cards-email-designer.php:109
+msgid "Happy Birthday!"
+msgstr "Fijne Verjaardag!"
+
+#: includes/pw-gift-cards-email-designer.php:129
+msgid "Happy Anniversary"
+msgstr "Gelukkige Verjaardag"
+
+#: includes/pw-gift-cards-email-designer.php:130
+msgid "Happy Anniversary!"
+msgstr "Gelukkige Verjaardag!"
+
+#: includes/pw-gift-cards-email-designer.php:150
+msgid "Congratulations"
+msgstr "Gefeliciteerd"
+
+#: includes/pw-gift-cards-email-designer.php:151
+msgid "Congratulations!"
+msgstr "Gefeliciteerd!"
+
+#: includes/pw-gift-cards-email-designer.php:171
+msgid "Happy Holidays"
+msgstr "Fijne feestdagen"
+
+#: includes/pw-gift-cards-email-designer.php:172
+msgid "Happy Holidays!"
+msgstr "Fijne feestdagen!"
+
+#: includes/pw-gift-cards-email-designer.php:192
+msgid "Merry Christmas"
+msgstr "Vrolijk Kerstmis"
+
+#: includes/pw-gift-cards-email-designer.php:193
+msgid "Merry Christmas!"
+msgstr "Vrolijk Kerstmis!"
+
+#: includes/pw-gift-cards-purchasing.php:74
+msgid "Choose an amount"
+msgstr "Kies een bedrag"
+
+#. translators: %s is the minimum order amount.
+#: includes/pw-gift-cards-purchasing.php:168
+msgid "The minimum amount is %s."
+msgstr "Het minimum bedrag is %s."
+
+#. translators: %s is the maximum order amount.
+#: includes/pw-gift-cards-purchasing.php:174
+msgid "The maximum amount is %s."
+msgstr "Het maximum bedrag is %s."
+
+#: includes/pw-gift-cards-purchasing.php:178
+msgid "Amount is required"
+msgstr "Bedrag is vereist"
+
+#. translators: %1$s is the order id, %2$s is the billing first name, %3$s is the billing last name.
+#: includes/pw-gift-cards-purchasing.php:404
+msgid "Order %1$s purchased by %2$s %3$s"
+msgstr "Bestelling %1$s gekocht door %2$s %3$s"
+
+#: includes/pw-gift-cards-purchasing.php:434
+msgid "Unable to retrieve variation "
+msgstr "Variatie kan niet worden gevonden "
+
+#: includes/pw-gift-cards-purchasing.php:504
+msgid "Bonus Gift Card"
+msgstr "Bonus Gift Card"
+
+#: includes/pw-gift-cards-purchasing.php:600
+msgid "Bonus"
+msgstr "Bonus"
+
+#: includes/pw-gift-cards-purchasing.php:664
+msgid "Generated and emailed after the order is marked Complete."
+msgstr "Gemaakt en gemaild nadat de bestelling is gemarkeerd met \"Voltooid\"."
+
+#. translators: %s is the count of gift cards redeemed.
+#: includes/pw-gift-cards-redeeming.php:417
+msgid "Gift card %s:"
+msgid_plural "Gift cards %s:"
+msgstr[0] "Cadeaubon %s:"
+msgstr[1] "Cadeaubon %s:"
+
+#. translators: %s is the shipping method.
+#: includes/pw-gift-cards-redeeming.php:494
+msgid "Shipping via %s"
+msgstr "Verzending via %s"
+
+#: includes/pw-gift-cards-redeeming.php:563
+#: includes/pw-gift-cards-redeeming.php:622
+#: includes/pw-gift-cards-redeeming.php:695 pw-gift-cards.php:227
+msgid "This gift card has a zero balance."
+msgstr "Deze cadeaubon heeft een tegoed van nul euro."
+
+#: includes/pw-gift-cards-redeeming.php:567
+#: includes/pw-gift-cards-redeeming.php:699 pw-gift-cards.php:231
+msgid "Gift card applied."
+msgstr "Cadeaubon gebruikt."
+
+#: includes/pw-gift-cards-redeeming.php:583
+msgid "Gift card removed."
+msgstr "Cadeaubon verwijderd."
+
+#: includes/pw-gift-cards-redeeming.php:615
+msgid "Gift cards cannot be used to purchase other gift cards."
+msgstr ""
+"Cadeaubonnen kunnen niet gebruikt worden om andere cadeaubonnen te kopen."
+
+#: includes/pw-gift-cards-redeeming.php:618
+msgid "This gift card is expired."
+msgstr "Deze cadeaubon heeft een tegoed van nul euro."
+
+#: includes/pw-gift-cards-redeeming.php:625
+#: includes/pw-gift-cards-shortcodes.php:60
+msgid "Card is inactive."
+msgstr "Cadeaubon is niet actief."
+
+#: includes/pw-gift-cards-rest-controller.php:49
+msgid "Unique identifier for the gift card."
+msgstr "Uniek identificatienummer voor de cadeaubon."
+
+#: includes/pw-gift-cards-rest-controller.php:156
+#: includes/pw-gift-cards-rest-controller.php:273
+#: includes/pw-gift-cards-rest-controller.php:365
+msgid "Gift Card Not Found"
+msgstr "Cadeaubon niet gevonden"
+
+#. translators: %s is the gift card number.
+#: includes/pw-gift-cards-rest-controller.php:196
+#: includes/pw-gift-cards-rest-controller.php:277
+msgid "Gift Card Number %s already exists."
+msgstr "Cadeaubonnummer %s bestaat al."
+
+#: includes/pw-gift-cards-rest-controller.php:287
+msgid "Balance must be zero or greater."
+msgstr "De balans moet nul of meer zijn."
+
+#: includes/pw-gift-cards-rest-controller.php:377
+msgid "The specific gift card number to retrieve."
+msgstr "Het specifieke geschenkkaartnummer om op te halen."
+
+#. translators: %s is the default maximum number of rows.
+#: includes/pw-gift-cards-rest-controller.php:382
+msgid "The number of gift cards to retrieve. Default is %s"
+msgstr "Het aantal cadeaubonnen om op te halen. Standaard is %s"
+
+#: includes/pw-gift-cards-rest-controller.php:391
+msgid "The gift card number. Must not exist in the database already."
+msgstr "Het nummer van de cadeaubon. Mag niet al in de database staan."
+
+#: includes/pw-gift-cards-rest-controller.php:396
+msgid ""
+"The number of gift cards to generate. Ignored if the \"number\" parameter "
+"has a value."
+msgstr ""
+"Het aantal te genereren cadeaubonnen. Genegeerd als de parameter \"aantal\" "
+"een waarde heeft."
+
+#: includes/pw-gift-cards-rest-controller.php:400
+msgid "Initial gift card balance."
+msgstr "De eerste balans van de cadeaubon."
+
+#: includes/pw-gift-cards-rest-controller.php:404
+msgid "The expiration date for the gift card."
+msgstr "De vervaldatum van de cadeaubon."
+
+#: includes/pw-gift-cards-rest-controller.php:408
+#: includes/pw-gift-cards-rest-controller.php:469
+msgid ""
+"Set to a true value to email the gift card to the recipient_email specified."
+msgstr ""
+"Stel een echte waarde in om de cadeaubon te e-mailen naar de opgegeven "
+"ontvanger_email."
+
+#: includes/pw-gift-cards-rest-controller.php:412
+#: includes/pw-gift-cards-rest-controller.php:473
+msgid "The email address that will receive the gift card."
+msgstr "Het e-mailadres dat de cadeaubon zal ontvangen."
+
+#: includes/pw-gift-cards-rest-controller.php:416
+#: includes/pw-gift-cards-rest-controller.php:477
+msgid ""
+"The friendly name of the recipient of the gift card. Shown on the gift card "
+"email."
+msgstr ""
+"De vriendelijke naam van de ontvanger van de cadeaubon. Wordt vermeld in de "
+"e-mail met de cadeaubon."
+
+#: includes/pw-gift-cards-rest-controller.php:420
+#: includes/pw-gift-cards-rest-controller.php:481
+msgid ""
+"The friendly name of the person who sent the gift card to the recipient."
+msgstr ""
+"De vriendelijke naam van de persoon die de cadeaubon naar de ontvanger heeft "
+"gestuurd."
+
+#: includes/pw-gift-cards-rest-controller.php:424
+#: includes/pw-gift-cards-rest-controller.php:485
+msgid "The body of the message added to the email."
+msgstr "De inhoud van het bericht dat aan de e-mail is toegevoegd."
+
+#: includes/pw-gift-cards-rest-controller.php:428
+msgid ""
+"Adds a note to the gift card activity record when the gift card is created."
+msgstr ""
+"Voegt een notitie toe aan het activiteitenverslag van de cadeaubon wanneer "
+"de cadeaubon wordt aangemaakt."
+
+#: includes/pw-gift-cards-rest-controller.php:432
+#: includes/pw-gift-cards-rest-controller.php:493
+msgid "The database ID of the Email Design to use when sending the gift card."
+msgstr ""
+"De database ID van het E-mailontwerp om te gebruiken bij het verzenden van "
+"de cadeaubon."
+
+#: includes/pw-gift-cards-rest-controller.php:436
+#: includes/pw-gift-cards-rest-controller.php:497
+msgid ""
+"The originating product_id to use for this gift card. Used for redemption "
+"validation."
+msgstr ""
+"Het oorspronkelijke product_id dat voor deze geschenkbon moet worden "
+"gebruikt. Wordt gebruikt voor de validatie van de terugbetaling."
+
+#: includes/pw-gift-cards-rest-controller.php:440
+#: includes/pw-gift-cards-rest-controller.php:501
+msgid ""
+"The originating variation_id to use for this gift card. Used for redemption "
+"validation."
+msgstr ""
+"De oorspronkelijke variatie_id die voor deze cadeaubon moet worden gebruikt. "
+"Wordt gebruikt voor de validatie van de terugbetaling."
+
+#: includes/pw-gift-cards-rest-controller.php:444
+#: includes/pw-gift-cards-rest-controller.php:505
+msgid ""
+"The originating order_item_id to use for this gift card. Used for record "
+"keeping purposes."
+msgstr ""
+"Het oorspronkelijke order_item_id dat voor deze cadeaubon moet worden "
+"gebruikt. Wordt gebruikt om gegevens bij te houden."
+
+#: includes/pw-gift-cards-rest-controller.php:453
+msgid ""
+"Changes the gift card number to this value. Must not exist in the database "
+"already."
+msgstr ""
+"Verandert het nummer van de cadeaubon in deze waarde. Mag niet al in de "
+"database staan."
+
+#: includes/pw-gift-cards-rest-controller.php:457
+msgid "Balance adjustment amount. Can be positive or negative."
+msgstr "Balansaanpassingsbedrag. Kan positief of negatief zijn."
+
+#: includes/pw-gift-cards-rest-controller.php:461
+msgid ""
+"Set the balance to a specific value. This will add a transaction for the "
+"appropriate amount to set the balance to this value."
+msgstr ""
+"Stel het saldo in op een specifieke waarde. Dit zal een transactie toevoegen "
+"voor het juiste bedrag om het saldo op deze waarde in te stellen."
+
+#: includes/pw-gift-cards-rest-controller.php:465
+msgid ""
+"The expiration date for the gift card. Send an empty value to clear the "
+"expiration date."
+msgstr ""
+"De vervaldatum van de cadeaubon. Stuur een lege waarde om de vervaldatum te "
+"wissen."
+
+#: includes/pw-gift-cards-rest-controller.php:489
+msgid "Adds a note to the gift card activity record."
+msgstr "Voegt een notitie toe aan het activiteitenverslag van de cadeaubon."
+
+#: includes/pw-gift-cards-rest-controller.php:509
+msgid ""
+"Send a true value to deactivate the gift card. Send a false value to "
+"reactivate a previously deactivated gift card."
+msgstr ""
+"Stuur een echte waarde om de cadeaubon te deactiveren. Stuur een valse "
+"waarde om een eerder gedeactiveerde cadeaubon opnieuw te activeren."
+
+#: includes/pw-gift-cards-rest-controller.php:519
+msgid "Whether to bypass trash and force deletion."
+msgstr "Of omzeilen prullenbak en forceren verwijderen."
+
+#: pw-gift-cards.php:127
+msgid "Other amount"
+msgstr "Ander bedrag"
+
+#: pw-gift-cards.php:133
+msgid "Gift Card Amount"
+msgstr "Cadeaubon bedrag"
+
+#: pw-gift-cards.php:137
+msgid "Adding to Gift Card"
+msgstr "Cadeaubon tegoed"
+
+#: pw-gift-cards.php:138
+msgid "Reloaded"
+msgstr "Reloaded"
+
+#: pw-gift-cards.php:140
+#: templates/woocommerce/emails/customer-pw-gift-card.php:124
+msgid "To"
+msgstr "Voor"
+
+#: pw-gift-cards.php:144 pw-gift-cards.php:415
+msgid "Delivery Date"
+msgstr "Leverdatum"
+
+#: pw-gift-cards.php:145
+msgid "Bonus Amount"
+msgstr "Bonus Hoogte"
+
+#: pw-gift-cards.php:146
+msgid "Design"
+msgstr "Ontwerp"
+
+#: pw-gift-cards.php:281
+msgid "Required"
+msgstr "Verplicht"
+
+#: pw-gift-cards.php:282
+msgid "Amount to debit?"
+msgstr "Bedoeld om te debiteren?"
+
+#. translators: %s is the woocommerce currency symbol.
+#: pw-gift-cards.php:285
+msgid "Minimum amount is %s"
+msgstr "Minimum bedrag is %s"
+
+#. translators: %s is the woocommerce currency symbol.
+#: pw-gift-cards.php:287
+msgid "Maximum amount is %s"
+msgstr "Het maxium bedrag is %s"
+
+#: pw-gift-cards.php:288
+msgid ""
+"The \"To\" field should only contain email addresses. The following "
+"recipients do not look like valid email addresses:"
+msgstr ""
+"Het veld \"Voor\" mag alleen e-mailadressen bevatten. De volgende ontvangers "
+"zien er niet uit als geldige e-mailadressen:"
+
+#: pw-gift-cards.php:291
+msgid "January"
+msgstr "Januari"
+
+#: pw-gift-cards.php:292
+msgid "February"
+msgstr "Februari"
+
+#: pw-gift-cards.php:293
+msgid "March"
+msgstr "Maart"
+
+#: pw-gift-cards.php:294
+msgid "April"
+msgstr "April"
+
+#: pw-gift-cards.php:295
+msgid "May"
+msgstr "Mei"
+
+#: pw-gift-cards.php:296
+msgid "June"
+msgstr "Juni"
+
+#: pw-gift-cards.php:297
+msgid "July"
+msgstr "Juli"
+
+#: pw-gift-cards.php:298
+msgid "August"
+msgstr "Augustus"
+
+#: pw-gift-cards.php:299
+msgid "September"
+msgstr "September"
+
+#: pw-gift-cards.php:300
+msgid "October"
+msgstr "Oktober"
+
+#: pw-gift-cards.php:301
+msgid "November"
+msgstr "November"
+
+#: pw-gift-cards.php:302
+msgid "December"
+msgstr "December"
+
+#: pw-gift-cards.php:303
+msgid "Sun"
+msgstr "Zo"
+
+#: pw-gift-cards.php:304
+msgid "Mon"
+msgstr "Ma"
+
+#: pw-gift-cards.php:305
+msgid "Tue"
+msgstr "Di"
+
+#: pw-gift-cards.php:306
+msgid "Wed"
+msgstr "Wo"
+
+#: pw-gift-cards.php:307
+msgid "Thu"
+msgstr "Do"
+
+#: pw-gift-cards.php:308
+msgid "Fri"
+msgstr "Vr"
+
+#: pw-gift-cards.php:309
+msgid "Sat"
+msgstr "Za"
+
+#: pw-gift-cards.php:310 pw-gift-cards.php:317
+msgid "Sunday"
+msgstr "Zondag"
+
+#: pw-gift-cards.php:311
+msgid "Monday"
+msgstr "Maandag"
+
+#: pw-gift-cards.php:312
+msgid "Tuesday"
+msgstr "Dinsdag"
+
+#: pw-gift-cards.php:313
+msgid "Wednesday"
+msgstr "Woensdag"
+
+#: pw-gift-cards.php:314
+msgid "Thursday"
+msgstr "Donderdag"
+
+#: pw-gift-cards.php:315
+msgid "Friday"
+msgstr "Vrijdag"
+
+#: pw-gift-cards.php:316
+msgid "Saturday"
+msgstr "Zaterdag"
+
+#. translators: %s is the WooCommerce minimum version number.
+#: pw-gift-cards.php:473
+msgid "Requires WooCommerce version %s or later."
+msgstr "Vereist WooCommerce versie %s of later."
+
+#: templates/woocommerce/cart/apply-gift-card-after-cart-contents.php:21
+msgid "Gift Card:"
+msgstr "Cadeaubon:"
+
+#: templates/woocommerce/cart/apply-gift-card-after-cart-contents.php:22
+#: templates/woocommerce/cart/apply-gift-card.php:34
+#: templates/woocommerce/checkout/coupon-area-pw-gift-card.php:21
+#: templates/woocommerce/checkout/payment-method-pw-gift-card.php:16
+msgid "Gift card number"
+msgstr "Cadeaubon nummer"
+
+#: templates/woocommerce/cart/apply-gift-card-after-cart-contents.php:23
+#: templates/woocommerce/checkout/coupon-area-pw-gift-card.php:25
+msgid "Apply gift card"
+msgstr "Toepassen"
+
+#: templates/woocommerce/cart/apply-gift-card-after-cart-contents.php:23
+#: templates/woocommerce/cart/apply-gift-card.php:35
+#: templates/woocommerce/checkout/coupon-area-pw-gift-card.php:25
+#: templates/woocommerce/checkout/payment-method-pw-gift-card.php:17
+msgid "Please wait..."
+msgstr "Ogenblik a.u.b."
+
+#: templates/woocommerce/cart/apply-gift-card.php:32
+#: templates/woocommerce/checkout/coupon-area-pw-gift-card.php:13
+#: templates/woocommerce/checkout/payment-method-pw-gift-card.php:14
+msgid "Have a gift card?"
+msgstr "Heb je een Cadeaubon?"
+
+#: templates/woocommerce/cart/cart-pw-gift-card.php:26
+#: templates/woocommerce/checkout/pw-gift-cards.php:27
+msgid "Gift card"
+msgstr "Cadeaubon"
+
+#. translators: %s is the formatted balance.
+#: templates/woocommerce/cart/cart-pw-gift-card.php:31
+#: templates/woocommerce/checkout/pw-gift-cards.php:30
+msgid "Remaining balance is %s"
+msgstr "Resterend saldo is %s"
+
+#: templates/woocommerce/cart/cart-pw-gift-card.php:45
+msgid "Gift Card Total"
+msgstr "Cadeaubon Totaal"
+
+#: templates/woocommerce/cart/cart-pw-gift-card.php:47
+#: templates/woocommerce/checkout/pw-gift-cards.php:45
+msgid "[Remove]"
+msgstr "[Verwijder]"
+
+#: templates/woocommerce/checkout/coupon-area-pw-gift-card.php:13
+msgid "Click here to enter your gift card number"
+msgstr "Klik hier om het nummer van je Cadeaubon in te vullen"
+
+#: templates/woocommerce/checkout/coupon-area-pw-gift-card.php:18
+msgid "If you have a gift card number, please apply it below."
+msgstr "ALs je een cadeaubon hebt, vul hieronder het nummer in."
+
+#: templates/woocommerce/checkout/payment-method-pw-gift-card.php:17
+msgid "Apply Gift Card"
+msgstr "Cadeaubon toepassen"
+
+#: templates/woocommerce/emails/customer-pw-gift-card.php:187
+#: templates/woocommerce/pw-gift-cards/balance.php:94
+msgid "Expires"
+msgstr "Vervalt"
+
+#. translators: %s is the gift card amount.
+#: templates/woocommerce/emails/plain/customer-pw-gift-card.php:11
+msgid "Amount: %s"
+msgstr "Bedrag: %s"
+
+#. translators: %s is the gift card number.
+#: templates/woocommerce/emails/plain/customer-pw-gift-card.php:14
+msgid "Gift card number: %s"
+msgstr "Cadeaubon nummer: %s"
+
+#. translators: %s is the link to redeem the gift card.
+#: templates/woocommerce/emails/plain/customer-pw-gift-card.php:17
+msgid "Link: %s"
+msgstr "Link: %s"
+
+#: templates/woocommerce/emails/plain/customer-pw-gift-card.php:21
+msgid "Message:"
+msgstr "Bericht:"
+
+#: templates/woocommerce/pw-gift-cards/balance.php:79
+msgid "Check Gift Card Balance"
+msgstr "Controleer het cadeaubon saldo"
+
+#: templates/woocommerce/pw-gift-cards/balance.php:83
+msgid "Check Balance"
+msgstr "Check saldo"
+
+#: templates/woocommerce/pw-gift-cards/balance.php:105
+msgid "Add more funds to this gift card."
+msgstr "Voeg meer geld toe aan deze gift card."
+
+#: templates/woocommerce/pw-gift-cards/balance.php:112
+msgid "Debit Balance"
+msgstr "Debetsaldo"
+
+#: templates/woocommerce/single-product/add-to-cart/pw-gift-card-before-add-to-cart-quantity.php:143
+msgid ""
+"Gift card will be delivered to the Shipping Address entered during checkout."
+msgstr ""
+"De cadeaubon wordt verstuurd naar het ingevoerde adres bij het afronden van "
+"de bestelling."
+
+#: templates/woocommerce/single-product/add-to-cart/pw-gift-card-before-add-to-cart-quantity.php:151
+msgid "Enter an email address for each recipient"
+msgstr "Voer het emailadres in, van elke ontvanger"
+
+#: templates/woocommerce/single-product/add-to-cart/pw-gift-card-before-add-to-cart-quantity.php:152
+msgid "Separate multiple email addresses with a comma."
+msgstr "Scheid meerdere e-mailadressen met een komma."
+
+#: templates/woocommerce/single-product/add-to-cart/pw-gift-card-before-add-to-cart-quantity.php:174
+msgid "Enter a friendly name for the recipient (optional)."
+msgstr "Geef een beschrijvende naam op voor de geadresseerde (optioneel)."
+
+#: templates/woocommerce/single-product/add-to-cart/pw-gift-card-before-add-to-cart-quantity.php:182
+msgid "Your name"
+msgstr "Jouw naam"
+
+#: templates/woocommerce/single-product/add-to-cart/pw-gift-card-before-add-to-cart-quantity.php:187
+msgid "Add a message"
+msgstr "Bericht"
+
+#: templates/woocommerce/single-product/add-to-cart/pw-gift-card-before-add-to-cart-quantity.php:188
+msgid "characters remaining"
+msgstr "tekens resterend"
+
+#: templates/woocommerce/single-product/add-to-cart/pw-gift-card-before-add-to-cart-quantity.php:196
+msgid "Now"
+msgstr "Nu"
+
+#: templates/woocommerce/single-product/add-to-cart/pw-gift-card-before-add-to-cart-quantity.php:197
+msgid "Up to a year from today"
+msgstr "Tot een jaar vanaf vandaag"
+
+#: templates/woocommerce/single-product/add-to-cart/pw-gift-card-before-add-to-cart-quantity.php:250
+msgid "Quantity"
+msgstr "Aantal"
+
+#: templates/woocommerce/single-product/add-to-cart/pw-gift-card-before-add-to-cart-quantity.php:251
+msgid "1 to each recipient"
+msgstr "1 naar elke ontvanger"
+
+#: templates/woocommerce/single-product/add-to-cart/pw-gift-card-reload.php:54
+msgid "You are adding funds to the following gift card:"
+msgstr "U voegt fondsen toe aan de volgende Gift Card:"
+
+#~ msgid "The gift card was permanently deleted from the database."
+#~ msgstr "De cadeaubon is definitief uit de database verwijderd."
+
+#~ msgid "Created %s gift cards."
+#~ msgstr "%s cadeaubonnen aangemaakt."
+
+#~ msgid "Error: %s"
+#~ msgstr "Fout: %s"
+
+#~ msgid ""
+#~ "The available denominations that can be purchased. For example: "
+#~ "%1$s25.00, %1$s50.00, %1$s100.00"
+#~ msgstr ""
+#~ "De beschikbare coupures die kunnen worden gekocht. Bijvoorbeeld: "
+#~ "%1$s25.00, %1$s50.00, %1$s100.00"
+
+#~ msgid "Expiration date (optional)"
+#~ msgstr "Vervaldatum (optioneel)"
+
+#~ msgid ""
+#~ "Recipient Email (optional) - Will be emailed the gift card immediately."
+#~ msgstr ""
+#~ "Ontvanger E-mail (optioneel) - Zal de cadeaubon onmiddellijk per e-mail "
+#~ "worden gemaild."
+
+#~ msgid "Note (optional) - Shown to the Recipient in the gift card email."
+#~ msgstr ""
+#~ "Opmerking (optioneel) - Wordt aan de ontvanger getoond in de e-mail van "
+#~ "de cadeaubon."
+
+#~ msgid "From (optional)"
+#~ msgstr "Van (facultatief)"
+
+#~ msgid "Import Card Numbers"
+#~ msgstr "Importeer Cadeaubon nummers"
+
+#~ msgid "Need help? Email %s"
+#~ msgstr "Hulp nodig? Email %s"
+
+#~ msgid "Leave a review on WordPress.org."
+#~ msgstr "Laat een recensie achter op WordPress.org."
+
+#~ msgid "The email sent to the recipient will feature this design."
+#~ msgstr ""
+#~ "De e-mail die naar de ontvanger wordt gestuurd zal dit ontwerp bevatten."
+
+#~ msgid "Commission (%)"
+#~ msgstr "Commissie (%)"
+
+#~ msgid "Set the commission for this product."
+#~ msgstr "Stel de Commissie voor dit product."
+
+#~ msgid "Email %s if you need assistance."
+#~ msgstr "Email %s als je hulp nodig hebt."
+
+#~ msgid "Orders"
+#~ msgstr "Bestellingen"
+
+#~ msgid "PW Gift Card Redeemed."
+#~ msgstr "PW Cadeaubon ingewisseld."
+
+#~ msgid "Balance is currently %s, unable to adjust by %s"
+#~ msgstr "Het saldo is momenteel %s, en kan niet worden aangepast met %s"
+
+#~ msgid "Failed to generate a unique random card number after %d attempts. %s"
+#~ msgstr "Kon na %d pogingen geen uniek willekeurig kaartnummer genereren. %s"
+
+#~ msgid "Previous Month"
+#~ msgstr "Vorige maand"
+
+#~ msgid "Next Month"
+#~ msgstr "Volgende maand"
+
+#~ msgid ""
+#~ "Please consider <%s>leaving a review on WordPress.org</a>. This really "
+#~ "helps us out!"
+#~ msgstr ""
+#~ "Overweeg <%s>een beoordeling achter te laten op WordPress.org</a>. Dit "
+#~ "helpt ons echt!"
+
+#~ msgid ""
+#~ "Create a page with the <a href=\"https://support.wordpress.com/shortcodes/"
+#~ "\" target=\"_blank\">shortcode</a>"
+#~ msgstr ""
+#~ "Maak een pagina met de <a href=\"https://support.wordpress.com/shortcodes/"
+#~ "\" target=\"_blank\">shortcode</a>"
+
+#~ msgid ""
+#~ "PW WooCommerce Gift Cards is not compatible with the Advanced Dynamic "
+#~ "Pricing For WooCommerce plugin. Customers will not be able to redeem gift "
+#~ "cards online. Please deactivate the ADP plugin to continue using gift "
+#~ "cards. See <a href=\"https://wordpress.org/support/topic/priority-"
+#~ "php_int_max-for-woocommerce_after_calculate_totals\" target=\"_blank"
+#~ "\">this post on WordPress.org</a> for the latest information."
+#~ msgstr ""
+#~ "PW WooCommerce Gift Cards is niet compatibel met de Advanced Dynamic "
+#~ "Pricing For WooCommerce plugin. Klanten kunnen de cadeaubonnen niet "
+#~ "online inwisselen. Deactiveer de ADP-plugin om door te gaan met het "
+#~ "gebruik van cadeaubonnen. Zie <a href=\"https://wordpress.org/support/"
+#~ "topic/priority-php_int_max-for-woocommerce_after_calculate_totals\" "
+#~ "target=\"_blank\">dit bericht op WordPress.org</a> voor de laatste "
+#~ "informatie."
+
+#~ msgid "Hide"
+#~ msgstr "Verberg"
+
+#~ msgid "Bonus Card"
+#~ msgstr "Bonus Card"
+
+#~ msgid "License is %s"
+#~ msgstr "Licentie is %s"
+
+#~ msgid "Error while validating license: "
+#~ msgstr "Fout bij het valideren van de licentie: "
+
+#~ msgid "Invalid Email Notification"
+#~ msgstr "Ongeldige e-mail melding"
+
+#~ msgid ""
+#~ "Enter the email address (or addresses, comma separated) that should get "
+#~ "the gift card email notification when there is a problem sending to the "
+#~ "recipient."
+#~ msgstr ""
+#~ "Vul het emailadres in van degene als er een probleem is met het verzenden "
+#~ "van de kadobon."
+
+#~ msgid "Error: "
+#~ msgstr "Fout: "

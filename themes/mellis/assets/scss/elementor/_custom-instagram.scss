@@ -1,0 +1,125 @@
+.ova-customize-instagram{
+	.insta-gallery-feed .insta-gallery-list .insta-gallery-item .insta-gallery-icon, .qligg-mfp-wrap .insta-gallery-list .insta-gallery-item .insta-gallery-icon{
+        top: 50% !important;
+	    bottom: unset !important;
+	    left: 50%;
+	    transform: translate(-50%, -50%);
+	    margin: 0;
+	}
+}
+
+// ova hide element
+.ova-hide-element-min1024-max1300{ 
+	@media (min-width: 1024px) and (max-width: 1300px) {
+		display: none;
+	}
+}
+.ova-hide-element-min1024-max1450{ 
+	@media (min-width: 1024px) and (max-width: 1450px) {
+		display: none;
+	}
+}
+.ova-hide-element-min1024-max1650{ 
+	@media (min-width: 1024px) and (max-width: 1650px) {
+		display: none;
+	}
+}
+
+// Gap
+.ova-element-column-gap-40px {
+	.elementor-widget-wrap {
+		column-gap: 40px;
+	}
+}
+.ova-element-column-gap-30px {
+	.elementor-widget-wrap {
+		column-gap: 30px;
+	}
+}
+.ova-element-column-gap-20px {
+	.elementor-widget-wrap {
+		column-gap: 20px;
+	}
+}
+
+// Margin
+.ova-element-column-margin-right-75px {
+	.elementor-widget-wrap {
+		margin: 0 75px 0 0;
+	}
+}
+.ova-element-column-margin-right-50px {
+	.elementor-widget-wrap {
+		margin: 0 50px 0 0;
+	}
+}
+.ova-element-column-margin-right-35px {
+	.elementor-widget-wrap {
+		margin: 0 35px 0 0;
+	}
+}
+
+.ova-element-column-margin-left-75px {
+	.elementor-widget-wrap {
+		margin: 0 0 0 75px;
+	}
+}
+
+.ova-element-column-margin-left-50px {
+	.elementor-widget-wrap {
+		margin: 0 0 0 50px;
+	}
+}
+.ova-element-column-margin-left-35px {
+	.elementor-widget-wrap {
+		margin: 0 0 0 35px;
+	}
+}
+
+// RTL
+.rtl {
+	.ova-element-column-margin-right-75px {
+		.elementor-widget-wrap {
+			margin: 0 0 0 75px;
+		}
+	}
+	.ova-element-column-margin-right-50px {
+		.elementor-widget-wrap {
+			margin: 0 0 0 50px;
+		}
+	}
+	.ova-element-column-margin-right-35px {
+		.elementor-widget-wrap {
+			margin: 0 0 0 35px;
+		}
+	}
+	.ova-element-column-margin-left-75px {
+		.elementor-widget-wrap {
+			margin: 0 75px 0 0;
+		}
+	}
+	.ova-element-column-margin-left-50px {
+		.elementor-widget-wrap {
+			margin: 0 50px 0 0;
+		}
+	}
+	.ova-element-column-margin-left-35px {
+		.elementor-widget-wrap {
+			margin: 0 35px 0 0;
+		}
+	}
+
+	.ovartl-bg-bottom-right {
+		background-position: bottom right!important;
+	}
+	.ovartl-bg-overlay-center-right {
+		.elementor-background-overlay {
+			background-position: center right!important;
+		}
+	}
+	.ovartl-bg-overlay-center-left {
+		.elementor-background-overlay {
+			background-position: center left!important;
+		}
+	}
+}
